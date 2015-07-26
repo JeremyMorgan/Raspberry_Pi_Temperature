@@ -36,6 +36,8 @@ def read_temp():
         temp_f = temp_c * 9.0 / 5.0 + 32.0
         return temp_f
 
+## Please add some authentication or a secret here!
+
 url = 'https://yourfirebaseapp.firebaseio.com/readings.json'
 
 postdata = {
