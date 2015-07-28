@@ -1,0 +1,6032 @@
+{
+  "readings" : {
+    "-JvCJGxhShyh2MByncWn" : {
+      "date" : "1437963721",
+      "temp" : "79.8116"
+    },
+    "-JvCJVjgpR4WyRGAGzDw" : {
+      "date" : "1437963781",
+      "temp" : "80.375"
+    },
+    "-JvCJjHtdBFsZt1IwQ8R" : {
+      "date" : "1437963841",
+      "temp" : "80.375"
+    },
+    "-JvCJy3pqHfaUq6RJnH9" : {
+      "date" : "1437963902",
+      "temp" : "80.2616"
+    },
+    "-JvCKBb6j4qyd4q2VhKN" : {
+      "date" : "1437963961",
+      "temp" : "80.15"
+    },
+    "-JvCKQODmXl8Up9wgPDT" : {
+      "date" : "1437964022",
+      "temp" : "80.2616"
+    },
+    "-JvCKe0j1R-x15JRPWbX" : {
+      "date" : "1437964081",
+      "temp" : "80.2616"
+    },
+    "-JvCKsYjYg9UbEgRZubW" : {
+      "date" : "1437964141",
+      "temp" : "79.925"
+    },
+    "-JvCL2nIlnTdQFH83dNU" : {
+      "date" : "1437964187",
+      "temp" : "79.925"
+    },
+    "-JvCL6Kmmn4p9hEHqwFC" : {
+      "date" : "1437964202",
+      "temp" : "79.8116"
+    },
+    "-JvCLKruuUombbnXqdyg" : {
+      "date" : "1437964261",
+      "temp" : "85.8866"
+    },
+    "-JvCLZdxFiEYfnnwf8jc" : {
+      "date" : "1437964322",
+      "temp" : "86.0"
+    },
+    "-JvCLnC0mxn73JvWsnol" : {
+      "date" : "1437964381",
+      "temp" : "84.5366"
+    },
+    "-JvCM0jEzIZ7NB4U-JVi" : {
+      "date" : "1437964441",
+      "temp" : "83.75"
+    },
+    "-JvCMFWXtHCQpUoRLCVj" : {
+      "date" : "1437964501",
+      "temp" : "85.325"
+    },
+    "-JvCMU2h2U7jMOFRw3xZ" : {
+      "date" : "1437964561",
+      "temp" : "87.0116"
+    },
+    "-JvCMhpt6J2sQcONQ8c9" : {
+      "date" : "1437964622",
+      "temp" : "85.2116"
+    },
+    "-JvCMwMuK62REYFXrekc" : {
+      "date" : "1437964681",
+      "temp" : "82.2866"
+    },
+    "-JvCNA8gady8pn6qgEAu" : {
+      "date" : "1437964742",
+      "temp" : "80.6"
+    },
+    "-JvCNOgZJ5tsEWaKqKXi" : {
+      "date" : "1437964801",
+      "temp" : "79.3616"
+    },
+    "-JvCNcV7tigj9j-4OZMG" : {
+      "date" : "1437964862",
+      "temp" : "78.575"
+    },
+    "-JvCNr1Pjk9QO2koekG0" : {
+      "date" : "1437964921",
+      "temp" : "78.125"
+    },
+    "-JvCO4ZrwccbSvorTN3M" : {
+      "date" : "1437964981",
+      "temp" : "77.7866"
+    },
+    "-JvCOJMEQaxUQDPGe-za" : {
+      "date" : "1437965041",
+      "temp" : "77.5616"
+    },
+    "-JvCOXtokXTQooikCvGp" : {
+      "date" : "1437965101",
+      "temp" : "77.3366"
+    },
+    "-JvCOlfZp8jG23iGejiK" : {
+      "date" : "1437965162",
+      "temp" : "77.225"
+    },
+    "-JvCP-Cq4KpE3irNzs8C" : {
+      "date" : "1437965221",
+      "temp" : "77.225"
+    },
+    "-JvCPDzh-uKt-sBYxwYE" : {
+      "date" : "1437965282",
+      "temp" : "77.1116"
+    },
+    "-JvCPSXAaax4Nc5bg9eZ" : {
+      "date" : "1437965341",
+      "temp" : "77.0"
+    },
+    "-JvCPgK73dZ0aIV0e_5z" : {
+      "date" : "1437965402",
+      "temp" : "76.775"
+    },
+    "-JvCPuyWP6sX58NlwHdj" : {
+      "date" : "1437965461",
+      "temp" : "76.6616"
+    },
+    "-JvCQ8Y9C6BY4WV7qUhW" : {
+      "date" : "1437965521",
+      "temp" : "76.6616"
+    },
+    "-JvCQN4xWjFqBZgu0YcU" : {
+      "date" : "1437965581",
+      "temp" : "76.6616"
+    },
+    "-JvCQarqq8kHpnBI0iW5" : {
+      "date" : "1437965642",
+      "temp" : "76.6616"
+    },
+    "-JvCQpOoRSmcjYarzATw" : {
+      "date" : "1437965701",
+      "temp" : "76.55"
+    },
+    "-JvCR3B5A370DoerlSNe" : {
+      "date" : "1437965762",
+      "temp" : "76.8866"
+    },
+    "-JvCRHilefo56TKqX9d1" : {
+      "date" : "1437965821",
+      "temp" : "77.5616"
+    },
+    "-JvCRWWPc0t72H9gN28-" : {
+      "date" : "1437965882",
+      "temp" : "77.225"
+    },
+    "-JvCRkL3gYuZf2IRdAfq" : {
+      "date" : "1437965941",
+      "temp" : "77.0"
+    },
+    "-JvCRycqylJGWzFqRSlq" : {
+      "date" : "1437966001",
+      "temp" : "76.775"
+    },
+    "-JvCSCPXKE5W2XSjjNDq" : {
+      "date" : "1437966062",
+      "temp" : "76.55"
+    },
+    "-JvCSQwelv6IJxa7ja8z" : {
+      "date" : "1437966121",
+      "temp" : "76.4366"
+    },
+    "-JvCSenZg92MExUB1N6T" : {
+      "date" : "1437966182",
+      "temp" : "76.325"
+    },
+    "-JvCStL1_w_VowhwCPMc" : {
+      "date" : "1437966242",
+      "temp" : "76.2116"
+    },
+    "-JvCT6s1vdT9BMZRLjr0" : {
+      "date" : "1437966301",
+      "temp" : "76.1"
+    },
+    "-JvCTLdt3rUXBZzp2tLU" : {
+      "date" : "1437966362",
+      "temp" : "75.9866"
+    },
+    "-JvCT_B54u0OOJW0-Aqz" : {
+      "date" : "1437966421",
+      "temp" : "75.875"
+    },
+    "-JvCTnxvwUC3dnmbBLLM" : {
+      "date" : "1437966482",
+      "temp" : "75.7616"
+    },
+    "-JvCU1Yz_2neouJ8VRXQ" : {
+      "date" : "1437966541",
+      "temp" : "75.7616"
+    },
+    "-JvCUG50cL7OkwvD0yFj" : {
+      "date" : "1437966601",
+      "temp" : "75.7616"
+    },
+    "-JvCUUrfLR6sIIqAxLXM" : {
+      "date" : "1437966661",
+      "temp" : "75.7616"
+    },
+    "-JvCUiPGXObyUkdmutx2" : {
+      "date" : "1437966721",
+      "temp" : "75.7616"
+    },
+    "-JvCUxB38zLRYchh1DjX" : {
+      "date" : "1437966782",
+      "temp" : "75.65"
+    },
+    "-JvCVAiVW2HqqocOEQAs" : {
+      "date" : "1437966841",
+      "temp" : "75.65"
+    },
+    "-JvCVQj0TJMTp-3obouT" : {
+      "date" : "1437966902",
+      "temp" : "75.65"
+    },
+    "-JvCVd2Q5enxKnErgmVC" : {
+      "date" : "1437966961",
+      "temp" : "75.5366"
+    },
+    "-JvCVrpliiImYlyhoFw6" : {
+      "date" : "1437967022",
+      "temp" : "75.5366"
+    },
+    "-JvCW5N4wpl6FueSWrm-" : {
+      "date" : "1437967081",
+      "temp" : "75.5366"
+    },
+    "-JvCWJtvbGvpiKNDiagJ" : {
+      "date" : "1437967141",
+      "temp" : "75.5366"
+    },
+    "-JvCWYg3MSszI-9tj3sF" : {
+      "date" : "1437967201",
+      "temp" : "75.5366"
+    },
+    "-JvCWmDZMmbLaO7Ykys5" : {
+      "date" : "1437967261",
+      "temp" : "75.5366"
+    },
+    "-JvCX0-alp0iLufKGJbD" : {
+      "date" : "1437967321",
+      "temp" : "75.5366"
+    },
+    "-JvCXEYqTJH63BiyFOGr" : {
+      "date" : "1437967381",
+      "temp" : "75.5366"
+    },
+    "-JvCXTKyGEDrrIKNoY26" : {
+      "date" : "1437967442",
+      "temp" : "75.5366"
+    },
+    "-JvCXgrsyrhbUwrxJlF6" : {
+      "date" : "1437967501",
+      "temp" : "75.425"
+    },
+    "-JvCXvdgaiWQpX4G018E" : {
+      "date" : "1437967562",
+      "temp" : "75.3116"
+    },
+    "-JvCY9As0kewkv5gH_DG" : {
+      "date" : "1437967621",
+      "temp" : "75.3116"
+    },
+    "-JvCYNxXRKwe65mykQgu" : {
+      "date" : "1437967682",
+      "temp" : "75.2"
+    },
+    "-JvCYbV2DvxgTq9CLioI" : {
+      "date" : "1437967741",
+      "temp" : "75.0866"
+    },
+    "-JvCYq1QroWPO1hhP5A4" : {
+      "date" : "1437967801",
+      "temp" : "75.0866"
+    },
+    "-JvCZ3onTLNSN8caYRhB" : {
+      "date" : "1437967861",
+      "temp" : "75.0866"
+    },
+    "-JvCZIMOvsaaOuWl04AG" : {
+      "date" : "1437967921",
+      "temp" : "75.2"
+    },
+    "-JvCZX8IjKWfyBCSxGHj" : {
+      "date" : "1437967982",
+      "temp" : "75.0866"
+    },
+    "-JvCZkfbDM6ZsTOAPEAF" : {
+      "date" : "1437968041",
+      "temp" : "75.0866"
+    },
+    "-JvCZzgb1GTk4U4vwIzs" : {
+      "date" : "1437968102",
+      "temp" : "75.0866"
+    },
+    "-JvC_CzJ11hAfMSGT2tO" : {
+      "date" : "1437968161",
+      "temp" : "74.975"
+    },
+    "-JvC_RlKVAj9hIVia7ic" : {
+      "date" : "1437968222",
+      "temp" : "74.8616"
+    },
+    "-JvC_fIK6SLVso2fDdB8" : {
+      "date" : "1437968281",
+      "temp" : "74.8616"
+    },
+    "-JvC_u5OT0q5nupqfBrs" : {
+      "date" : "1437968342",
+      "temp" : "74.75"
+    },
+    "-JvCa7diqVKLuJ85lPrO" : {
+      "date" : "1437968401",
+      "temp" : "74.8616"
+    },
+    "-JvCaMB9ffxukuVXcST8" : {
+      "date" : "1437968461",
+      "temp" : "74.75"
+    },
+    "-JvCa_yCZm-ErqFb5qdb" : {
+      "date" : "1437968521",
+      "temp" : "74.75"
+    },
+    "-JvCaoVpuAe5XhrIFtPn" : {
+      "date" : "1437968581",
+      "temp" : "74.525"
+    },
+    "-JvCb2IRHFXH6OeACBMG" : {
+      "date" : "1437968642",
+      "temp" : "73.7366"
+    },
+    "-JvCbGpXsUj6Wp5Td_l9" : {
+      "date" : "1437968701",
+      "temp" : "73.2866"
+    },
+    "-JvCbVbR7KvRvSl5f5v2" : {
+      "date" : "1437968762",
+      "temp" : "73.0616"
+    },
+    "-JvCbj8xDZFK5t4U2tsd" : {
+      "date" : "1437968821",
+      "temp" : "72.725"
+    },
+    "-JvCbxvZ-jdzOAuHOo6b" : {
+      "date" : "1437968882",
+      "temp" : "72.6116"
+    },
+    "-JvCcBTDfarLLCQYue98" : {
+      "date" : "1437968941",
+      "temp" : "72.5"
+    },
+    "-JvCcQ-P7hPPxbimEB31" : {
+      "date" : "1437969001",
+      "temp" : "72.275"
+    },
+    "-JvCcdmtLpOBsE6nhG_Z" : {
+      "date" : "1437969061",
+      "temp" : "72.1616"
+    },
+    "-JvCcsKFBSBbFgQ1Kasg" : {
+      "date" : "1437969121",
+      "temp" : "72.3866"
+    },
+    "-JvCd66G1PrYL1d1By6h" : {
+      "date" : "1437969182",
+      "temp" : "72.725"
+    },
+    "-JvCdKdc8ERRtwUBM_k4" : {
+      "date" : "1437969241",
+      "temp" : "72.8366"
+    },
+    "-JvCdZRZZxd9kGAE_KT0" : {
+      "date" : "1437969302",
+      "temp" : "72.95"
+    },
+    "-JvCdmz57XbYK0zGDhj8" : {
+      "date" : "1437969361",
+      "temp" : "72.95"
+    },
+    "-JvCe0knW_GAXYthvSrQ" : {
+      "date" : "1437969422",
+      "temp" : "72.95"
+    },
+    "-JvCeFHrMX99PKYANwY9" : {
+      "date" : "1437969481",
+      "temp" : "72.95"
+    },
+    "-JvCeTpKAxE6fYUHikmQ" : {
+      "date" : "1437969541",
+      "temp" : "72.95"
+    },
+    "-JvCehbGWK6NOhR4ykUc" : {
+      "date" : "1437969601",
+      "temp" : "73.0616"
+    },
+    "-JvCewBYRC26_7FlejC1" : {
+      "date" : "1437969661",
+      "temp" : "73.0616"
+    },
+    "-JvCfAEMc-TBV11aBhWY" : {
+      "date" : "1437969722",
+      "temp" : "73.175"
+    },
+    "-JvCfOlohVes8UNGNv-S" : {
+      "date" : "1437969781",
+      "temp" : "73.0616"
+    },
+    "-JvCfc3s_e0GO3Ubs_y8" : {
+      "date" : "1437969841",
+      "temp" : "72.95"
+    },
+    "-JvCfraKrhzlSCmTAgaw" : {
+      "date" : "1437969901",
+      "temp" : "72.725"
+    },
+    "-JvCg4e9W_Ai30w8VyP4" : {
+      "date" : "1437969961",
+      "temp" : "72.6116"
+    },
+    "-JvCgJBHrbuSRQw7hB-f" : {
+      "date" : "1437970022",
+      "temp" : "72.5"
+    },
+    "-JvCgXinA55rji1idOzU" : {
+      "date" : "1437970081",
+      "temp" : "72.3866"
+    },
+    "-JvCglVvo0Z-r6vbCFWZ" : {
+      "date" : "1437970142",
+      "temp" : "72.275"
+    },
+    "-JvCh-3PzJ3KoF8QbyhG" : {
+      "date" : "1437970201",
+      "temp" : "72.1616"
+    },
+    "-JvChDqS1-8fa4xTA-Tr" : {
+      "date" : "1437970262",
+      "temp" : "72.05"
+    },
+    "-JvChSNy6yr2D6oAsYw9" : {
+      "date" : "1437970321",
+      "temp" : "72.05"
+    },
+    "-JvChfvIYMAd60UdV8O6" : {
+      "date" : "1437970381",
+      "temp" : "71.9366"
+    },
+    "-JvChuhDLnF21VwjTste" : {
+      "date" : "1437970441",
+      "temp" : "72.6116"
+    },
+    "-JvCi8EqW_9XTahs9ZNl" : {
+      "date" : "1437970501",
+      "temp" : "72.95"
+    },
+    "-JvCiN0hXCHoLJCIVg3p" : {
+      "date" : "1437970562",
+      "temp" : "73.175"
+    },
+    "-JvCiaZFLsuxzX6cuViI" : {
+      "date" : "1437970621",
+      "temp" : "73.5116"
+    },
+    "-JvCipKowlxchjy7AYaM" : {
+      "date" : "1437970682",
+      "temp" : "73.625"
+    },
+    "-JvCj2rXIrFccetu3dyA" : {
+      "date" : "1437970741",
+      "temp" : "73.7366"
+    },
+    "-JvCjHdcRADbSTPppFDH" : {
+      "date" : "1437970802",
+      "temp" : "73.85"
+    },
+    "-JvCjWAchzPoAIMrJzOX" : {
+      "date" : "1437970861",
+      "temp" : "73.9616"
+    },
+    "-JvCjjyNVeezMrI5hSyg" : {
+      "date" : "1437970922",
+      "temp" : "73.9616"
+    },
+    "-JvCjyVyHl4i1S65WV-n" : {
+      "date" : "1437970981",
+      "temp" : "74.075"
+    },
+    "-JvCkCI5GGQ5Rw3nlCc5" : {
+      "date" : "1437971041",
+      "temp" : "74.075"
+    },
+    "-JvCkQq6JHtYk-1RTGiS" : {
+      "date" : "1437971101",
+      "temp" : "74.075"
+    },
+    "-JvCkeP1TBncO2uiZg3g" : {
+      "date" : "1437971161",
+      "temp" : "74.075"
+    },
+    "-JvCktBCYrN7iaDqWPdz" : {
+      "date" : "1437971222",
+      "temp" : "74.075"
+    },
+    "-JvCl6iYGQJlEHhjU23l" : {
+      "date" : "1437971281",
+      "temp" : "74.1866"
+    },
+    "-JvClLWVmGQCLk4m8-IA" : {
+      "date" : "1437971342",
+      "temp" : "74.1866"
+    },
+    "-JvCl_2uFqY5a5TROMzJ" : {
+      "date" : "1437971401",
+      "temp" : "74.075"
+    },
+    "-JvClnaI9KId6YmkWV6P" : {
+      "date" : "1437971461",
+      "temp" : "74.1866"
+    },
+    "-JvCm1NMDOJ-OIVd4aRy" : {
+      "date" : "1437971521",
+      "temp" : "74.1866"
+    },
+    "-JvCmFzBuehUmw27quvM" : {
+      "date" : "1437971581",
+      "temp" : "74.1866"
+    },
+    "-JvCmUkhmEYkyeiqVwty" : {
+      "date" : "1437971642",
+      "temp" : "74.1866"
+    },
+    "-JvCmiIptEIuiO-aGEPr" : {
+      "date" : "1437971701",
+      "temp" : "74.3"
+    },
+    "-JvCmwqNiyURQOBnSOK6" : {
+      "date" : "1437971761",
+      "temp" : "74.3"
+    },
+    "-JvCnAZKmCak1s4mdCs7" : {
+      "date" : "1437971821",
+      "temp" : "74.3"
+    },
+    "-JvCnPLoCgTPWQxUzzij" : {
+      "date" : "1437971882",
+      "temp" : "74.3"
+    },
+    "-JvCnctS4uT1tfkEZF6O" : {
+      "date" : "1437971941",
+      "temp" : "74.3"
+    },
+    "-JvCnrhqdZzfsoDDtvlz" : {
+      "date" : "1437972001",
+      "temp" : "74.3"
+    },
+    "-JvCo5FYMW4hfCw43WMF" : {
+      "date" : "1437972062",
+      "temp" : "74.3"
+    },
+    "-JvCoJmwNQ3RoAmRRuIO" : {
+      "date" : "1437972121",
+      "temp" : "74.3"
+    },
+    "-JvCoYdyTXjNC8pwylrF" : {
+      "date" : "1437972182",
+      "temp" : "74.3"
+    },
+    "-JvComB5uawrapQmyx3h" : {
+      "date" : "1437972242",
+      "temp" : "74.4116"
+    },
+    "-JvCp-ob1n-mEU1CI2pT" : {
+      "date" : "1437972301",
+      "temp" : "74.4116"
+    },
+    "-JvCpEMgWooGlALjoahb" : {
+      "date" : "1437972361",
+      "temp" : "74.4116"
+    },
+    "-JvCpTP-2kqgsSM7X85v" : {
+      "date" : "1437972422",
+      "temp" : "74.525"
+    },
+    "-JvCpghwuz4dk0-WizB8" : {
+      "date" : "1437972481",
+      "temp" : "74.4116"
+    },
+    "-JvCpvKdiWEw0PN9ifw2" : {
+      "date" : "1437972541",
+      "temp" : "74.525"
+    },
+    "-JvCq97ZjzYGasrlC-9E" : {
+      "date" : "1437972602",
+      "temp" : "74.525"
+    },
+    "-JvCqNeuGlPpxa8Qa5qL" : {
+      "date" : "1437972661",
+      "temp" : "74.4116"
+    },
+    "-JvCqbGPg8hmM-WYziy4" : {
+      "date" : "1437972721",
+      "temp" : "74.525"
+    },
+    "-JvCqq7wVdOkzpfqOc1c" : {
+      "date" : "1437972782",
+      "temp" : "74.525"
+    },
+    "-JvCr4tuJ0on1HUj7aCJ" : {
+      "date" : "1437972842",
+      "temp" : "74.525"
+    },
+    "-JvCrIE1XRXILzYNPMyT" : {
+      "date" : "1437972901",
+      "temp" : "74.525"
+    },
+    "-JvCrX02Xno4sARP_e__" : {
+      "date" : "1437972962",
+      "temp" : "74.525"
+    },
+    "-JvCrkeX6hcUMvIkjeWj" : {
+      "date" : "1437973021",
+      "temp" : "74.525"
+    },
+    "-JvCrzC_guqyYtDuPt04" : {
+      "date" : "1437973081",
+      "temp" : "74.525"
+    },
+    "-JvCsCpRFMCTvl3bcxvz" : {
+      "date" : "1437973141",
+      "temp" : "74.525"
+    },
+    "-JvCsRbI2iJkBcbs9MPU" : {
+      "date" : "1437973202",
+      "temp" : "74.525"
+    },
+    "-JvCsf9JwzKKtT0uth3s" : {
+      "date" : "1437973261",
+      "temp" : "74.525"
+    },
+    "-JvCstg_muv-8OekPh7Q" : {
+      "date" : "1437973321",
+      "temp" : "74.4116"
+    },
+    "-JvCt7j47mP55NsDHO6t" : {
+      "date" : "1437973381",
+      "temp" : "74.4116"
+    },
+    "-JvCtM1km1shaQ5yAgg9" : {
+      "date" : "1437973441",
+      "temp" : "74.3"
+    },
+    "-JvCt_ptUks4jVGCY3_4" : {
+      "date" : "1437973502",
+      "temp" : "74.3"
+    },
+    "-JvCtpc5hQCZjOTWEbgg" : {
+      "date" : "1437973561",
+      "temp" : "74.3"
+    },
+    "-JvCu2-w6JPNivlWKqXt" : {
+      "date" : "1437973621",
+      "temp" : "74.4116"
+    },
+    "-JvCuI0ovhYlqQdsfRnL" : {
+      "date" : "1437973682",
+      "temp" : "74.4116"
+    },
+    "-JvCuVLZQfz454gatrul" : {
+      "date" : "1437973741",
+      "temp" : "74.4116"
+    },
+    "-JvCuitP_Qsir01xkkCa" : {
+      "date" : "1437973801",
+      "temp" : "74.525"
+    },
+    "-JvCuxgeOiTcACcdI29q" : {
+      "date" : "1437973861",
+      "temp" : "74.525"
+    },
+    "-JvCvBEe3D_B_UOgJ_2L" : {
+      "date" : "1437973921",
+      "temp" : "74.4116"
+    },
+    "-JvCvQ232vyPjJjsqALQ" : {
+      "date" : "1437973982",
+      "temp" : "74.525"
+    },
+    "-JvCvddYXSiqr3dQtSPa" : {
+      "date" : "1437974041",
+      "temp" : "74.525"
+    },
+    "-JvCvtWAYl-n2nO-tG6C" : {
+      "date" : "1437974101",
+      "temp" : "74.4116"
+    },
+    "-JvCw5qC0kKH80AQ9mwZ" : {
+      "date" : "1437974161",
+      "temp" : "74.4116"
+    },
+    "-JvCwKcg5d3twupkUe1Y" : {
+      "date" : "1437974222",
+      "temp" : "74.525"
+    },
+    "-JvCwZ9zl5biIzk7AFUL" : {
+      "date" : "1437974281",
+      "temp" : "74.525"
+    },
+    "-JvCwmhmEgx7zmai-Tel" : {
+      "date" : "1437974341",
+      "temp" : "74.6366"
+    },
+    "-JvCx0WabHmpie-oM0ZL" : {
+      "date" : "1437974401",
+      "temp" : "74.525"
+    },
+    "-JvCxF49D8BThoHZCH3J" : {
+      "date" : "1437974461",
+      "temp" : "74.6366"
+    },
+    "-JvCxTqpMUVgyBPnYXiR" : {
+      "date" : "1437974522",
+      "temp" : "74.525"
+    },
+    "-JvCxhTLrJarOKMa3D84" : {
+      "date" : "1437974581",
+      "temp" : "74.525"
+    },
+    "-JvCxw3d8szpQ_w31f5s" : {
+      "date" : "1437974641",
+      "temp" : "74.525"
+    },
+    "-JvCy9ah_JXRGdtUaUqf" : {
+      "date" : "1437974701",
+      "temp" : "74.525"
+    },
+    "-JvCyOO9lxqYwulL_FyZ" : {
+      "date" : "1437974761",
+      "temp" : "74.525"
+    },
+    "-JvCybvmlyYVKr1B8eot" : {
+      "date" : "1437974821",
+      "temp" : "74.4116"
+    },
+    "-JvCyqiGyq_P6fARBUv9" : {
+      "date" : "1437974882",
+      "temp" : "74.3"
+    },
+    "-JvCz4HQFhhLsFiR5mPo" : {
+      "date" : "1437974941",
+      "temp" : "74.3"
+    },
+    "-JvCzJ3csVs3J3xdOBkm" : {
+      "date" : "1437975002",
+      "temp" : "74.1866"
+    },
+    "-JvCzXbn0eNIZ1mKoUGK" : {
+      "date" : "1437975061",
+      "temp" : "74.1866"
+    },
+    "-JvCzlPJ_FdEjow1wu7n" : {
+      "date" : "1437975121",
+      "temp" : "74.075"
+    },
+    "-JvCzzwHgFJG_wZEIue6" : {
+      "date" : "1437975181",
+      "temp" : "74.075"
+    },
+    "-JvD-DTh0ZI7fldnNecC" : {
+      "date" : "1437975241",
+      "temp" : "74.075"
+    },
+    "-JvD-SFbIzjyvVoARewB" : {
+      "date" : "1437975302",
+      "temp" : "74.1866"
+    },
+    "-JvD-fnhiL7Cy1sv6sRq" : {
+      "date" : "1437975361",
+      "temp" : "74.1866"
+    },
+    "-JvD-ua3hgpFAnDZJ9wG" : {
+      "date" : "1437975422",
+      "temp" : "74.3"
+    },
+    "-JvD087sqPSa9Xje9302" : {
+      "date" : "1437975481",
+      "temp" : "74.4116"
+    },
+    "-JvD0Mg-hN7vvgnyaMU8" : {
+      "date" : "1437975541",
+      "temp" : "74.525"
+    },
+    "-JvD0aTA1ZFOGWO_N2AK" : {
+      "date" : "1437975601",
+      "temp" : "74.525"
+    },
+    "-JvD0pFWnoTBe7Q1q2TJ" : {
+      "date" : "1437975661",
+      "temp" : "74.4116"
+    },
+    "-JvD12nf8v6BaEGKovjh" : {
+      "date" : "1437975722",
+      "temp" : "74.3"
+    },
+    "-JvD1HLbXjy8YHFKDmd3" : {
+      "date" : "1437975781",
+      "temp" : "74.4116"
+    },
+    "-JvD1W7BMbGQhn5rWMcR" : {
+      "date" : "1437975842",
+      "temp" : "74.6366"
+    },
+    "-JvD1jebrv8UQBmK8PjA" : {
+      "date" : "1437975901",
+      "temp" : "74.75"
+    },
+    "-JvD1yRsQK2JuLWgXgf_" : {
+      "date" : "1437975962",
+      "temp" : "74.75"
+    },
+    "-JvD2C36WyljVPkzx0sh" : {
+      "date" : "1437976021",
+      "temp" : "74.75"
+    },
+    "-JvD2Qa55bRbjCzKJ25B" : {
+      "date" : "1437976081",
+      "temp" : "74.6366"
+    },
+    "-JvD2eN3FU9-BZwKYHw-" : {
+      "date" : "1437976142",
+      "temp" : "74.6366"
+    },
+    "-JvD2suJYc6ZYouvFKaK" : {
+      "date" : "1437976201",
+      "temp" : "74.6366"
+    },
+    "-JvD36gUtmu4M8VtTsAn" : {
+      "date" : "1437976262",
+      "temp" : "74.6366"
+    },
+    "-JvD3LEHpI9RYMi4fkz3" : {
+      "date" : "1437976321",
+      "temp" : "74.6366"
+    },
+    "-JvD3Zm79lHr6ANeCG6H" : {
+      "date" : "1437976381",
+      "temp" : "74.525"
+    },
+    "-JvD3nZ_B0XlEmMvH3Lz" : {
+      "date" : "1437976441",
+      "temp" : "74.525"
+    },
+    "-JvD417DHbAMu9pE3PfF" : {
+      "date" : "1437976501",
+      "temp" : "74.525"
+    },
+    "-JvD4FuT9Q3K-9QvzoMe" : {
+      "date" : "1437976562",
+      "temp" : "74.6366"
+    },
+    "-JvD4URfxhAdyx1urkPg" : {
+      "date" : "1437976621",
+      "temp" : "74.75"
+    },
+    "-JvD4iNldMjwldnsLU7s" : {
+      "date" : "1437976682",
+      "temp" : "75.2"
+    },
+    "-JvD4wgeuqMHc371q9tZ" : {
+      "date" : "1437976741",
+      "temp" : "75.7616"
+    },
+    "-JvD5AUJLPlDfoexhal6" : {
+      "date" : "1437976802",
+      "temp" : "75.9866"
+    },
+    "-JvD5P0wVvx0MnA4Vla2" : {
+      "date" : "1437976861",
+      "temp" : "75.7616"
+    },
+    "-JvD5coKAo_0_FTNiyFB" : {
+      "date" : "1437976922",
+      "temp" : "75.5366"
+    },
+    "-JvD5rLtFxEn1OXz7vi8" : {
+      "date" : "1437976981",
+      "temp" : "75.425"
+    },
+    "-JvD64tTTUUrrYQtLGVA" : {
+      "date" : "1437977041",
+      "temp" : "75.2"
+    },
+    "-JvD6JkM40wL1x7HduF-" : {
+      "date" : "1437977101",
+      "temp" : "74.975"
+    },
+    "-JvD6ZWbF1RPSnrub0YJ" : {
+      "date" : "1437977161",
+      "temp" : "74.975"
+    },
+    "-JvD6lx9D_yopStinFho" : {
+      "date" : "1437977221",
+      "temp" : "74.975"
+    },
+    "-JvD70iImLxSBxQAPZxM" : {
+      "date" : "1437977281",
+      "temp" : "74.8616"
+    },
+    "-JvD7EGwGTuWg7xI30Ce" : {
+      "date" : "1437977341",
+      "temp" : "74.8616"
+    },
+    "-JvD7SoVJbSvDXugW1BO" : {
+      "date" : "1437977401",
+      "temp" : "74.8616"
+    },
+    "-JvD7gaiNlibu7Z0PiVG" : {
+      "date" : "1437977462",
+      "temp" : "74.75"
+    },
+    "-JvD7v8tsz2jtnIps_ty" : {
+      "date" : "1437977521",
+      "temp" : "74.75"
+    },
+    "-JvD8A9gEM4ONc0iv3pO" : {
+      "date" : "1437977582",
+      "temp" : "74.75"
+    },
+    "-JvD8NURCfKusiZ8q11m" : {
+      "date" : "1437977641",
+      "temp" : "74.6366"
+    },
+    "-JvD8b12iYbelWk8W_By" : {
+      "date" : "1437977701",
+      "temp" : "74.6366"
+    },
+    "-JvD8powfjHML2WMGgre" : {
+      "date" : "1437977761",
+      "temp" : "74.6366"
+    },
+    "-JvD93OBc4TaKDCP8PfF" : {
+      "date" : "1437977821",
+      "temp" : "74.6366"
+    },
+    "-JvD9IA5qL_fuhfQMcWC" : {
+      "date" : "1437977882",
+      "temp" : "74.6366"
+    },
+    "-JvD9WiBhEJE4NFwPJPV" : {
+      "date" : "1437977941",
+      "temp" : "74.6366"
+    },
+    "-JvD9kGGOREiHl3WTZ4c" : {
+      "date" : "1437978001",
+      "temp" : "74.6366"
+    },
+    "-JvD9z2UdzdtuexzOr75" : {
+      "date" : "1437978061",
+      "temp" : "74.6366"
+    },
+    "-JvDACpehdXUntPMYBfw" : {
+      "date" : "1437978121",
+      "temp" : "74.6366"
+    },
+    "-JvDARMzQnVQE6C-8fd0" : {
+      "date" : "1437978181",
+      "temp" : "74.6366"
+    },
+    "-JvDAew5efvcuQeO8nqN" : {
+      "date" : "1437978241",
+      "temp" : "74.6366"
+    },
+    "-JvDAtjHmIrVI-Q5sZJx" : {
+      "date" : "1437978302",
+      "temp" : "74.75"
+    },
+    "-JvDB7Delwilt1PKA1Us" : {
+      "date" : "1437978361",
+      "temp" : "74.8616"
+    },
+    "-JvDBM-fjkqUSKIX6c7K" : {
+      "date" : "1437978422",
+      "temp" : "74.8616"
+    },
+    "-JvDB_Xzxh7RehXTa6AB" : {
+      "date" : "1437978481",
+      "temp" : "74.75"
+    },
+    "-JvDBoJkmg68WITxTXiW" : {
+      "date" : "1437978542",
+      "temp" : "74.75"
+    },
+    "-JvDC1rFUlq2o6x3UNGt" : {
+      "date" : "1437978601",
+      "temp" : "74.75"
+    },
+    "-JvDCGOYYtpGShyZIQMM" : {
+      "date" : "1437978661",
+      "temp" : "74.6366"
+    },
+    "-JvDCVAshe1edHfrBqgI" : {
+      "date" : "1437978721",
+      "temp" : "74.525"
+    },
+    "-JvDCiiLM01bQ66KN4Bi" : {
+      "date" : "1437978781",
+      "temp" : "74.4116"
+    },
+    "-JvDCxUrMllZkKkwvBqm" : {
+      "date" : "1437978841",
+      "temp" : "74.3"
+    },
+    "-JvDDB0fD0EAVNobyArZ" : {
+      "date" : "1437978901",
+      "temp" : "74.3"
+    },
+    "-JvDDPnirraH-VmRZQVI" : {
+      "date" : "1437978962",
+      "temp" : "74.1866"
+    },
+    "-JvDDdL4kctdxYjT0eaI" : {
+      "date" : "1437979021",
+      "temp" : "74.075"
+    },
+    "-JvDDs6r1guefNbw9y5S" : {
+      "date" : "1437979082",
+      "temp" : "74.1866"
+    },
+    "-JvDE5e01M3cCavHsE2b" : {
+      "date" : "1437979141",
+      "temp" : "74.1866"
+    },
+    "-JvDEKQicJ2BlbwIrk6y" : {
+      "date" : "1437979202",
+      "temp" : "74.1866"
+    },
+    "-JvDE_BQfo3DyXka_ptY" : {
+      "date" : "1437979261",
+      "temp" : "74.1866"
+    },
+    "-JvDEmkHeR591j94Vaz6" : {
+      "date" : "1437979322",
+      "temp" : "74.1866"
+    },
+    "-JvDF0HX55B-GWn5U3gd" : {
+      "date" : "1437979381",
+      "temp" : "74.1866"
+    },
+    "-JvDFEp3RGkLJ_ZnGVYQ" : {
+      "date" : "1437979441",
+      "temp" : "74.75"
+    },
+    "-JvDFTaowJQ-3n1agO-B" : {
+      "date" : "1437979501",
+      "temp" : "75.65"
+    },
+    "-JvDFh9ayTwCsuq08D5X" : {
+      "date" : "1437979561",
+      "temp" : "76.6616"
+    },
+    "-JvDFvxmJz5tj4ohHy1x" : {
+      "date" : "1437979622",
+      "temp" : "76.55"
+    },
+    "-JvDG9V7lCmAVK4VB99_" : {
+      "date" : "1437979681",
+      "temp" : "76.1"
+    },
+    "-JvDGOHYkokXxxoG48yk" : {
+      "date" : "1437979742",
+      "temp" : "76.325"
+    },
+    "-JvDGbofPeDwrvKDOT9l" : {
+      "date" : "1437979801",
+      "temp" : "76.775"
+    },
+    "-JvDGqaT84TZ6WBbHwU1" : {
+      "date" : "1437979862",
+      "temp" : "76.325"
+    },
+    "-JvDH4s_loMruPglp_b_" : {
+      "date" : "1437979921",
+      "temp" : "75.7616"
+    },
+    "-JvDHIfqEvxhBGNnmS6z" : {
+      "date" : "1437979981",
+      "temp" : "75.425"
+    },
+    "-JvDHXSZXwnnHlIITMot" : {
+      "date" : "1437980041",
+      "temp" : "75.0866"
+    },
+    "-JvDHkznkwBFTA0fxdMN" : {
+      "date" : "1437980101",
+      "temp" : "74.975"
+    },
+    "-JvDI-0aPIU5i-t9rQsQ" : {
+      "date" : "1437980162",
+      "temp" : "74.6366"
+    },
+    "-JvDIDIxgZBqCDqJXxt-" : {
+      "date" : "1437980221",
+      "temp" : "74.525"
+    },
+    "-JvDIS4_XmccqP3u8wD1" : {
+      "date" : "1437980282",
+      "temp" : "74.3"
+    },
+    "-JvDIfqymS8CKA9lwCCJ" : {
+      "date" : "1437980341",
+      "temp" : "74.075"
+    },
+    "-JvDIuNhXMHsgXnI5wpG" : {
+      "date" : "1437980402",
+      "temp" : "73.85"
+    },
+    "-JvDJ7uoBwebzBWPlTSa" : {
+      "date" : "1437980461",
+      "temp" : "73.625"
+    },
+    "-JvDJMgiZj2euyoj6gC_" : {
+      "date" : "1437980522",
+      "temp" : "73.5116"
+    },
+    "-JvDJaDeslliTqTpNrFk" : {
+      "date" : "1437980581",
+      "temp" : "73.5116"
+    },
+    "-JvDJp-tuGxaqfKRktWg" : {
+      "date" : "1437980642",
+      "temp" : "73.2866"
+    },
+    "-JvDK2XqF8mlfZPBnRex" : {
+      "date" : "1437980701",
+      "temp" : "73.175"
+    },
+    "-JvDKHJk9s0Iv25WWCpH" : {
+      "date" : "1437980762",
+      "temp" : "73.0616"
+    },
+    "-JvDKVsW6rtuzuoE2rSE" : {
+      "date" : "1437980821",
+      "temp" : "72.95"
+    },
+    "-JvDKjR-6k-ir3BsnWBs" : {
+      "date" : "1437980881",
+      "temp" : "72.8366"
+    },
+    "-JvDKyCdXBPgd-zziF3m" : {
+      "date" : "1437980942",
+      "temp" : "72.725"
+    },
+    "-JvDLBjJIqGS6Y_0iIiz" : {
+      "date" : "1437981001",
+      "temp" : "72.6116"
+    },
+    "-JvDLRjKkhhZ40jKijyT" : {
+      "date" : "1437981062",
+      "temp" : "72.5"
+    },
+    "-JvDLeIhmJMFwdok5cMD" : {
+      "date" : "1437981121",
+      "temp" : "72.5"
+    },
+    "-JvDLspo8QYQvhjAApyT" : {
+      "date" : "1437981182",
+      "temp" : "72.3866"
+    },
+    "-JvDM6ShXasGzwYZj1YO" : {
+      "date" : "1437981241",
+      "temp" : "72.275"
+    },
+    "-JvDMKzImjraPNgJMCDu" : {
+      "date" : "1437981301",
+      "temp" : "72.275"
+    },
+    "-JvDMZkdPX-9YqAgxJN-" : {
+      "date" : "1437981362",
+      "temp" : "72.1616"
+    },
+    "-JvDMnHnOOMOZFD5wsUC" : {
+      "date" : "1437981421",
+      "temp" : "72.1616"
+    },
+    "-JvDN13NUYaRdcv48GfR" : {
+      "date" : "1437981482",
+      "temp" : "72.05"
+    },
+    "-JvDNFd1uovJdNd-wA8s" : {
+      "date" : "1437981541",
+      "temp" : "72.1616"
+    },
+    "-JvDNUBHTc6fzMS9dOKs" : {
+      "date" : "1437981601",
+      "temp" : "71.9366"
+    },
+    "-JvDNhyDsGwcZTHK5Nao" : {
+      "date" : "1437981661",
+      "temp" : "71.825"
+    },
+    "-JvDNwV5izZbbrIryzPF" : {
+      "date" : "1437981721",
+      "temp" : "71.7116"
+    },
+    "-JvDOAGXaUA8t0MrAHGy" : {
+      "date" : "1437981781",
+      "temp" : "71.825"
+    },
+    "-JvDOOnQXIhs235aUxtO" : {
+      "date" : "1437981841",
+      "temp" : "71.7116"
+    },
+    "-JvDOc_AGBxuko9NNvqF" : {
+      "date" : "1437981902",
+      "temp" : "71.6"
+    },
+    "-JvDOr6M-Q0CeWJxB2ef" : {
+      "date" : "1437981961",
+      "temp" : "71.6"
+    },
+    "-JvDP4swbjaAaz0pMeAJ" : {
+      "date" : "1437982022",
+      "temp" : "71.4866"
+    },
+    "-JvDPJPkduI6x7UrwPUi" : {
+      "date" : "1437982081",
+      "temp" : "71.375"
+    },
+    "-JvDPYBdxwggrPRVh0Si" : {
+      "date" : "1437982142",
+      "temp" : "71.2616"
+    },
+    "-JvDPliiM3DvfaP9p50l" : {
+      "date" : "1437982201",
+      "temp" : "71.2616"
+    },
+    "-JvDQ-VP6J70xF6ZmxyP" : {
+      "date" : "1437982262",
+      "temp" : "71.2616"
+    },
+    "-JvDQShtw7BcguLCAQbu" : {
+      "date" : "1437982381",
+      "temp" : "71.2616"
+    },
+    "-JvDQTUbt7FyDSrVGJyM" : {
+      "date" : "1437982321",
+      "temp" : "71.2616"
+    },
+    "-JvDQgJLOBPAJ96agomQ" : {
+      "date" : "1437982441",
+      "temp" : "71.2616"
+    },
+    "-JvDQv7QAi-dk3xYz3FX" : {
+      "date" : "1437982502",
+      "temp" : "71.2616"
+    },
+    "-JvDR8fUH1wjmSW7wnGv" : {
+      "date" : "1437982561",
+      "temp" : "71.375"
+    },
+    "-JvDRNDI-srq-8-owJ1H" : {
+      "date" : "1437982621",
+      "temp" : "71.375"
+    },
+    "-JvDRb-6Z2QcNCH9upVb" : {
+      "date" : "1437982681",
+      "temp" : "71.375"
+    },
+    "-JvDRpYF7n68V5g5ptW7" : {
+      "date" : "1437982741",
+      "temp" : "71.375"
+    },
+    "-JvDS3KMncet0zUQ5ekJ" : {
+      "date" : "1437982802",
+      "temp" : "71.375"
+    },
+    "-JvDSHrYkCFyI5fLsDZw" : {
+      "date" : "1437982861",
+      "temp" : "71.375"
+    },
+    "-JvDSWdPDjUqRjjQ1C7o" : {
+      "date" : "1437982922",
+      "temp" : "71.375"
+    },
+    "-JvDSkBXFnMYGfxsT_Ji" : {
+      "date" : "1437982981",
+      "temp" : "71.375"
+    },
+    "-JvDSyjfTHErteWD6m1k" : {
+      "date" : "1437983041",
+      "temp" : "71.375"
+    },
+    "-JvDTCWREPtr-Uk8Xtyu" : {
+      "date" : "1437983101",
+      "temp" : "71.375"
+    },
+    "-JvDTR2UlDxwaVEbUgCg" : {
+      "date" : "1437983161",
+      "temp" : "71.375"
+    },
+    "-JvDTep4WkVhBNctV_ab" : {
+      "date" : "1437983221",
+      "temp" : "71.2616"
+    },
+    "-JvDTtMDmiEB1q7jQV89" : {
+      "date" : "1437983281",
+      "temp" : "71.2616"
+    },
+    "-JvDU78bJj9Wu2dGuy7-" : {
+      "date" : "1437983342",
+      "temp" : "71.2616"
+    },
+    "-JvDULfkjqAkXyJt-3N8" : {
+      "date" : "1437983401",
+      "temp" : "71.2616"
+    },
+    "-JvDU_TTfAOTm866INol" : {
+      "date" : "1437983462",
+      "temp" : "71.15"
+    },
+    "-JvDUo-TusMUml9TM2vm" : {
+      "date" : "1437983521",
+      "temp" : "71.2616"
+    },
+    "-JvDV1meBAl0ocaWsu_Q" : {
+      "date" : "1437983582",
+      "temp" : "71.15"
+    },
+    "-JvDVGJn8B50wpNCDMOm" : {
+      "date" : "1437983641",
+      "temp" : "71.15"
+    },
+    "-JvDVUs7Ao_pSMfcZtA3" : {
+      "date" : "1437983701",
+      "temp" : "71.0366"
+    },
+    "-JvDVie3tHzxfHFNoCn_" : {
+      "date" : "1437983761",
+      "temp" : "71.0366"
+    },
+    "-JvDVxBE54Byxaw1_OZR" : {
+      "date" : "1437983821",
+      "temp" : "71.0366"
+    },
+    "-JvDWAy4LOIZbgoOJ2fx" : {
+      "date" : "1437983881",
+      "temp" : "71.0366"
+    },
+    "-JvDWPVMwtZoP5pqRCRN" : {
+      "date" : "1437983941",
+      "temp" : "71.0366"
+    },
+    "-JvDWdH2e1LQjm-Pwqu5" : {
+      "date" : "1437984002",
+      "temp" : "71.0366"
+    },
+    "-JvDWro5K9nyxyysS5UT" : {
+      "date" : "1437984061",
+      "temp" : "70.925"
+    },
+    "-JvDX5_vfDKLOTzQBzsH" : {
+      "date" : "1437984122",
+      "temp" : "70.925"
+    },
+    "-JvDXK7OUKKtKSEljDEe" : {
+      "date" : "1437984181",
+      "temp" : "70.925"
+    },
+    "-JvDXYtokOjcYsILnOkY" : {
+      "date" : "1437984242",
+      "temp" : "70.925"
+    },
+    "-JvDXmQrzUrAQkyDDiCD" : {
+      "date" : "1437984301",
+      "temp" : "70.8116"
+    },
+    "-JvDY0Cx1qOJP0K7nF3N" : {
+      "date" : "1437984362",
+      "temp" : "70.8116"
+    },
+    "-JvDYEkjTky8f4BwMlLl" : {
+      "date" : "1437984421",
+      "temp" : "70.8116"
+    },
+    "-JvDYTJBYKEdjFBHpIXL" : {
+      "date" : "1437984481",
+      "temp" : "70.8116"
+    },
+    "-JvDYh4zDlC5Bs0ADPxx" : {
+      "date" : "1437984541",
+      "temp" : "70.8116"
+    },
+    "-JvDYvc2mKI6L0DimEBG" : {
+      "date" : "1437984601",
+      "temp" : "70.7"
+    },
+    "-JvDZ9PKw0ijOp34Pg-n" : {
+      "date" : "1437984662",
+      "temp" : "70.7"
+    },
+    "-JvDZNwXS0isCy5mvEzr" : {
+      "date" : "1437984721",
+      "temp" : "70.7"
+    },
+    "-JvDZbiJBGGg3y6kd4be" : {
+      "date" : "1437984782",
+      "temp" : "70.8116"
+    },
+    "-JvDZqUX1i_cRUFwbBW8" : {
+      "date" : "1437984841",
+      "temp" : "70.7"
+    },
+    "-JvD_40Y3MklYULkGCDS" : {
+      "date" : "1437984902",
+      "temp" : "70.7"
+    },
+    "-JvD_IYfITr3c_2XZdw8" : {
+      "date" : "1437984961",
+      "temp" : "70.5866"
+    },
+    "-JvD_XKd8ROd7BdZFkkS" : {
+      "date" : "1437985022",
+      "temp" : "70.5866"
+    },
+    "-JvD_krmsEIfznA_0iiU" : {
+      "date" : "1437985081",
+      "temp" : "70.5866"
+    },
+    "-JvD_zdZtREntasIXLgL" : {
+      "date" : "1437985142",
+      "temp" : "70.5866"
+    },
+    "-JvDaDAyIojouZVTtRfk" : {
+      "date" : "1437985201",
+      "temp" : "70.5866"
+    },
+    "-JvDaRxfnsf9dHjkrDrQ" : {
+      "date" : "1437985261",
+      "temp" : "70.5866"
+    },
+    "-JvDafUmkp1-8xjqcQKI" : {
+      "date" : "1437985321",
+      "temp" : "70.475"
+    },
+    "-JvDau2BaYWBH_j25c0k" : {
+      "date" : "1437985381",
+      "temp" : "70.475"
+    },
+    "-JvDb7ooo1Y0GTfyB1Vi" : {
+      "date" : "1437985441",
+      "temp" : "70.3616"
+    },
+    "-JvDbN_UjHX-HnyJs8Ex" : {
+      "date" : "1437985501",
+      "temp" : "70.475"
+    },
+    "-JvDba80O4S9QbVSqnT5" : {
+      "date" : "1437985562",
+      "temp" : "70.3616"
+    },
+    "-JvDbof6YfR-tm2kMaLi" : {
+      "date" : "1437985621",
+      "temp" : "70.3616"
+    },
+    "-JvDc2RlAYkwvgnA3TQO" : {
+      "date" : "1437985682",
+      "temp" : "70.3616"
+    },
+    "-JvDcGybVVn2r-zFT0bL" : {
+      "date" : "1437985741",
+      "temp" : "70.3616"
+    },
+    "-JvDcW-KM2BwtRZSl74j" : {
+      "date" : "1437985802",
+      "temp" : "70.25"
+    },
+    "-JvDcjHdCvNaIbAeUI0Z" : {
+      "date" : "1437985861",
+      "temp" : "70.3616"
+    },
+    "-JvDcy3bLf78Lefqey1C" : {
+      "date" : "1437985922",
+      "temp" : "70.25"
+    },
+    "-JvDdBassJG7hYRvYwXF" : {
+      "date" : "1437985981",
+      "temp" : "70.25"
+    },
+    "-JvDdQNfjZw3SuSK9vtE" : {
+      "date" : "1437986042",
+      "temp" : "70.25"
+    },
+    "-JvDddv5aB9k1Z43XZz0" : {
+      "date" : "1437986101",
+      "temp" : "70.1366"
+    },
+    "-JvDdsTeBNQsziUG7AUd" : {
+      "date" : "1437986161",
+      "temp" : "70.1366"
+    },
+    "-JvDe6FPswhL-qEF0SAi" : {
+      "date" : "1437986221",
+      "temp" : "70.1366"
+    },
+    "-JvDeKmGdotkGGdoMh-X" : {
+      "date" : "1437986281",
+      "temp" : "70.025"
+    },
+    "-JvDeZZKSSNuvP-DBxiQ" : {
+      "date" : "1437986342",
+      "temp" : "70.1366"
+    },
+    "-JvDen5bAMTaINVxkD5f" : {
+      "date" : "1437986401",
+      "temp" : "70.025"
+    },
+    "-JvDf0s4XGPo3biORaX6" : {
+      "date" : "1437986462",
+      "temp" : "70.025"
+    },
+    "-JvDfFPTr41O7NtILGWS" : {
+      "date" : "1437986521",
+      "temp" : "70.025"
+    },
+    "-JvDfUBKZDpl9xDPT9FY" : {
+      "date" : "1437986582",
+      "temp" : "70.025"
+    },
+    "-JvDfhioqrfYtJqdW44t" : {
+      "date" : "1437986641",
+      "temp" : "70.025"
+    },
+    "-JvDfwVboRKCZiFZF1RR" : {
+      "date" : "1437986702",
+      "temp" : "69.9116"
+    },
+    "-JvDgA1kKwT2w-Ont4f6" : {
+      "date" : "1437986761",
+      "temp" : "69.9116"
+    },
+    "-JvDgOoPEBlPCM8iJal7" : {
+      "date" : "1437986822",
+      "temp" : "69.9116"
+    },
+    "-JvDgcLkwIsh_bTqb1pq" : {
+      "date" : "1437986881",
+      "temp" : "69.9116"
+    },
+    "-JvDgqtnaHWz80UD_i95" : {
+      "date" : "1437986941",
+      "temp" : "69.8"
+    },
+    "-JvDh4fWax3ldC-KdiUi" : {
+      "date" : "1437987001",
+      "temp" : "69.8"
+    },
+    "-JvDhJCYLdXeCZeLlCjg" : {
+      "date" : "1437987061",
+      "temp" : "69.8"
+    },
+    "-JvDhXz6d-5S2vQrUUa5" : {
+      "date" : "1437987121",
+      "temp" : "69.8"
+    },
+    "-JvDhlWAONd3VoEU0Lke" : {
+      "date" : "1437987181",
+      "temp" : "69.6866"
+    },
+    "-JvDi-Hnz68tylE_hrCX" : {
+      "date" : "1437987242",
+      "temp" : "69.8"
+    },
+    "-JvDiDpEtnkvXcRXxJMk" : {
+      "date" : "1437987301",
+      "temp" : "69.6866"
+    },
+    "-JvDiSb2XY9HEh2aFhCY" : {
+      "date" : "1437987362",
+      "temp" : "69.6866"
+    },
+    "-JvDig8AV80FPtBSiPmQ" : {
+      "date" : "1437987421",
+      "temp" : "69.6866"
+    },
+    "-JvDiuuuSpTTnpf35nVk" : {
+      "date" : "1437987482",
+      "temp" : "69.575"
+    },
+    "-JvDj8gQTurTSboBIMcs" : {
+      "date" : "1437987541",
+      "temp" : "69.6866"
+    },
+    "-JvDjNDgRyKBHvpy1mjM" : {
+      "date" : "1437987602",
+      "temp" : "69.575"
+    },
+    "-JvDjalEMUCZzmtxz0Rw" : {
+      "date" : "1437987661",
+      "temp" : "69.575"
+    },
+    "-JvDjpYDrCW_hrm1XnEN" : {
+      "date" : "1437987722",
+      "temp" : "69.575"
+    },
+    "-JvDk34dq-t3DuGjfrld" : {
+      "date" : "1437987781",
+      "temp" : "69.575"
+    },
+    "-JvDkHbf6VdBFfeONO3p" : {
+      "date" : "1437987841",
+      "temp" : "69.4616"
+    },
+    "-JvDkWP7HzoQEafWuUPl" : {
+      "date" : "1437987901",
+      "temp" : "69.4616"
+    },
+    "-JvDkjw2iHUWgRhI7DTR" : {
+      "date" : "1437987961",
+      "temp" : "69.4616"
+    },
+    "-JvDkyiC6oE-ffoc-Fmo" : {
+      "date" : "1437988022",
+      "temp" : "69.4616"
+    },
+    "-JvDlCFL-CMziyx4nHl3" : {
+      "date" : "1437988081",
+      "temp" : "69.4616"
+    },
+    "-JvDlR0tk5hRrvO-vP6a" : {
+      "date" : "1437988142",
+      "temp" : "69.4616"
+    },
+    "-JvDle_IYZGA-rg7IEBN" : {
+      "date" : "1437988201",
+      "temp" : "69.35"
+    },
+    "-JvDltMDD5xcwGewDrAK" : {
+      "date" : "1437988262",
+      "temp" : "69.35"
+    },
+    "-JvDm6t9OMnBRRcFnyE7" : {
+      "date" : "1437988321",
+      "temp" : "69.35"
+    },
+    "-JvDmLeuhpVfCFbsVI65" : {
+      "date" : "1437988382",
+      "temp" : "69.35"
+    },
+    "-JvDm_HFUCCSUw4VBoiC" : {
+      "date" : "1437988441",
+      "temp" : "69.2366"
+    },
+    "-JvDmnoC0zVETjQfIZTX" : {
+      "date" : "1437988501",
+      "temp" : "69.2366"
+    },
+    "-JvDn1a3nGp-hkvwikqC" : {
+      "date" : "1437988562",
+      "temp" : "69.2366"
+    },
+    "-JvDnG7AVhzewbli5p5A" : {
+      "date" : "1437988621",
+      "temp" : "69.2366"
+    },
+    "-JvDnUu8E67w-Sft5QDY" : {
+      "date" : "1437988682",
+      "temp" : "69.2366"
+    },
+    "-JvDniR9O5YxYtbeTMkf" : {
+      "date" : "1437988741",
+      "temp" : "69.2366"
+    },
+    "-JvDnyRQie_BbtdYKeUL" : {
+      "date" : "1437988802",
+      "temp" : "69.2366"
+    },
+    "-JvDoAkKGkv5kCzu07Zb" : {
+      "date" : "1437988861",
+      "temp" : "69.2366"
+    },
+    "-JvDoPHqyP6WKj1gtcb3" : {
+      "date" : "1437988921",
+      "temp" : "69.125"
+    },
+    "-JvDod3h39ASYjxgnBJd" : {
+      "date" : "1437988981",
+      "temp" : "69.125"
+    },
+    "-JvDoraeJp-88dMWTCDU" : {
+      "date" : "1437989041",
+      "temp" : "69.125"
+    },
+    "-JvDp5NVuHhZh5LBfyO8" : {
+      "date" : "1437989101",
+      "temp" : "69.125"
+    },
+    "-JvDpJvcfTzQU2KbKpOo" : {
+      "date" : "1437989161",
+      "temp" : "69.0116"
+    },
+    "-JvDpYhlrdE7Vn1a97a2" : {
+      "date" : "1437989222",
+      "temp" : "69.0116"
+    },
+    "-JvDpmErDjX5hn1lq-4y" : {
+      "date" : "1437989281",
+      "temp" : "68.9"
+    },
+    "-JvDq00n8AZdfeJYOxff" : {
+      "date" : "1437989342",
+      "temp" : "69.0116"
+    },
+    "-JvDqFmhqxoPQ7DeTcUm" : {
+      "date" : "1437989401",
+      "temp" : "68.9"
+    },
+    "-JvDqTLCBAzKHXomCMuH" : {
+      "date" : "1437989462",
+      "temp" : "68.9"
+    },
+    "-JvDqgsi2UQmGrqNwtF2" : {
+      "date" : "1437989521",
+      "temp" : "68.9"
+    },
+    "-JvDqvRT7KCiMv3m9DPc" : {
+      "date" : "1437989581",
+      "temp" : "68.9"
+    },
+    "-JvDr9DO0VuJkMbV6jTk" : {
+      "date" : "1437989641",
+      "temp" : "68.9"
+    },
+    "-JvDrNkgfakvODG-HiC-" : {
+      "date" : "1437989701",
+      "temp" : "68.9"
+    },
+    "-JvDrbXWeRd-BUQHKfT5" : {
+      "date" : "1437989762",
+      "temp" : "68.9"
+    },
+    "-JvDrq3u1MB8JcsaeASg" : {
+      "date" : "1437989821",
+      "temp" : "68.7866"
+    },
+    "-JvDs3qyZRj6HYpyH3cr" : {
+      "date" : "1437989882",
+      "temp" : "68.7866"
+    },
+    "-JvDsINp0nlvi0RUIIMK" : {
+      "date" : "1437989941",
+      "temp" : "68.7866"
+    },
+    "-JvDsX9uIjsXrQEtM-Ve" : {
+      "date" : "1437990002",
+      "temp" : "68.7866"
+    },
+    "-JvDskhTbkgjS66muRBr" : {
+      "date" : "1437990061",
+      "temp" : "68.675"
+    },
+    "-JvDszFhID86PCwiWd5H" : {
+      "date" : "1437990121",
+      "temp" : "68.675"
+    },
+    "-JvDtD1s37RtEObD2fUY" : {
+      "date" : "1437990181",
+      "temp" : "68.675"
+    },
+    "-JvDtRdjN5V_LXWSyfWb" : {
+      "date" : "1437990241",
+      "temp" : "68.675"
+    },
+    "-JvDtfPzOglycoPYNyiw" : {
+      "date" : "1437990302",
+      "temp" : "68.5616"
+    },
+    "-JvDttxIPiPx6bImBE27" : {
+      "date" : "1437990361",
+      "temp" : "68.5616"
+    },
+    "-JvDu7VtpK15zAolgyqn" : {
+      "date" : "1437990421",
+      "temp" : "68.5616"
+    },
+    "-JvDuMHPj-s2Yul4YLJZ" : {
+      "date" : "1437990481",
+      "temp" : "68.5616"
+    },
+    "-JvDu_oNjSF96jtodKGy" : {
+      "date" : "1437990541",
+      "temp" : "68.5616"
+    },
+    "-JvDuo_uRO6cKbPdVPDk" : {
+      "date" : "1437990601",
+      "temp" : "68.5616"
+    },
+    "-JvDv27GlYx4hA3SO3RS" : {
+      "date" : "1437990661",
+      "temp" : "68.5616"
+    },
+    "-JvDvGu95kCd00kKWAAm" : {
+      "date" : "1437990722",
+      "temp" : "68.45"
+    },
+    "-JvDvVR7D8HCRkSV8qcL" : {
+      "date" : "1437990781",
+      "temp" : "68.45"
+    },
+    "-JvDvjCsQgHjygIMX9Xp" : {
+      "date" : "1437990842",
+      "temp" : "68.45"
+    },
+    "-JvDvxkB3JHiPn77_IhF" : {
+      "date" : "1437990901",
+      "temp" : "68.45"
+    },
+    "-JvDwBXGtABbORY8cFBj" : {
+      "date" : "1437990962",
+      "temp" : "68.3366"
+    },
+    "-JvDwQ4RI4Jwly-xrLTj" : {
+      "date" : "1437991021",
+      "temp" : "68.3366"
+    },
+    "-JvDwdbdLBnz-YUvgiMq" : {
+      "date" : "1437991081",
+      "temp" : "68.3366"
+    },
+    "-JvDwsOVcuLoROAQ0V9Q" : {
+      "date" : "1437991141",
+      "temp" : "68.3366"
+    },
+    "-JvDx5vNAjRMJfv65d16" : {
+      "date" : "1437991201",
+      "temp" : "68.3366"
+    },
+    "-JvDxKhRqiw_EiLGpxC0" : {
+      "date" : "1437991261",
+      "temp" : "68.225"
+    },
+    "-JvDxZEaJ8uPFkVtxQLu" : {
+      "date" : "1437991321",
+      "temp" : "68.225"
+    },
+    "-JvDxn0P-V5EphC9SN2Z" : {
+      "date" : "1437991381",
+      "temp" : "68.225"
+    },
+    "-JvDy0Y5Vb7uWGxk-VOy" : {
+      "date" : "1437991441",
+      "temp" : "68.225"
+    },
+    "-JvDyFK6CJtZA-xJtccM" : {
+      "date" : "1437991502",
+      "temp" : "68.225"
+    },
+    "-JvDyTrGIUnEqJA01VyQ" : {
+      "date" : "1437991561",
+      "temp" : "68.1116"
+    },
+    "-JvDyhczqV8nVu7rD5Ae" : {
+      "date" : "1437991622",
+      "temp" : "68.1116"
+    },
+    "-JvDywAHwimsSKebhLEh" : {
+      "date" : "1437991681",
+      "temp" : "68.1116"
+    },
+    "-JvDz9xB7ISimngzVZEt" : {
+      "date" : "1437991742",
+      "temp" : "68.1116"
+    },
+    "-JvDzOTzSrINy0nH5Nbz" : {
+      "date" : "1437991801",
+      "temp" : "68.1116"
+    },
+    "-JvDzcFXjm1c7MtGzU--" : {
+      "date" : "1437991862",
+      "temp" : "68.0"
+    },
+    "-JvDzr2-wdSDomQbQJih" : {
+      "date" : "1437991921",
+      "temp" : "68.0"
+    },
+    "-JvE-4__iwLfU2X_xVRb" : {
+      "date" : "1437991982",
+      "temp" : "68.0"
+    },
+    "-JvE-JMJ-9CC9xFcF2m_" : {
+      "date" : "1437992041",
+      "temp" : "68.0"
+    },
+    "-JvE-XdsEa76bBAniIOm" : {
+      "date" : "1437992101",
+      "temp" : "67.8866"
+    },
+    "-JvE-lQOLqRK1b4_w8Wh" : {
+      "date" : "1437992161",
+      "temp" : "68.0"
+    },
+    "-JvE-zxpOu63DXh1Zg-8" : {
+      "date" : "1437992221",
+      "temp" : "67.8866"
+    },
+    "-JvE0DjbqWdjYh21MWkh" : {
+      "date" : "1437992281",
+      "temp" : "67.8866"
+    },
+    "-JvE0SGZ34Q-3WOYVjf6" : {
+      "date" : "1437992341",
+      "temp" : "67.8866"
+    },
+    "-JvE0g2Bzgl3ceGFXmR_" : {
+      "date" : "1437992401",
+      "temp" : "67.8866"
+    },
+    "-JvE0u_jiE1Mmbm_Ykrh" : {
+      "date" : "1437992461",
+      "temp" : "67.775"
+    },
+    "-JvE18M77LJcAYkJAfsY" : {
+      "date" : "1437992522",
+      "temp" : "67.8866"
+    },
+    "-JvE1MtCNQgBQYhcxwGg" : {
+      "date" : "1437992581",
+      "temp" : "67.775"
+    },
+    "-JvE1af8nDIiofP8iuHb" : {
+      "date" : "1437992642",
+      "temp" : "67.775"
+    },
+    "-JvE1pCLH_mBhdmCWSPA" : {
+      "date" : "1437992701",
+      "temp" : "67.6616"
+    },
+    "-JvE22z98zKC-RpKp9SX" : {
+      "date" : "1437992762",
+      "temp" : "67.6616"
+    },
+    "-JvE2HXP3RA9_3m6z7ys" : {
+      "date" : "1437992821",
+      "temp" : "67.775"
+    },
+    "-JvE2W3YAkUdnUSLBLIp" : {
+      "date" : "1437992881",
+      "temp" : "67.6616"
+    },
+    "-JvE2jqZKfHP_wAU5N52" : {
+      "date" : "1437992941",
+      "temp" : "67.6616"
+    },
+    "-JvE2yNhGFW8GzGLLmP4" : {
+      "date" : "1437993001",
+      "temp" : "67.6616"
+    },
+    "-JvE3C9ku3pn-SPCjSke" : {
+      "date" : "1437993061",
+      "temp" : "67.6616"
+    },
+    "-JvE3QgyTHrrrvCi0r_b" : {
+      "date" : "1437993121",
+      "temp" : "67.55"
+    },
+    "-JvE3eTtzHRlBHVATeXJ" : {
+      "date" : "1437993181",
+      "temp" : "67.6616"
+    },
+    "-JvE3t-l0FUplcV94QmG" : {
+      "date" : "1437993241",
+      "temp" : "67.55"
+    },
+    "-JvE46mc9dGQgAC0nelq" : {
+      "date" : "1437993302",
+      "temp" : "67.55"
+    },
+    "-JvE4LJT-xXATsEBSJYr" : {
+      "date" : "1437993361",
+      "temp" : "67.55"
+    },
+    "-JvE4_50HTuyTJgW8w9t" : {
+      "date" : "1437993422",
+      "temp" : "67.55"
+    },
+    "-JvE4nc8Jw06vxB_iBLh" : {
+      "date" : "1437993481",
+      "temp" : "67.4366"
+    },
+    "-JvE51PEOI8Z99LzESmp" : {
+      "date" : "1437993542",
+      "temp" : "67.4366"
+    },
+    "-JvE5FwCXyC5FaK6fr9E" : {
+      "date" : "1437993601",
+      "temp" : "67.4366"
+    },
+    "-JvE5Ui2fMTZEpAhs_GB" : {
+      "date" : "1437993662",
+      "temp" : "67.4366"
+    },
+    "-JvE5iWR08ByK5IkYKMF" : {
+      "date" : "1437993721",
+      "temp" : "67.4366"
+    },
+    "-JvE5wnpTWv2xzMhBXKf" : {
+      "date" : "1437993781",
+      "temp" : "67.4366"
+    },
+    "-JvE6AabNp4i5XbX8zLf" : {
+      "date" : "1437993841",
+      "temp" : "67.325"
+    },
+    "-JvE6P84o0WqaaYZiSC_" : {
+      "date" : "1437993901",
+      "temp" : "67.325"
+    },
+    "-JvE6cv0k5kHlY0DvX_6" : {
+      "date" : "1437993962",
+      "temp" : "67.325"
+    },
+    "-JvE6rSMPxhpzyCzgeQw" : {
+      "date" : "1437994021",
+      "temp" : "67.325"
+    },
+    "-JvE75EXD1GwMUun3ZLi" : {
+      "date" : "1437994082",
+      "temp" : "67.325"
+    },
+    "-JvE7JlqbviVEq2KRb8H" : {
+      "date" : "1437994141",
+      "temp" : "67.325"
+    },
+    "-JvE7YYc3ZghzkwPA1jy" : {
+      "date" : "1437994202",
+      "temp" : "67.2116"
+    },
+    "-JvE7m5dZyoQcE8RdN6a" : {
+      "date" : "1437994261",
+      "temp" : "67.325"
+    },
+    "-JvE8-cs2ft5mppRZUvl" : {
+      "date" : "1437994321",
+      "temp" : "67.2116"
+    },
+    "-JvE8EPY1Efq1lWRpEJa" : {
+      "date" : "1437994381",
+      "temp" : "67.2116"
+    },
+    "-JvE8SweC70xsMmHS5MN" : {
+      "date" : "1437994441",
+      "temp" : "67.2116"
+    },
+    "-JvE8gnHX3grMOjOsYh9" : {
+      "date" : "1437994501",
+      "temp" : "67.1"
+    },
+    "-JvE8vKlbHeD6pu601Kx" : {
+      "date" : "1437994561",
+      "temp" : "67.1"
+    },
+    "-JvE98s-wBPtV2IPneFc" : {
+      "date" : "1437994621",
+      "temp" : "67.1"
+    },
+    "-JvE9NeX-Ato0l5PD5vB" : {
+      "date" : "1437994681",
+      "temp" : "67.1"
+    },
+    "-JvE9bBmGdx0vqmz5gJv" : {
+      "date" : "1437994741",
+      "temp" : "67.1"
+    },
+    "-JvE9qIfM_Z3OmaUZqtp" : {
+      "date" : "1437994801",
+      "temp" : "67.1"
+    },
+    "-JvEA3aOxjNDzavVXxWD" : {
+      "date" : "1437994861",
+      "temp" : "66.9866"
+    },
+    "-JvEAI7QEKqlYeyf2p5Z" : {
+      "date" : "1437994921",
+      "temp" : "66.9866"
+    },
+    "-JvEAWuu-PM6SpA4J2S_" : {
+      "date" : "1437994981",
+      "temp" : "66.9866"
+    },
+    "-JvEAkWjCY2-5l8ZlkZu" : {
+      "date" : "1437995041",
+      "temp" : "66.9866"
+    },
+    "-JvEAzImuUKUEsrTQpBP" : {
+      "date" : "1437995102",
+      "temp" : "66.9866"
+    },
+    "-JvEBCqUJGTIBh0_CWS1" : {
+      "date" : "1437995161",
+      "temp" : "66.9866"
+    },
+    "-JvEBRO6stZGr6wH0-Qx" : {
+      "date" : "1437995221",
+      "temp" : "66.9866"
+    },
+    "-JvEBf9j3R0SMT314J5b" : {
+      "date" : "1437995281",
+      "temp" : "66.875"
+    },
+    "-JvEBtgibsHUaZSoESS7" : {
+      "date" : "1437995341",
+      "temp" : "66.875"
+    },
+    "-JvEC7T4fqQi1oSlI0LL" : {
+      "date" : "1437995401",
+      "temp" : "66.875"
+    },
+    "-JvECM-C_ilY3TjxtoFc" : {
+      "date" : "1437995461",
+      "temp" : "66.875"
+    },
+    "-JvEC_lnuhBj73exrh2x" : {
+      "date" : "1437995522",
+      "temp" : "66.875"
+    },
+    "-JvECoYPrxao_I27aoFm" : {
+      "date" : "1437995581",
+      "temp" : "66.7616"
+    },
+    "-JvED245o_1Zo67EHvC1" : {
+      "date" : "1437995642",
+      "temp" : "66.7616"
+    },
+    "-JvEDGb7GybB88k-fkL6" : {
+      "date" : "1437995701",
+      "temp" : "66.875"
+    },
+    "-JvEDVOB_gdyW0m3a1F-" : {
+      "date" : "1437995762",
+      "temp" : "66.7616"
+    },
+    "-JvEDivIqR7g2Kne5c8E" : {
+      "date" : "1437995821",
+      "temp" : "66.7616"
+    },
+    "-JvEDxhFvqsu0l0nJIup" : {
+      "date" : "1437995882",
+      "temp" : "66.7616"
+    },
+    "-JvEEBEahP8HlxEtr5q6" : {
+      "date" : "1437995941",
+      "temp" : "66.7616"
+    },
+    "-JvEEQ0F72F0wg1Xe4KH" : {
+      "date" : "1437996002",
+      "temp" : "66.7616"
+    },
+    "-JvEEdZDh_SKXPeiHUfB" : {
+      "date" : "1437996061",
+      "temp" : "66.65"
+    },
+    "-JvEEsE7UvKxYqlyHCJA" : {
+      "date" : "1437996121",
+      "temp" : "66.65"
+    },
+    "-JvEF5l6JYqMOeFUxZfW" : {
+      "date" : "1437996181",
+      "temp" : "66.65"
+    },
+    "-JvEFKXeMeKXRmpMKDBd" : {
+      "date" : "1437996241",
+      "temp" : "66.65"
+    },
+    "-JvEFZ3r3QNftj6AmIfF" : {
+      "date" : "1437996301",
+      "temp" : "66.65"
+    },
+    "-JvEFmqeAjQn-brZeE2L" : {
+      "date" : "1437996362",
+      "temp" : "66.65"
+    },
+    "-JvEG0Ndcyonmf7P5F-f" : {
+      "date" : "1437996421",
+      "temp" : "66.5366"
+    },
+    "-JvEGF9IDRZtUz3UW2vR" : {
+      "date" : "1437996482",
+      "temp" : "66.5366"
+    },
+    "-JvEGTgJNG5ITnzSkuiP" : {
+      "date" : "1437996541",
+      "temp" : "66.5366"
+    },
+    "-JvEGhTOtkR6aiRHIVrv" : {
+      "date" : "1437996602",
+      "temp" : "66.5366"
+    },
+    "-JvEGw-XTWyQ_CpYVrbz" : {
+      "date" : "1437996661",
+      "temp" : "66.5366"
+    },
+    "-JvEH9mWcH7WVzuSzcpK" : {
+      "date" : "1437996722",
+      "temp" : "66.5366"
+    },
+    "-JvEHOJkqemVO4N1G9Zn" : {
+      "date" : "1437996781",
+      "temp" : "66.425"
+    },
+    "-JvEHcpXAnsmDL3mYYJF" : {
+      "date" : "1437996842",
+      "temp" : "66.425"
+    },
+    "-JvEHqddhQHfLRgkck_m" : {
+      "date" : "1437996901",
+      "temp" : "66.425"
+    },
+    "-JvEI4AQYsVDWm2Qu9BE" : {
+      "date" : "1437996961",
+      "temp" : "66.425"
+    },
+    "-JvEIJ-vvXuphV8HyuPG" : {
+      "date" : "1437997021",
+      "temp" : "66.425"
+    },
+    "-JvEIXXmTNOjGQmXMrZt" : {
+      "date" : "1437997081",
+      "temp" : "66.425"
+    },
+    "-JvEIlJbsVlxeANLwdL2" : {
+      "date" : "1437997142",
+      "temp" : "66.425"
+    },
+    "-JvEIzqmXK-sUjFW3GG3" : {
+      "date" : "1437997201",
+      "temp" : "66.3116"
+    },
+    "-JvEJDckI5yTCVq6WlpL" : {
+      "date" : "1437997262",
+      "temp" : "66.3116"
+    },
+    "-JvEJS9WXdS8bT2SBcok" : {
+      "date" : "1437997321",
+      "temp" : "66.3116"
+    },
+    "-JvEJfy66yN-cfUoJeBC" : {
+      "date" : "1437997382",
+      "temp" : "66.3116"
+    },
+    "-JvEJuVV9Jz3DUHEfLyV" : {
+      "date" : "1437997441",
+      "temp" : "66.3116"
+    },
+    "-JvEK82MX9cgCnBYm-fN" : {
+      "date" : "1437997501",
+      "temp" : "66.3116"
+    },
+    "-JvEKMpbtywIfI5Mj1ES" : {
+      "date" : "1437997562",
+      "temp" : "66.2"
+    },
+    "-JvEKaNW1wieTNofg42P" : {
+      "date" : "1437997621",
+      "temp" : "66.2"
+    },
+    "-JvEKp9DisW6x1ZsgY3j" : {
+      "date" : "1437997682",
+      "temp" : "66.2"
+    },
+    "-JvEL2gWTZ1vDLWO2aOe" : {
+      "date" : "1437997741",
+      "temp" : "66.2"
+    },
+    "-JvELIgs9qG6VJZrxqbD" : {
+      "date" : "1437997802",
+      "temp" : "66.0866"
+    },
+    "-JvELW-ZLrta4XYGXFjY" : {
+      "date" : "1437997861",
+      "temp" : "66.2"
+    },
+    "-JvELjXvb4rYINXoVI4P" : {
+      "date" : "1437997921",
+      "temp" : "66.2"
+    },
+    "-JvELyKU1uayFeBDwtdD" : {
+      "date" : "1437997981",
+      "temp" : "66.2"
+    },
+    "-JvEMBsPlNuuCzX5niod" : {
+      "date" : "1437998041",
+      "temp" : "66.0866"
+    },
+    "-JvEMQeARL7D6FZb8WAw" : {
+      "date" : "1437998102",
+      "temp" : "66.0866"
+    },
+    "-JvEMeBA0oaRhka4ae_G" : {
+      "date" : "1437998161",
+      "temp" : "66.0866"
+    },
+    "-JvEMsxaKPybNoZzH6Lc" : {
+      "date" : "1437998222",
+      "temp" : "66.0866"
+    },
+    "-JvEN6jAkOZ_AqjUddYB" : {
+      "date" : "1437998281",
+      "temp" : "65.975"
+    },
+    "-JvENLG6hwdKRr6_vvYL" : {
+      "date" : "1437998342",
+      "temp" : "65.975"
+    },
+    "-JvENZnLMgr7aB04wUCh" : {
+      "date" : "1437998401",
+      "temp" : "65.975"
+    },
+    "-JvENn_Gaw3I7722o-um" : {
+      "date" : "1437998462",
+      "temp" : "65.975"
+    },
+    "-JvEO16-wKBHmY5la7ZS" : {
+      "date" : "1437998521",
+      "temp" : "65.975"
+    },
+    "-JvEOFsZmJgUSY5VSv4F" : {
+      "date" : "1437998582",
+      "temp" : "65.975"
+    },
+    "-JvEOUPsir8dduKN8hwd" : {
+      "date" : "1437998641",
+      "temp" : "65.8616"
+    },
+    "-JvEOiBxod484xvGg1v-" : {
+      "date" : "1437998702",
+      "temp" : "65.8616"
+    },
+    "-JvEOwizUyh9oBMAGrI5" : {
+      "date" : "1437998761",
+      "temp" : "65.8616"
+    },
+    "-JvEPAGXa5aVAtLJ6FX-" : {
+      "date" : "1437998821",
+      "temp" : "65.8616"
+    },
+    "-JvEPP69NRStlJJBisPx" : {
+      "date" : "1437998881",
+      "temp" : "65.8616"
+    },
+    "-JvEPcd6uX7aDAc4k0vZ" : {
+      "date" : "1437998941",
+      "temp" : "65.8616"
+    },
+    "-JvEPrPrq5Z1IX_VJbcu" : {
+      "date" : "1437999002",
+      "temp" : "65.8616"
+    },
+    "-JvEQ4wV5VEiK2e6KYEx" : {
+      "date" : "1437999061",
+      "temp" : "65.8616"
+    },
+    "-JvEQJi2RUGaQXUWEJLg" : {
+      "date" : "1437999122",
+      "temp" : "65.75"
+    },
+    "-JvEQYFTBXIuZBoMs8Gk" : {
+      "date" : "1437999181",
+      "temp" : "65.75"
+    },
+    "-JvEQm18fX4oKYRk6AHF" : {
+      "date" : "1437999242",
+      "temp" : "65.75"
+    },
+    "-JvER-ZAgmTflrcgo0_d" : {
+      "date" : "1437999301",
+      "temp" : "65.75"
+    },
+    "-JvEREK_mQrXAX1HVBUh" : {
+      "date" : "1437999362",
+      "temp" : "65.75"
+    },
+    "-JvERSrgZUMVLAovDbop" : {
+      "date" : "1437999421",
+      "temp" : "65.75"
+    },
+    "-JvERgOierl-J_Tvtxrd" : {
+      "date" : "1437999481",
+      "temp" : "65.75"
+    },
+    "-JvERvAezu3qPRCWB_bF" : {
+      "date" : "1437999541",
+      "temp" : "65.6366"
+    },
+    "-JvES8i32hOXPfi8ojrT" : {
+      "date" : "1437999601",
+      "temp" : "65.6366"
+    },
+    "-JvESNVq4kkv0P9w9sSn" : {
+      "date" : "1437999661",
+      "temp" : "65.6366"
+    },
+    "-JvESb297KJ0hGh2xSF1" : {
+      "date" : "1437999721",
+      "temp" : "65.6366"
+    },
+    "-JvESpooSs5kOEcQiTA1" : {
+      "date" : "1437999782",
+      "temp" : "65.6366"
+    },
+    "-JvET3Lk67-RtP6lEv1H" : {
+      "date" : "1437999841",
+      "temp" : "65.525"
+    },
+    "-JvETI7kAkBXk-Q052zQ" : {
+      "date" : "1437999902",
+      "temp" : "65.6366"
+    },
+    "-JvETWfB0pGIa7GqtuSz" : {
+      "date" : "1437999961",
+      "temp" : "65.525"
+    },
+    "-JvETkUmDPH5l-Hb-bXo" : {
+      "date" : "1438000022",
+      "temp" : "65.525"
+    },
+    "-JvETz2X2PbmCDcpFBeQ" : {
+      "date" : "1438000081",
+      "temp" : "65.525"
+    },
+    "-JvEUCeDlaSTMljOUZrN" : {
+      "date" : "1438000141",
+      "temp" : "65.525"
+    },
+    "-JvEURBICCBYUT6GvGhv" : {
+      "date" : "1438000201",
+      "temp" : "65.525"
+    },
+    "-JvEUf1yWNq9vRdXkQ_1" : {
+      "date" : "1438000261",
+      "temp" : "65.4116"
+    },
+    "-JvEUt_7Pq4ecn-Brqgc" : {
+      "date" : "1438000321",
+      "temp" : "65.4116"
+    },
+    "-JvEV7LzI4XWuqXY0Ftu" : {
+      "date" : "1438000382",
+      "temp" : "65.4116"
+    },
+    "-JvEVLsik64niiB34eTs" : {
+      "date" : "1438000441",
+      "temp" : "65.4116"
+    },
+    "-JvEV_esnFeeO753Xbqg" : {
+      "date" : "1438000502",
+      "temp" : "65.4116"
+    },
+    "-JvEVoC2wp0lWjXdyuMa" : {
+      "date" : "1438000561",
+      "temp" : "65.4116"
+    },
+    "-JvEW1ixsFsSo2CfnIkW" : {
+      "date" : "1438000621",
+      "temp" : "65.4116"
+    },
+    "-JvEWGXJmGUH9Qzz111B" : {
+      "date" : "1438000681",
+      "temp" : "65.3"
+    },
+    "-JvEWV3c7vQQlUc4j1Mq" : {
+      "date" : "1438000741",
+      "temp" : "65.3"
+    },
+    "-JvEWiqFmfGMXDFf4Bdk" : {
+      "date" : "1438000802",
+      "temp" : "65.3"
+    },
+    "-JvEWxNRUSd6KZzKs1G5" : {
+      "date" : "1438000861",
+      "temp" : "65.3"
+    },
+    "-JvEXB9sk_sRnmUoLXwC" : {
+      "date" : "1438000922",
+      "temp" : "65.3"
+    },
+    "-JvEXPgpdRzAfW-ur3FC" : {
+      "date" : "1438000981",
+      "temp" : "65.3"
+    },
+    "-JvEXdjKunnVkXwCUElw" : {
+      "date" : "1438001042",
+      "temp" : "65.1866"
+    },
+    "-JvEXs0zhRAoT-Z9_hak" : {
+      "date" : "1438001101",
+      "temp" : "65.1866"
+    },
+    "-JvEY5Z1n-uH9B_KueNh" : {
+      "date" : "1438001161",
+      "temp" : "65.1866"
+    },
+    "-JvEYKKfq1TFOS8NPBwO" : {
+      "date" : "1438001221",
+      "temp" : "65.1866"
+    },
+    "-JvEYYsh9pnSau2DTv_3" : {
+      "date" : "1438001281",
+      "temp" : "65.1866"
+    },
+    "-JvEYmf-dG_d1mKONE4D" : {
+      "date" : "1438001341",
+      "temp" : "65.1866"
+    },
+    "-JvEZ0CdnpTWSKQhxhmZ" : {
+      "date" : "1438001401",
+      "temp" : "65.1866"
+    },
+    "-JvEZEzt12vLyVLIc2hN" : {
+      "date" : "1438001462",
+      "temp" : "65.1866"
+    },
+    "-JvEZTWzUH2Gewj5r-2C" : {
+      "date" : "1438001521",
+      "temp" : "65.075"
+    },
+    "-JvEZhIdsbjjmkjyuZdU" : {
+      "date" : "1438001582",
+      "temp" : "65.075"
+    },
+    "-JvEZvpn3llCNphFlmDu" : {
+      "date" : "1438001641",
+      "temp" : "65.075"
+    },
+    "-JvE_9baDATnHXlCjMsy" : {
+      "date" : "1438001702",
+      "temp" : "65.075"
+    },
+    "-JvE_O8alBx50588ttCM" : {
+      "date" : "1438001761",
+      "temp" : "65.075"
+    },
+    "-JvE_bvPncob3uj-wiLv" : {
+      "date" : "1438001822",
+      "temp" : "65.075"
+    },
+    "-JvE_qSx0J3hzMy80C3O" : {
+      "date" : "1438001881",
+      "temp" : "65.075"
+    },
+    "-JvEa3zqE3mam2up_3Ol" : {
+      "date" : "1438001941",
+      "temp" : "65.075"
+    },
+    "-JvEaIl6S7Iy4G2ojOIf" : {
+      "date" : "1438002001",
+      "temp" : "64.9616"
+    },
+    "-JvEaXHsO2OdL-e2gKW3" : {
+      "date" : "1438002061",
+      "temp" : "64.9616"
+    },
+    "-JvEal3yiNdU7CNljVXg" : {
+      "date" : "1438002121",
+      "temp" : "64.9616"
+    },
+    "-JvEazb7dmF4h-Lk_Q7P" : {
+      "date" : "1438002181",
+      "temp" : "64.9616"
+    },
+    "-JvEbDOnUmuqFxLEp_9W" : {
+      "date" : "1438002241",
+      "temp" : "64.9616"
+    },
+    "-JvEbRw--Wy-kwE_wLWR" : {
+      "date" : "1438002301",
+      "temp" : "64.85"
+    },
+    "-JvEbfh_AwALGcnglkkK" : {
+      "date" : "1438002362",
+      "temp" : "64.85"
+    },
+    "-JvEbuIQ5sQxuewXBedq" : {
+      "date" : "1438002421",
+      "temp" : "64.85"
+    },
+    "-JvEc7pYHWmzLGz_IL-a" : {
+      "date" : "1438002481",
+      "temp" : "64.85"
+    },
+    "-JvEcMfSf1i9uKNO4ALE" : {
+      "date" : "1438002541",
+      "temp" : "64.85"
+    },
+    "-JvEcaCwIH1KIq2zBfjF" : {
+      "date" : "1438002601",
+      "temp" : "64.85"
+    },
+    "-JvEcp-HgkW95IwjonxN" : {
+      "date" : "1438002662",
+      "temp" : "64.85"
+    },
+    "-JvEd2Xk7JUN_TQHFgRN" : {
+      "date" : "1438002721",
+      "temp" : "64.85"
+    },
+    "-JvEdH3qOb2SfrOx1Pjl" : {
+      "date" : "1438002781",
+      "temp" : "64.85"
+    },
+    "-JvEdVqRmI6LmK8IcRPQ" : {
+      "date" : "1438002841",
+      "temp" : "64.85"
+    },
+    "-JvEdjNzHb1TjaysyGnh" : {
+      "date" : "1438002901",
+      "temp" : "64.7366"
+    },
+    "-JvEdyAvFqmAF04EoWVv" : {
+      "date" : "1438002961",
+      "temp" : "64.7366"
+    },
+    "-JvEeBiRGS_JM0EvUzOI" : {
+      "date" : "1438003021",
+      "temp" : "64.7366"
+    },
+    "-JvEeQVWB87a0owyOB7r" : {
+      "date" : "1438003082",
+      "temp" : "64.7366"
+    },
+    "-JvEee1XZUYQecUcI1PA" : {
+      "date" : "1438003141",
+      "temp" : "64.7366"
+    },
+    "-JvEesoPpwJK53k5rcxD" : {
+      "date" : "1438003202",
+      "temp" : "64.625"
+    },
+    "-JvEf6LSYHOrws-MW3ec" : {
+      "date" : "1438003261",
+      "temp" : "64.7366"
+    },
+    "-JvEfL7uWcFDY5m6MAdW" : {
+      "date" : "1438003322",
+      "temp" : "64.625"
+    },
+    "-JvEfZf8Bj5PPl7Rp1w_" : {
+      "date" : "1438003381",
+      "temp" : "64.625"
+    },
+    "-JvEfnCOtuBSPXvy065k" : {
+      "date" : "1438003441",
+      "temp" : "64.625"
+    },
+    "-JvEg0z0aBHwj4s2H4aK" : {
+      "date" : "1438003501",
+      "temp" : "64.625"
+    },
+    "-JvEgFWO3l_-SQewmRnP" : {
+      "date" : "1438003561",
+      "temp" : "64.625"
+    },
+    "-JvEgUa48kTRQICRDs-d" : {
+      "date" : "1438003621",
+      "temp" : "64.625"
+    },
+    "-JvEgi7gjlPThnmmwrJQ" : {
+      "date" : "1438003681",
+      "temp" : "64.625"
+    },
+    "-JvEgweyBcb61nc6e8hq" : {
+      "date" : "1438003742",
+      "temp" : "64.625"
+    },
+    "-JvEhABlhpvK9vRPLVfp" : {
+      "date" : "1438003801",
+      "temp" : "64.625"
+    },
+    "-JvEhOjJs4xpf_lWV9T9" : {
+      "date" : "1438003861",
+      "temp" : "64.625"
+    },
+    "-JvEhcWU8mLMBca4zezJ" : {
+      "date" : "1438003921",
+      "temp" : "64.625"
+    },
+    "-JvEhrI6aS7Vf1s-eRnJ" : {
+      "date" : "1438003982",
+      "temp" : "64.5116"
+    },
+    "-JvEi4pVOMrsJx6sxtyY" : {
+      "date" : "1438004041",
+      "temp" : "64.5116"
+    },
+    "-JvEiJbn-Zi33eMuCK1U" : {
+      "date" : "1438004101",
+      "temp" : "64.5116"
+    },
+    "-JvEiY9BpGFeUzHee6EL" : {
+      "date" : "1438004162",
+      "temp" : "64.625"
+    },
+    "-JvEilg-WsDXP1GoDgb_" : {
+      "date" : "1438004221",
+      "temp" : "64.5116"
+    },
+    "-JvEj-SbetmJG2TlKJz1" : {
+      "date" : "1438004282",
+      "temp" : "64.5116"
+    },
+    "-JvEjDzo1aXTkDZVMQc1" : {
+      "date" : "1438004341",
+      "temp" : "64.5116"
+    },
+    "-JvEjSm80QCJLtjktLbn" : {
+      "date" : "1438004402",
+      "temp" : "64.5116"
+    },
+    "-JvEjgJb0IA6SlzozWpu" : {
+      "date" : "1438004461",
+      "temp" : "64.5116"
+    },
+    "-JvEjv5N0NCp9lOLUYqk" : {
+      "date" : "1438004522",
+      "temp" : "64.5116"
+    },
+    "-JvEk8cMZwuRvxo4OA4r" : {
+      "date" : "1438004581",
+      "temp" : "64.5116"
+    },
+    "-JvEkN9jCVa42ywhhkNC" : {
+      "date" : "1438004641",
+      "temp" : "64.5116"
+    },
+    "-JvEkawbqjOMxMrtetKS" : {
+      "date" : "1438004701",
+      "temp" : "64.5116"
+    },
+    "-JvEkpTMKo56qdl6B48m" : {
+      "date" : "1438004761",
+      "temp" : "64.625"
+    },
+    "-JvEl3EzygzyZXJtzhcj" : {
+      "date" : "1438004821",
+      "temp" : "64.625"
+    },
+    "-JvElHmIQRpYefGZLYu3" : {
+      "date" : "1438004881",
+      "temp" : "64.625"
+    },
+    "-JvElWYyXE2QfAuCxAUv" : {
+      "date" : "1438004941",
+      "temp" : "64.625"
+    },
+    "-JvElk4xatuQfHVQNen5" : {
+      "date" : "1438005001",
+      "temp" : "64.625"
+    },
+    "-JvElysx0pKwHubX7Wbf" : {
+      "date" : "1438005061",
+      "temp" : "64.625"
+    },
+    "-JvEmCQ7-KTnBvU7lp2K" : {
+      "date" : "1438005121",
+      "temp" : "64.625"
+    },
+    "-JvEmRBz_jRPC7EHjQB5" : {
+      "date" : "1438005182",
+      "temp" : "64.625"
+    },
+    "-JvEmeyZ9Vt-m6rHMyVr" : {
+      "date" : "1438005241",
+      "temp" : "64.7366"
+    },
+    "-JvEmtWg23AfNV_dwxTZ" : {
+      "date" : "1438005302",
+      "temp" : "64.7366"
+    },
+    "-JvEn72kRrmH1AX5-2HS" : {
+      "date" : "1438005361",
+      "temp" : "64.7366"
+    },
+    "-JvEnM3r7VkmOqIXCtqQ" : {
+      "date" : "1438005422",
+      "temp" : "64.7366"
+    },
+    "-JvEn_MOvT2FtHm0flzi" : {
+      "date" : "1438005481",
+      "temp" : "64.7366"
+    },
+    "-JvEnntMubKf_FDsTUOR" : {
+      "date" : "1438005541",
+      "temp" : "64.85"
+    },
+    "-JvEo1f7-dXH8EI6HtEY" : {
+      "date" : "1438005601",
+      "temp" : "64.85"
+    },
+    "-JvEoGCtPBtdrlzDfiNO" : {
+      "date" : "1438005661",
+      "temp" : "64.85"
+    },
+    "-JvEoUzaOsIrH0cWN84H" : {
+      "date" : "1438005721",
+      "temp" : "64.9616"
+    },
+    "-JvEoiWTmS7BBRysQ1AV" : {
+      "date" : "1438005781",
+      "temp" : "64.9616"
+    },
+    "-JvEoxIs3cdYVz_haeka" : {
+      "date" : "1438005841",
+      "temp" : "65.075"
+    },
+    "-JvEpApxdx0axMtP0QyZ" : {
+      "date" : "1438005901",
+      "temp" : "65.075"
+    },
+    "-JvEpPcYbTCeclnHR-P1" : {
+      "date" : "1438005962",
+      "temp" : "65.1866"
+    },
+    "-JvEpd9Z0k0QqgS43z-R" : {
+      "date" : "1438006021",
+      "temp" : "65.4116"
+    },
+    "-JvEprwMxQVS_RcfDACm" : {
+      "date" : "1438006082",
+      "temp" : "65.6366"
+    },
+    "-JvEq5TxfRbbMkjPaO4W" : {
+      "date" : "1438006141",
+      "temp" : "65.975"
+    },
+    "-JvEqKVASm6NDmVRDvbY" : {
+      "date" : "1438006202",
+      "temp" : "66.425"
+    },
+    "-JvEqYmjPuC3XPhIWnEQ" : {
+      "date" : "1438006261",
+      "temp" : "66.7616"
+    },
+    "-JvEqmJzeY6X0noV0KZ8" : {
+      "date" : "1438006321",
+      "temp" : "67.1"
+    },
+    "-JvEr05hTFCzlmUkkJLi" : {
+      "date" : "1438006381",
+      "temp" : "67.4366"
+    },
+    "-JvErEcz94uMJSapciNV" : {
+      "date" : "1438006441",
+      "temp" : "67.4366"
+    },
+    "-JvErTPesRWY2UyXFdMC" : {
+      "date" : "1438006501",
+      "temp" : "67.4366"
+    },
+    "-JvErgwuhZTn5KnxJRhZ" : {
+      "date" : "1438006561",
+      "temp" : "67.325"
+    },
+    "-JvErvjwYADnAQUdU56N" : {
+      "date" : "1438006621",
+      "temp" : "67.2116"
+    },
+    "-JvEs9Gq7LlXBhmMLdPp" : {
+      "date" : "1438006681",
+      "temp" : "67.1"
+    },
+    "-JvEsO26xWVPN2qsGzzx" : {
+      "date" : "1438006742",
+      "temp" : "66.9866"
+    },
+    "-JvEsb_4b4BMOaNuh6OV" : {
+      "date" : "1438006801",
+      "temp" : "66.7616"
+    },
+    "-JvEsqM7OIkPYglX2MU2" : {
+      "date" : "1438006862",
+      "temp" : "66.7616"
+    },
+    "-JvEt47gXEJw9HT__uC2" : {
+      "date" : "1438006921",
+      "temp" : "66.65"
+    },
+    "-JvEtIedFjU-zV8-JHYv" : {
+      "date" : "1438006982",
+      "temp" : "66.5366"
+    },
+    "-JvEtXBu9B1fjvde0mGi" : {
+      "date" : "1438007041",
+      "temp" : "66.5366"
+    },
+    "-JvEtkygVsIJwGEZdx9z" : {
+      "date" : "1438007102",
+      "temp" : "66.425"
+    },
+    "-JvEtzVtxnJJYwfH1og6" : {
+      "date" : "1438007161",
+      "temp" : "66.5366"
+    },
+    "-JvEuAgenfW5vHCURFmc" : {
+      "date" : "1438007211",
+      "temp" : "66.5366"
+    },
+    "-JvEuDIHoYF_rjRnHXlb" : {
+      "date" : "1438007221",
+      "temp" : "66.65"
+    },
+    "-JvEuRpHzpo7ijowL6sW" : {
+      "date" : "1438007281",
+      "temp" : "66.65"
+    },
+    "-JvEufMaWDddtlDyNGNl" : {
+      "date" : "1438007341",
+      "temp" : "66.5366"
+    },
+    "-JvEuu8IfV706HCy0n7_" : {
+      "date" : "1438007401",
+      "temp" : "66.5366"
+    },
+    "-JvEv7fiADVsTlT5Q4-z" : {
+      "date" : "1438007461",
+      "temp" : "66.5366"
+    },
+    "-JvEvNCX33P3i2V_xSnN" : {
+      "date" : "1438007522",
+      "temp" : "66.5366"
+    },
+    "-JvEva01HlJVIHhEHCO3" : {
+      "date" : "1438007581",
+      "temp" : "66.5366"
+    },
+    "-JvEvon0CaJlqUTiqFcg" : {
+      "date" : "1438007642",
+      "temp" : "66.5366"
+    },
+    "-JvEw2KrRmOwDihWfa7i" : {
+      "date" : "1438007701",
+      "temp" : "66.5366"
+    },
+    "-JvEwH6nqx6kLZTXguP5" : {
+      "date" : "1438007762",
+      "temp" : "66.5366"
+    },
+    "-JvEwVeMLyfUcYzM4IhL" : {
+      "date" : "1438007821",
+      "temp" : "66.65"
+    },
+    "-JvEwjES_Q0X10VrRott" : {
+      "date" : "1438007881",
+      "temp" : "66.65"
+    },
+    "-JvEwy0JEYxccGXQh0oB" : {
+      "date" : "1438007942",
+      "temp" : "66.65"
+    },
+    "-JvExBZ4x1Tf4CTL7Dlo" : {
+      "date" : "1438008001",
+      "temp" : "66.7616"
+    },
+    "-JvExQKuG0cvIxTQDRLN" : {
+      "date" : "1438008062",
+      "temp" : "66.875"
+    },
+    "-JvExds8nat07FTj4OOX" : {
+      "date" : "1438008121",
+      "temp" : "66.7616"
+    },
+    "-JvExsdq0ZKgag3TtohF" : {
+      "date" : "1438008182",
+      "temp" : "66.875"
+    },
+    "-JvEy6AyEk_Z-Dxb_up9" : {
+      "date" : "1438008241",
+      "temp" : "66.7616"
+    },
+    "-JvEyKi6WWh1R80-kFGj" : {
+      "date" : "1438008301",
+      "temp" : "66.875"
+    },
+    "-JvEyZUhbxfI3TNqZQxn" : {
+      "date" : "1438008361",
+      "temp" : "66.875"
+    },
+    "-JvEyn1IA6MgtltXA3Xg" : {
+      "date" : "1438008421",
+      "temp" : "66.875"
+    },
+    "-JvEz0oDtcxYQPEwlJmG" : {
+      "date" : "1438008481",
+      "temp" : "66.9866"
+    },
+    "-JvEzFLcQo_AiQJWengu" : {
+      "date" : "1438008541",
+      "temp" : "66.9866"
+    },
+    "-JvEzU8SK16IgrSr3gpp" : {
+      "date" : "1438008601",
+      "temp" : "66.9866"
+    },
+    "-JvEzhfAjJiuM1j6-dDp" : {
+      "date" : "1438008661",
+      "temp" : "67.1"
+    },
+    "-JvEzwS4LZWV8ttJ8pIa" : {
+      "date" : "1438008722",
+      "temp" : "67.1"
+    },
+    "-JvF-9zT2YCx_4LYA1Zp" : {
+      "date" : "1438008781",
+      "temp" : "67.1"
+    },
+    "-JvF-OlEmIQ2KXEuLRmo" : {
+      "date" : "1438008842",
+      "temp" : "67.2116"
+    },
+    "-JvF-cIKQRTWWqaVqMQV" : {
+      "date" : "1438008901",
+      "temp" : "67.2116"
+    },
+    "-JvF-r4_NQqzM2hoLLjX" : {
+      "date" : "1438008962",
+      "temp" : "67.2116"
+    },
+    "-JvF04bxcEFRDj1gNDRP" : {
+      "date" : "1438009021",
+      "temp" : "67.2116"
+    },
+    "-JvF0JFBNs9COUqWOBV3" : {
+      "date" : "1438009081",
+      "temp" : "67.325"
+    },
+    "-JvF0Y18msq0Dig-7125" : {
+      "date" : "1438009142",
+      "temp" : "67.325"
+    },
+    "-JvF0lZTkOpegdPllcVz" : {
+      "date" : "1438009201",
+      "temp" : "67.325"
+    },
+    "-JvF1-5eea2zRVjsRGJV" : {
+      "date" : "1438009261",
+      "temp" : "67.4366"
+    },
+    "-JvF1DsKVQuMI-LVR-ng" : {
+      "date" : "1438009321",
+      "temp" : "67.4366"
+    },
+    "-JvF1SPigaHuCrTSoREy" : {
+      "date" : "1438009381",
+      "temp" : "67.4366"
+    },
+    "-JvF1gR2bB4tW-g87mIN" : {
+      "date" : "1438009441",
+      "temp" : "67.4366"
+    },
+    "-JvF1uiuCc7riV2o6IlL" : {
+      "date" : "1438009501",
+      "temp" : "67.4366"
+    },
+    "-JvF28VzSgpehc6tPQVm" : {
+      "date" : "1438009561",
+      "temp" : "67.55"
+    },
+    "-JvF2N1p6zeq6y7jdVI2" : {
+      "date" : "1438009621",
+      "temp" : "67.55"
+    },
+    "-JvF2aol_NrjxafPIlFh" : {
+      "date" : "1438009682",
+      "temp" : "67.55"
+    },
+    "-JvF2pLyDh6oJpb0PBnZ" : {
+      "date" : "1438009741",
+      "temp" : "67.55"
+    },
+    "-JvF337uaH_wvz15BMDy" : {
+      "date" : "1438009802",
+      "temp" : "67.6616"
+    },
+    "-JvF3HeneoJJ9RgnS6Qg" : {
+      "date" : "1438009861",
+      "temp" : "67.6616"
+    },
+    "-JvF3WRrJVfPWSOYfTl1" : {
+      "date" : "1438009922",
+      "temp" : "67.6616"
+    },
+    "-JvF3jz_2aWgpY1Wy49R" : {
+      "date" : "1438009981",
+      "temp" : "67.6616"
+    },
+    "-JvF3yWuokusbmVYNbyx" : {
+      "date" : "1438010041",
+      "temp" : "67.775"
+    },
+    "-JvF4CYEFHJT53e1vrT4" : {
+      "date" : "1438010101",
+      "temp" : "67.775"
+    },
+    "-JvF4QpODcb4c6ajsFFP" : {
+      "date" : "1438010161",
+      "temp" : "67.775"
+    },
+    "-JvF4ebNW_To2rN3T3zH" : {
+      "date" : "1438010221",
+      "temp" : "67.775"
+    },
+    "-JvF4t8iG8U3GuMX2p3Y" : {
+      "date" : "1438010281",
+      "temp" : "67.775"
+    },
+    "-JvF56vF-tJMHSOSFh6R" : {
+      "date" : "1438010341",
+      "temp" : "67.775"
+    },
+    "-JvF5LSBMqc0LJ-xFvsy" : {
+      "date" : "1438010401",
+      "temp" : "67.8866"
+    },
+    "-JvF5_Fa3SU3O_bYYJ5y" : {
+      "date" : "1438010461",
+      "temp" : "67.8866"
+    },
+    "-JvF5nmtgS_oG0YkQMjj" : {
+      "date" : "1438010521",
+      "temp" : "67.8866"
+    },
+    "-JvF61ZaQjHTitUfPKpN" : {
+      "date" : "1438010582",
+      "temp" : "68.0"
+    },
+    "-JvF6G6XOxl5-9cj8vsZ" : {
+      "date" : "1438010641",
+      "temp" : "68.0"
+    },
+    "-JvF6Ut60hi9QzP0eaR9" : {
+      "date" : "1438010702",
+      "temp" : "68.1116"
+    },
+    "-JvF6iQMG-edXjf8D9BI" : {
+      "date" : "1438010761",
+      "temp" : "68.1116"
+    },
+    "-JvF6wxamnTPJPzEVNsO" : {
+      "date" : "1438010821",
+      "temp" : "68.1116"
+    },
+    "-JvF7AjCaWI8CKyGyBDr" : {
+      "date" : "1438010881",
+      "temp" : "68.1116"
+    },
+    "-JvF7PGoNWQVD_qVUiGp" : {
+      "date" : "1438010941",
+      "temp" : "68.225"
+    },
+    "-JvF7d2QAXfjudem3HMJ" : {
+      "date" : "1438011001",
+      "temp" : "68.225"
+    },
+    "-JvF7r_KpdXXELtMo9eA" : {
+      "date" : "1438011061",
+      "temp" : "68.3366"
+    },
+    "-JvF85LrtjpO7xnL75Dh" : {
+      "date" : "1438011121",
+      "temp" : "68.3366"
+    },
+    "-JvF8JsjsLx5o78mHTfG" : {
+      "date" : "1438011181",
+      "temp" : "68.3366"
+    },
+    "-JvF8YfZae7QYgYu23St" : {
+      "date" : "1438011241",
+      "temp" : "68.3366"
+    },
+    "-JvF8mCKJcSRWMPWtutM" : {
+      "date" : "1438011301",
+      "temp" : "68.45"
+    },
+    "-JvF9-zFc0GNpbS8qMwK" : {
+      "date" : "1438011362",
+      "temp" : "68.45"
+    },
+    "-JvF9EWTfUa3WFY4IRiz" : {
+      "date" : "1438011421",
+      "temp" : "68.45"
+    },
+    "-JvF9TI5HE-xo9B94pOe" : {
+      "date" : "1438011482",
+      "temp" : "68.45"
+    },
+    "-JvF9gpbrRLgz2Cxtrux" : {
+      "date" : "1438011541",
+      "temp" : "68.5616"
+    },
+    "-JvF9vbP6nnujQYXNoPr" : {
+      "date" : "1438011602",
+      "temp" : "68.5616"
+    },
+    "-JvFA98cIGS5GjQl91xd" : {
+      "date" : "1438011661",
+      "temp" : "68.5616"
+    },
+    "-JvFANvkXWkpav2pllhJ" : {
+      "date" : "1438011721",
+      "temp" : "68.675"
+    },
+    "-JvFAbTUazXfdLKld2eV" : {
+      "date" : "1438011781",
+      "temp" : "68.675"
+    },
+    "-JvFAq0E59SpU3rwYn5F" : {
+      "date" : "1438011841",
+      "temp" : "68.675"
+    },
+    "-JvFB3o9InajOweuIbOR" : {
+      "date" : "1438011901",
+      "temp" : "68.675"
+    },
+    "-JvFBIL-N2OjdytG1U2u" : {
+      "date" : "1438011961",
+      "temp" : "68.7866"
+    },
+    "-JvFBX77T9Ehsvd5LPJf" : {
+      "date" : "1438012022",
+      "temp" : "68.7866"
+    },
+    "-JvFBkedzUo3Q6YuFQnL" : {
+      "date" : "1438012081",
+      "temp" : "68.7866"
+    },
+    "-JvFBzRlefqXe3FX9Hnm" : {
+      "date" : "1438012142",
+      "temp" : "68.7866"
+    },
+    "-JvFCCyl-NNf32SNGRH5" : {
+      "date" : "1438012201",
+      "temp" : "68.9"
+    },
+    "-JvFCRkzXExjopFsLq35" : {
+      "date" : "1438012262",
+      "temp" : "68.9"
+    },
+    "-JvFCfI0Spg5jAg8ye0R" : {
+      "date" : "1438012321",
+      "temp" : "69.0116"
+    },
+    "-JvFCtpeO_DCS184o_97" : {
+      "date" : "1438012381",
+      "temp" : "69.0116"
+    },
+    "-JvFD7ba7RfEbS7nBCF1" : {
+      "date" : "1438012441",
+      "temp" : "69.0116"
+    },
+    "-JvFDM8YusKmsWjXYlJT" : {
+      "date" : "1438012501",
+      "temp" : "69.0116"
+    },
+    "-JvFD_vcgGrxbzEj0IAc" : {
+      "date" : "1438012562",
+      "temp" : "69.125"
+    },
+    "-JvFDoSxHDHORgpQ_LG1" : {
+      "date" : "1438012621",
+      "temp" : "69.125"
+    },
+    "-JvFE2ETqeE0MNKgm2s8" : {
+      "date" : "1438012682",
+      "temp" : "69.125"
+    },
+    "-JvFEGlLFUklwuIaJh9s" : {
+      "date" : "1438012741",
+      "temp" : "69.125"
+    },
+    "-JvFEVYzWBHyQpztXe7z" : {
+      "date" : "1438012802",
+      "temp" : "69.125"
+    },
+    "-JvFEj5N2MMG5wxIxjQb" : {
+      "date" : "1438012861",
+      "temp" : "69.125"
+    },
+    "-JvFExs4vFPRwkzQpBOe" : {
+      "date" : "1438012922",
+      "temp" : "69.2366"
+    },
+    "-JvFFBP9kj82z3-JASNr" : {
+      "date" : "1438012981",
+      "temp" : "69.2366"
+    },
+    "-JvFFQAaJAuu-vfLB-sb" : {
+      "date" : "1438013042",
+      "temp" : "69.2366"
+    },
+    "-JvFFdwps_QjIEZtzrn9" : {
+      "date" : "1438013101",
+      "temp" : "69.2366"
+    },
+    "-JvFFsTlhF6a5n5jFrwG" : {
+      "date" : "1438013162",
+      "temp" : "69.35"
+    },
+    "-JvFG602SOcjlqoj_oOC" : {
+      "date" : "1438013221",
+      "temp" : "69.35"
+    },
+    "-JvFGKYSmnrR_NMS3HFA" : {
+      "date" : "1438013281",
+      "temp" : "69.35"
+    },
+    "-JvFGZKMr5bNhc_8ZnTU" : {
+      "date" : "1438013341",
+      "temp" : "69.35"
+    },
+    "-JvFGmrU11Dua5tqbhwE" : {
+      "date" : "1438013401",
+      "temp" : "69.35"
+    },
+    "-JvFH0d7gmCZuZZPPP3_" : {
+      "date" : "1438013461",
+      "temp" : "69.4616"
+    },
+    "-JvFHFANUtG4EhMs6k4K" : {
+      "date" : "1438013521",
+      "temp" : "69.35"
+    },
+    "-JvFHU5NZb0bhdyzEoiw" : {
+      "date" : "1438013582",
+      "temp" : "69.4616"
+    },
+    "-JvFHhdXdZh50LrV6n73" : {
+      "date" : "1438013642",
+      "temp" : "69.4616"
+    },
+    "-JvFHwAzY4A_clNdlmwN" : {
+      "date" : "1438013701",
+      "temp" : "69.4616"
+    },
+    "-JvFI9xnGso_W3L8Wtzz" : {
+      "date" : "1438013762",
+      "temp" : "69.4616"
+    },
+    "-JvFIOVcygAYjFV_opnT" : {
+      "date" : "1438013821",
+      "temp" : "69.575"
+    },
+    "-JvFIc1NkT2jpFXkFjLj" : {
+      "date" : "1438013881",
+      "temp" : "69.575"
+    },
+    "-JvFIqo0hsyqb_qMUkV0" : {
+      "date" : "1438013941",
+      "temp" : "69.575"
+    },
+    "-JvFJ4LYqUDG1GVTvcKR" : {
+      "date" : "1438014001",
+      "temp" : "69.6866"
+    },
+    "-JvFJJ7aB6JZI47asD59" : {
+      "date" : "1438014061",
+      "temp" : "69.6866"
+    },
+    "-JvFJXeuRL1JsAPTY6l1" : {
+      "date" : "1438014121",
+      "temp" : "69.8"
+    },
+    "-JvFJlRwiVw4gp4NdCKc" : {
+      "date" : "1438014182",
+      "temp" : "69.8"
+    },
+    "-JvFJzycHKcu3Ztceb6e" : {
+      "date" : "1438014241",
+      "temp" : "69.8"
+    },
+    "-JvFKDjz_0JmqaZ_iW6D" : {
+      "date" : "1438014302",
+      "temp" : "69.8"
+    },
+    "-JvFKSGj-8xCiLK87hJ2" : {
+      "date" : "1438014361",
+      "temp" : "69.9116"
+    },
+    "-JvFKg3coNWZohG1Qqbi" : {
+      "date" : "1438014422",
+      "temp" : "69.9116"
+    },
+    "-JvFKubC_vs0OT1FMeeU" : {
+      "date" : "1438014481",
+      "temp" : "69.9116"
+    },
+    "-JvFL8NkEnaOxHkreERz" : {
+      "date" : "1438014542",
+      "temp" : "69.9116"
+    },
+    "-JvFLMusAEqnMH9qiGyV" : {
+      "date" : "1438014601",
+      "temp" : "70.025"
+    },
+    "-JvFLaS4O9KYPn9phIdY" : {
+      "date" : "1438014661",
+      "temp" : "70.025"
+    },
+    "-JvFLpDh3XTM4yJK5JOS" : {
+      "date" : "1438014721",
+      "temp" : "70.025"
+    },
+    "-JvFM2lZr_JhN8SXydwJ" : {
+      "date" : "1438014781",
+      "temp" : "70.025"
+    },
+    "-JvFMHn-dxyMRqCCMvbu" : {
+      "date" : "1438014841",
+      "temp" : "70.1366"
+    },
+    "-JvFMW49XO3BOxH506fk" : {
+      "date" : "1438014901",
+      "temp" : "70.1366"
+    },
+    "-JvFMjqm4-yMLP745VTw" : {
+      "date" : "1438014961",
+      "temp" : "70.1366"
+    },
+    "-JvFMyNfGJfAky0axk32" : {
+      "date" : "1438015021",
+      "temp" : "70.25"
+    },
+    "-JvFNC9zpfa9kisvEpfk" : {
+      "date" : "1438015082",
+      "temp" : "70.25"
+    },
+    "-JvFNQh4Kkjo_js9W2E1" : {
+      "date" : "1438015141",
+      "temp" : "70.25"
+    },
+    "-JvFNeTlsL1z85xJBG0U" : {
+      "date" : "1438015202",
+      "temp" : "70.3616"
+    },
+    "-JvFNt-odMLekmNQIGG3" : {
+      "date" : "1438015261",
+      "temp" : "70.3616"
+    },
+    "-JvFO6nXW4RlGG77AMah" : {
+      "date" : "1438015322",
+      "temp" : "70.3616"
+    },
+    "-JvFOLKiZkZy8HajaiML" : {
+      "date" : "1438015381",
+      "temp" : "70.3616"
+    },
+    "-JvFOaMrQmo8n9MFc17Z" : {
+      "date" : "1438015442",
+      "temp" : "70.475"
+    },
+    "-JvFOng-Ol3wfLXEy9VX" : {
+      "date" : "1438015501",
+      "temp" : "70.475"
+    },
+    "-JvFP1DFkpz8A0Qannrc" : {
+      "date" : "1438015561",
+      "temp" : "70.475"
+    },
+    "-JvFPG-ANmbcfyUZJYZb" : {
+      "date" : "1438015622",
+      "temp" : "70.475"
+    },
+    "-JvFPUXXrT3misF3FPI0" : {
+      "date" : "1438015681",
+      "temp" : "70.5866"
+    },
+    "-JvFPiJHT8d-Hgitw-gq" : {
+      "date" : "1438015742",
+      "temp" : "70.5866"
+    },
+    "-JvFPwqbf2wXKzE9Qbdg" : {
+      "date" : "1438015801",
+      "temp" : "70.5866"
+    },
+    "-JvFQActr5vq0MxTFWBS" : {
+      "date" : "1438015862",
+      "temp" : "70.5866"
+    },
+    "-JvFQPA7VNtqlnZHbHY1" : {
+      "date" : "1438015921",
+      "temp" : "70.5866"
+    },
+    "-JvFQcwuc5V3qMiWRdwm" : {
+      "date" : "1438015982",
+      "temp" : "70.7"
+    },
+    "-JvFQrTrBkVWRRtjmAQl" : {
+      "date" : "1438016041",
+      "temp" : "70.7"
+    },
+    "-JvFR50FNDC_EdvUACL7" : {
+      "date" : "1438016101",
+      "temp" : "70.7"
+    },
+    "-JvFRJi7fo_O4xvO7Myk" : {
+      "date" : "1438016161",
+      "temp" : "70.7"
+    },
+    "-JvFRYVAern4ApSdjXZp" : {
+      "date" : "1438016222",
+      "temp" : "70.7"
+    },
+    "-JvFRm1wklv2MxYsCj4l" : {
+      "date" : "1438016281",
+      "temp" : "70.7"
+    },
+    "-JvFS-ohD99JKi587znx" : {
+      "date" : "1438016342",
+      "temp" : "70.7"
+    },
+    "-JvFSGfOgVXpkhdFBhex" : {
+      "date" : "1438016401",
+      "temp" : "70.8116"
+    },
+    "-JvFST-h9ewtyWrDTyvy" : {
+      "date" : "1438016461",
+      "temp" : "70.8116"
+    },
+    "-JvFSgmk-G5pj24iMQcA" : {
+      "date" : "1438016522",
+      "temp" : "70.8116"
+    },
+    "-JvFSvK4SHTGuhOKZpNl" : {
+      "date" : "1438016581",
+      "temp" : "70.8116"
+    },
+    "-JvFT8rXCtcAa8K0Lxm0" : {
+      "date" : "1438016641",
+      "temp" : "70.8116"
+    },
+    "-JvFTNd2LS2FjeMCFLu0" : {
+      "date" : "1438016701",
+      "temp" : "70.925"
+    },
+    "-JvFTbBTZLtql3eh1Xhc" : {
+      "date" : "1438016761",
+      "temp" : "70.8116"
+    },
+    "-JvFTpyU5fI4H1OP0cyc" : {
+      "date" : "1438016822",
+      "temp" : "70.925"
+    },
+    "-JvFU3VXpRHexJXjLxI9" : {
+      "date" : "1438016881",
+      "temp" : "70.925"
+    },
+    "-JvFUIGzaZEyZkWjLB1c" : {
+      "date" : "1438016942",
+      "temp" : "71.0366"
+    },
+    "-JvFUWoXnVWaapnLKabI" : {
+      "date" : "1438017001",
+      "temp" : "71.0366"
+    },
+    "-JvFUkaOqHi8EZXxKVva" : {
+      "date" : "1438017062",
+      "temp" : "71.0366"
+    },
+    "-JvFUz7Q7bC-XIUSu1fo" : {
+      "date" : "1438017121",
+      "temp" : "71.0366"
+    },
+    "-JvFVCuPYgbuNK-5qLEs" : {
+      "date" : "1438017182",
+      "temp" : "71.0366"
+    },
+    "-JvFVRRSWBUb3-H_h3kz" : {
+      "date" : "1438017241",
+      "temp" : "71.15"
+    },
+    "-JvFVfCzyjRyln0S43E2" : {
+      "date" : "1438017302",
+      "temp" : "71.15"
+    },
+    "-JvFVtzTH8P72YNPbp_0" : {
+      "date" : "1438017361",
+      "temp" : "71.15"
+    },
+    "-JvFW7H2Q_KYnY6DRPFQ" : {
+      "date" : "1438017421",
+      "temp" : "71.15"
+    },
+    "-JvFWM2jbN3la3I3pkNQ" : {
+      "date" : "1438017481",
+      "temp" : "71.2616"
+    },
+    "-JvFW_c4CB_sX-ZHKuHj" : {
+      "date" : "1438017541",
+      "temp" : "71.2616"
+    },
+    "-JvFWoP6WklATRXsQbHJ" : {
+      "date" : "1438017602",
+      "temp" : "71.375"
+    },
+    "-JvFX1w65uoYbMI7Vngz" : {
+      "date" : "1438017661",
+      "temp" : "71.375"
+    },
+    "-JvFXGhbrBXvm30YUHkQ" : {
+      "date" : "1438017722",
+      "temp" : "71.375"
+    },
+    "-JvFXVyg2a2THWleTs7Z" : {
+      "date" : "1438017781",
+      "temp" : "71.375"
+    },
+    "-JvFXj0fiaoeyQ7y-VCk" : {
+      "date" : "1438017842",
+      "temp" : "71.4866"
+    },
+    "-JvFXxZ49kiNdPxMLdij" : {
+      "date" : "1438017901",
+      "temp" : "71.4866"
+    },
+    "-JvFYB_G6uHm91jTlzDP" : {
+      "date" : "1438017962",
+      "temp" : "71.4866"
+    },
+    "-JvFYPrpB5mQrRWiCxde" : {
+      "date" : "1438018021",
+      "temp" : "71.4866"
+    },
+    "-JvFYddMMNaqSkrurCeZ" : {
+      "date" : "1438018082",
+      "temp" : "71.6"
+    },
+    "-JvFYsAUzPTQ4agxXcMz" : {
+      "date" : "1438018141",
+      "temp" : "71.4866"
+    },
+    "-JvFZ5hn0QKZG8NmiLyg" : {
+      "date" : "1438018201",
+      "temp" : "71.6"
+    },
+    "-JvFZKUSoNVy32745j3D" : {
+      "date" : "1438018261",
+      "temp" : "71.6"
+    },
+    "-JvFZZ0OjgFUGDoqN5M7" : {
+      "date" : "1438018321",
+      "temp" : "71.6"
+    },
+    "-JvFZmmnTatk4-GfOxs7" : {
+      "date" : "1438018381",
+      "temp" : "71.6"
+    },
+    "-JvF_0ZBwOCYz3Ml7Z_9" : {
+      "date" : "1438018441",
+      "temp" : "71.6"
+    },
+    "-JvF_F5crQ7sTxPDEoDD" : {
+      "date" : "1438018501",
+      "temp" : "71.7116"
+    },
+    "-JvF_TeBRpFwTzmkk4Zq" : {
+      "date" : "1438018561",
+      "temp" : "71.7116"
+    },
+    "-JvF_hRHZCvXEdESrvgA" : {
+      "date" : "1438018622",
+      "temp" : "71.7116"
+    },
+    "-JvF_wCrURs1q4Pz-wMj" : {
+      "date" : "1438018681",
+      "temp" : "71.825"
+    },
+    "-JvFa9jtsInrmbAwpJYx" : {
+      "date" : "1438018742",
+      "temp" : "71.7116"
+    },
+    "-JvFaOGuX_6Wx1_DU_yV" : {
+      "date" : "1438018801",
+      "temp" : "71.825"
+    },
+    "-JvFac321kDle_cpXdL7" : {
+      "date" : "1438018862",
+      "temp" : "71.7116"
+    },
+    "-JvFaqaBgzLtoiaswUII" : {
+      "date" : "1438018921",
+      "temp" : "71.825"
+    },
+    "-JvFb4Qz_Dx3CzAURjKo" : {
+      "date" : "1438018982",
+      "temp" : "71.7116"
+    },
+    "-JvFbIyEapR8aww6T_c-" : {
+      "date" : "1438019042",
+      "temp" : "71.825"
+    },
+    "-JvFbXVA_2Wdxrg07t2E" : {
+      "date" : "1438019101",
+      "temp" : "71.825"
+    },
+    "-JvFblHB8v44orYYg9CL" : {
+      "date" : "1438019162",
+      "temp" : "71.825"
+    },
+    "-JvFbzoJrdfLO9JY07fx" : {
+      "date" : "1438019221",
+      "temp" : "71.825"
+    },
+    "-JvFcD_w8IVPsK-n7Pfd" : {
+      "date" : "1438019282",
+      "temp" : "71.9366"
+    },
+    "-JvFcS70BZWuiENrJ26D" : {
+      "date" : "1438019341",
+      "temp" : "71.825"
+    },
+    "-JvFcftxesK-S-IfbJ1D" : {
+      "date" : "1438019402",
+      "temp" : "71.825"
+    },
+    "-JvFcuRoY9ET2XkkGSRf" : {
+      "date" : "1438019461",
+      "temp" : "71.825"
+    },
+    "-JvFd7z5-FzHxGxzEVLB" : {
+      "date" : "1438019521",
+      "temp" : "71.9366"
+    },
+    "-JvFdMka2kqlhIf1rDfo" : {
+      "date" : "1438019581",
+      "temp" : "71.9366"
+    },
+    "-JvFdaHrWkIl_uyLL_pQ" : {
+      "date" : "1438019641",
+      "temp" : "71.9366"
+    },
+    "-JvFdp3npUJxSsn1NmEy" : {
+      "date" : "1438019701",
+      "temp" : "71.9366"
+    },
+    "-JvFe2cESocwLKtqezS6" : {
+      "date" : "1438019761",
+      "temp" : "71.9366"
+    },
+    "-JvFeHOfjJ7lM56vMq5U" : {
+      "date" : "1438019822",
+      "temp" : "71.9366"
+    },
+    "-JvFeVvsAL8nuDTUhzQ2" : {
+      "date" : "1438019881",
+      "temp" : "71.9366"
+    },
+    "-JvFejhTLc57YwvI-EXj" : {
+      "date" : "1438019942",
+      "temp" : "71.9366"
+    },
+    "-JvFeyEjLvSA9whuN7D5" : {
+      "date" : "1438020001",
+      "temp" : "71.9366"
+    },
+    "-JvFfC0NY1-iqxkvP1x2" : {
+      "date" : "1438020062",
+      "temp" : "71.9366"
+    },
+    "-JvFfQY2AbwDMRmg79WI" : {
+      "date" : "1438020121",
+      "temp" : "71.9366"
+    },
+    "-JvFfeJdR-LWHYyixsER" : {
+      "date" : "1438020182",
+      "temp" : "71.9366"
+    },
+    "-JvFfsqMe_9k41crLeYQ" : {
+      "date" : "1438020241",
+      "temp" : "71.9366"
+    },
+    "-JvFg6cNWGbXt3GpQDlK" : {
+      "date" : "1438020302",
+      "temp" : "71.9366"
+    },
+    "-JvFgL9ces9cR_pj2f90" : {
+      "date" : "1438020361",
+      "temp" : "71.9366"
+    },
+    "-JvFgZxVMLDL9sjOQwNO" : {
+      "date" : "1438020422",
+      "temp" : "71.9366"
+    },
+    "-JvFgnUB5MGHwYoWmCGs" : {
+      "date" : "1438020481",
+      "temp" : "71.9366"
+    },
+    "-JvFh10_pUBIbacfp1eU" : {
+      "date" : "1438020541",
+      "temp" : "71.9366"
+    },
+    "-JvFhFngVPJQv5ycaEkl" : {
+      "date" : "1438020601",
+      "temp" : "71.9366"
+    },
+    "-JvFhULbDSETASFOoYkc" : {
+      "date" : "1438020661",
+      "temp" : "72.05"
+    },
+    "-JvFhiN6oNs542yy5KJl" : {
+      "date" : "1438020722",
+      "temp" : "72.05"
+    },
+    "-JvFhwea-h4C7LgP3OpT" : {
+      "date" : "1438020781",
+      "temp" : "72.05"
+    },
+    "-JvFiARb-bvqDSfmuRtH" : {
+      "date" : "1438020842",
+      "temp" : "72.1616"
+    },
+    "-JvFiOyVvUMe1ElDUrun" : {
+      "date" : "1438020901",
+      "temp" : "72.1616"
+    },
+    "-JvFickHJ7V-oCzAsm8M" : {
+      "date" : "1438020962",
+      "temp" : "72.1616"
+    },
+    "-JvFirI2rXnc5PZkF9nA" : {
+      "date" : "1438021021",
+      "temp" : "72.1616"
+    },
+    "-JvFj53dX-1S2fsJLr4h" : {
+      "date" : "1438021082",
+      "temp" : "72.275"
+    },
+    "-JvFjJaL3gGVkvheTrwv" : {
+      "date" : "1438021141",
+      "temp" : "72.275"
+    },
+    "-JvFjYMizC8oEqoG5L4s" : {
+      "date" : "1438021202",
+      "temp" : "72.275"
+    },
+    "-JvFjlu61acvBLNOCq72" : {
+      "date" : "1438021261",
+      "temp" : "72.3866"
+    },
+    "-JvFk-Rc4gwENaP_ZyyF" : {
+      "date" : "1438021321",
+      "temp" : "72.3866"
+    },
+    "-JvFkEDpIW-jzJ-No-J-" : {
+      "date" : "1438021381",
+      "temp" : "72.3866"
+    },
+    "-JvFkTzjS_J0evquuMct" : {
+      "date" : "1438021441",
+      "temp" : "72.5"
+    },
+    "-JvFkgYMZK9R5vKvZGuK" : {
+      "date" : "1438021502",
+      "temp" : "72.5"
+    },
+    "-JvFkv5Xc_H5qlKodUKV" : {
+      "date" : "1438021561",
+      "temp" : "72.5"
+    },
+    "-JvFl8sdXpRXI-rKYYgk" : {
+      "date" : "1438021622",
+      "temp" : "72.5"
+    },
+    "-JvFlNPuUCK7FD3rTGvo" : {
+      "date" : "1438021681",
+      "temp" : "72.5"
+    },
+    "-JvFlbCCrG1vVWXss3xS" : {
+      "date" : "1438021742",
+      "temp" : "72.5"
+    },
+    "-JvFlpjfIWOPy09ewM6l" : {
+      "date" : "1438021801",
+      "temp" : "72.5"
+    },
+    "-JvFm3H175Mce8C-sm7H" : {
+      "date" : "1438021861",
+      "temp" : "72.5"
+    },
+    "-JvFmIIfoGWuIimUayeb" : {
+      "date" : "1438021921",
+      "temp" : "72.5"
+    },
+    "-JvFmWptzGAia9s1Mmtm" : {
+      "date" : "1438021981",
+      "temp" : "72.3866"
+    },
+    "-JvFmkMyQA7xL9a9_NoC" : {
+      "date" : "1438022041",
+      "temp" : "72.5"
+    },
+    "-JvFmyuMx8fFlgGfcSsl" : {
+      "date" : "1438022101",
+      "temp" : "72.5"
+    },
+    "-JvFnCgMXHdMM-m6BXOC" : {
+      "date" : "1438022162",
+      "temp" : "72.3866"
+    },
+    "-JvFnREEThZLt_fy_C0t" : {
+      "date" : "1438022221",
+      "temp" : "72.5"
+    },
+    "-JvFnf-sRcdEJyjjqX7X" : {
+      "date" : "1438022282",
+      "temp" : "72.5"
+    },
+    "-JvFntZ7-CD1rt9ZgQj_" : {
+      "date" : "1438022341",
+      "temp" : "72.5"
+    },
+    "-JvFo7_TAX38r-duwD-Y" : {
+      "date" : "1438022402",
+      "temp" : "72.5"
+    },
+    "-JvFoLsYl6wc-SAPnox6" : {
+      "date" : "1438022461",
+      "temp" : "72.5"
+    },
+    "-JvFo_PVJecprk8PfR-n" : {
+      "date" : "1438022521",
+      "temp" : "72.5"
+    },
+    "-JvFooG-eA3Ib3-c-85Y" : {
+      "date" : "1438022581",
+      "temp" : "72.5"
+    },
+    "-JvFp1naQ6Rm3O13NpvP" : {
+      "date" : "1438022641",
+      "temp" : "72.6116"
+    },
+    "-JvFpGa_RtSKmPJn-ncU" : {
+      "date" : "1438022702",
+      "temp" : "72.5"
+    },
+    "-JvFpV7tSTzpW3h9WqJm" : {
+      "date" : "1438022761",
+      "temp" : "72.6116"
+    },
+    "-JvFpif1_GjEXdFmw6jJ" : {
+      "date" : "1438022821",
+      "temp" : "72.6116"
+    },
+    "-JvFpxRiHtEzMeQvSChg" : {
+      "date" : "1438022881",
+      "temp" : "72.6116"
+    },
+    "-JvFqAyiErtX1jj3M4gq" : {
+      "date" : "1438022941",
+      "temp" : "72.6116"
+    },
+    "-JvFqPkBInrNFK-D-6YY" : {
+      "date" : "1438023001",
+      "temp" : "72.6116"
+    },
+    "-JvFqdH_YJ7diqHuO0gg" : {
+      "date" : "1438023061",
+      "temp" : "72.6116"
+    },
+    "-JvFqs392LcIiI6ZQsbd" : {
+      "date" : "1438023122",
+      "temp" : "72.725"
+    },
+    "-JvFr5as-WfJe4lL1W4x" : {
+      "date" : "1438023181",
+      "temp" : "72.725"
+    },
+    "-JvFrKNbEcJsA0tj_PBD" : {
+      "date" : "1438023242",
+      "temp" : "72.725"
+    },
+    "-JvFrYueu2TB4W5okDRB" : {
+      "date" : "1438023301",
+      "temp" : "72.725"
+    },
+    "-JvFrmgOxBqCPiPGMzlg" : {
+      "date" : "1438023362",
+      "temp" : "72.725"
+    },
+    "-JvFs0DtzUQHfQfRuMQm" : {
+      "date" : "1438023421",
+      "temp" : "72.725"
+    },
+    "-JvFsFFDoyZkIVQA_k_H" : {
+      "date" : "1438023482",
+      "temp" : "72.725"
+    },
+    "-JvFsTm-a9mdsN21lY66" : {
+      "date" : "1438023541",
+      "temp" : "72.725"
+    },
+    "-JvFsh3X17f5V6p8A2iD" : {
+      "date" : "1438023601",
+      "temp" : "72.725"
+    },
+    "-JvFsvqjbVD9dgaPlCwU" : {
+      "date" : "1438023661",
+      "temp" : "72.8366"
+    },
+    "-JvFt9OPXEC2UtPrKdm3" : {
+      "date" : "1438023721",
+      "temp" : "72.8366"
+    },
+    "-JvFtOAby6Jq6J4x6XbG" : {
+      "date" : "1438023781",
+      "temp" : "72.8366"
+    },
+    "-JvFtbyswccB-QlAow-2" : {
+      "date" : "1438023841",
+      "temp" : "72.95"
+    },
+    "-JvFtqW6gaBFsiynmnTH" : {
+      "date" : "1438023902",
+      "temp" : "72.95"
+    },
+    "-JvFu42aoPPG4U_HGWDx" : {
+      "date" : "1438023961",
+      "temp" : "72.95"
+    },
+    "-JvFuIpt-jjsuDSNQpGe" : {
+      "date" : "1438024022",
+      "temp" : "72.95"
+    },
+    "-JvFuXc4P84wdt8z0zUj" : {
+      "date" : "1438024081",
+      "temp" : "73.0616"
+    },
+    "-JvFukuow83Nxck-ytVs" : {
+      "date" : "1438024141",
+      "temp" : "73.0616"
+    },
+    "-JvFv-AmG_-T_OIFQ3HH" : {
+      "date" : "1438024201",
+      "temp" : "73.0616"
+    },
+    "-JvFvDF0Oia5VwfxtwDP" : {
+      "date" : "1438024261",
+      "temp" : "73.0616"
+    },
+    "-JvFvS529kGF6t0a7zIC" : {
+      "date" : "1438024322",
+      "temp" : "73.0616"
+    },
+    "-JvFvfckUmv4mMKbnkEJ" : {
+      "date" : "1438024381",
+      "temp" : "73.0616"
+    },
+    "-JvFvuAAZfwup9eRZ75C" : {
+      "date" : "1438024441",
+      "temp" : "73.0616"
+    },
+    "-JvFw7x24sHSAzOQkR-9" : {
+      "date" : "1438024501",
+      "temp" : "73.175"
+    },
+    "-JvFwMilDhXp3PIWxSTx" : {
+      "date" : "1438024561",
+      "temp" : "73.175"
+    },
+    "-JvFwaGQxl2P8yUxfwzS" : {
+      "date" : "1438024621",
+      "temp" : "73.175"
+    },
+    "-JvFwoouPJLW5jDTxXq8" : {
+      "date" : "1438024681",
+      "temp" : "73.2866"
+    },
+    "-JvFx2bE4FaiH8fKD6AA" : {
+      "date" : "1438024742",
+      "temp" : "73.2866"
+    },
+    "-JvFxHO9GaLMufBvzZTm" : {
+      "date" : "1438024801",
+      "temp" : "73.2866"
+    },
+    "-JvFxVvCcu2N1NythS6I" : {
+      "date" : "1438024862",
+      "temp" : "73.4"
+    },
+    "-JvFxjS5gaNiJ8dfjsZq" : {
+      "date" : "1438024921",
+      "temp" : "73.2866"
+    },
+    "-JvFxxzfMETWP2woTt-L" : {
+      "date" : "1438024981",
+      "temp" : "73.4"
+    },
+    "-JvFyBlFqJ_5_T6eFcXG" : {
+      "date" : "1438025041",
+      "temp" : "73.4"
+    },
+    "-JvFyQIlmKmvvTYmnwrd" : {
+      "date" : "1438025101",
+      "temp" : "73.4"
+    },
+    "-JvFye4gB0RR1ZP4NDej" : {
+      "date" : "1438025161",
+      "temp" : "73.4"
+    },
+    "-JvFyse_1G24OhW3vS-W" : {
+      "date" : "1438025221",
+      "temp" : "73.4"
+    },
+    "-JvFz6R6cscSfJ4NTohx" : {
+      "date" : "1438025282",
+      "temp" : "73.5116"
+    },
+    "-JvFzKy3zC0S2bk7Eu6B" : {
+      "date" : "1438025341",
+      "temp" : "73.5116"
+    },
+    "-JvFzZkDx2YPgf2NnCgx" : {
+      "date" : "1438025402",
+      "temp" : "73.5116"
+    },
+    "-JvFznHSz7Ps6c4_thpm" : {
+      "date" : "1438025461",
+      "temp" : "73.5116"
+    },
+    "-JvG-17mKFte7nv3DO4F" : {
+      "date" : "1438025521",
+      "temp" : "73.5116"
+    },
+    "-JvG-Few-ftIkZXyCspS" : {
+      "date" : "1438025582",
+      "temp" : "73.5116"
+    },
+    "-JvG-UCJ9clsHxfN7DT6" : {
+      "date" : "1438025641",
+      "temp" : "73.5116"
+    },
+    "-JvG-hzKkMFpJCG2IJE6" : {
+      "date" : "1438025702",
+      "temp" : "73.625"
+    },
+    "-JvG-wWiLI8Sj-lIDZqN" : {
+      "date" : "1438025761",
+      "temp" : "73.625"
+    },
+    "-JvG0AIOELyL8kmDJyKM" : {
+      "date" : "1438025822",
+      "temp" : "73.625"
+    },
+    "-JvG0OphU3BgpPLX5608" : {
+      "date" : "1438025881",
+      "temp" : "73.625"
+    },
+    "-JvG0cN4X1gKJdtt5IZf" : {
+      "date" : "1438025941",
+      "temp" : "73.625"
+    },
+    "-JvG0rP82k9-3oOU9YF7" : {
+      "date" : "1438026001",
+      "temp" : "73.625"
+    },
+    "-JvG14giKk2X3nbpO6oK" : {
+      "date" : "1438026061",
+      "temp" : "73.625"
+    },
+    "-JvG1JUDrI6MCapqJ7F7" : {
+      "date" : "1438026122",
+      "temp" : "73.7366"
+    },
+    "-JvG1Y1WehI48iqNiyNy" : {
+      "date" : "1438026181",
+      "temp" : "73.625"
+    },
+    "-JvG1lohxBi5kQhtvQPW" : {
+      "date" : "1438026242",
+      "temp" : "73.7366"
+    },
+    "-JvG2-LlQWTSRVnbUw_d" : {
+      "date" : "1438026301",
+      "temp" : "73.7366"
+    },
+    "-JvG2E7ex3ikdm1og_Ep" : {
+      "date" : "1438026362",
+      "temp" : "73.7366"
+    },
+    "-JvG2SeoCvbPrnmOK2gW" : {
+      "date" : "1438026421",
+      "temp" : "73.7366"
+    },
+    "-JvG2gByPbWpPPfM0EEl" : {
+      "date" : "1438026481",
+      "temp" : "73.7366"
+    },
+    "-JvG2uyyjHFUf1xxg8lw" : {
+      "date" : "1438026541",
+      "temp" : "73.7366"
+    },
+    "-JvG38WURjmjJQu2uQ6I" : {
+      "date" : "1438026601",
+      "temp" : "73.7366"
+    },
+    "-JvG3NImupWq7aSjNT9j" : {
+      "date" : "1438026661",
+      "temp" : "73.7366"
+    },
+    "-JvG3aq-n1geCtAIuXol" : {
+      "date" : "1438026721",
+      "temp" : "73.85"
+    },
+    "-JvG3pbnBkX4mbpL5knl" : {
+      "date" : "1438026782",
+      "temp" : "73.85"
+    },
+    "-JvG439m39bnZI3cbiw1" : {
+      "date" : "1438026841",
+      "temp" : "73.85"
+    },
+    "-JvG4HwZOBstT4h-N6ix" : {
+      "date" : "1438026902",
+      "temp" : "73.85"
+    },
+    "-JvG4WTWAk4Nl_N3nIDg" : {
+      "date" : "1438026961",
+      "temp" : "73.9616"
+    },
+    "-JvG4kF_2e2hb7fZFJbT" : {
+      "date" : "1438027022",
+      "temp" : "73.9616"
+    },
+    "-JvG4ynRpDGHjKmh3FIV" : {
+      "date" : "1438027081",
+      "temp" : "73.9616"
+    },
+    "-JvG5CKhDjNWNhybEZ2o" : {
+      "date" : "1438027141",
+      "temp" : "73.9616"
+    },
+    "-JvG5R6Qvv-BpKpfcyku" : {
+      "date" : "1438027201",
+      "temp" : "73.9616"
+    },
+    "-JvG5etQiqIeUT4VWArE" : {
+      "date" : "1438027261",
+      "temp" : "73.9616"
+    },
+    "-JvG5tQWsXjcJFBlxbC7" : {
+      "date" : "1438027321",
+      "temp" : "73.9616"
+    },
+    "-JvG66xbIQgJo187uww9" : {
+      "date" : "1438027381",
+      "temp" : "73.9616"
+    },
+    "-JvG6Lj0jLqnRootGkdJ" : {
+      "date" : "1438027441",
+      "temp" : "73.9616"
+    },
+    "-JvG6_WKepHs7lUxM14d" : {
+      "date" : "1438027501",
+      "temp" : "73.9616"
+    },
+    "-JvG6o2QWGaLlTkLsY21" : {
+      "date" : "1438027562",
+      "temp" : "73.9616"
+    },
+    "-JvG71ahGR-6gouVf6wI" : {
+      "date" : "1438027621",
+      "temp" : "73.9616"
+    },
+    "-JvG7GN8YM0nlkhIGUJE" : {
+      "date" : "1438027682",
+      "temp" : "73.9616"
+    },
+    "-JvG7UuS0DNNEpdLs__f" : {
+      "date" : "1438027741",
+      "temp" : "74.075"
+    },
+    "-JvG7igH1lM5Z9Yhi8sF" : {
+      "date" : "1438027802",
+      "temp" : "74.075"
+    },
+    "-JvG7xDKNqEAAAxVB3FK" : {
+      "date" : "1438027861",
+      "temp" : "74.075"
+    },
+    "-JvG8Azw6MJez_HOTUXA" : {
+      "date" : "1438027922",
+      "temp" : "74.075"
+    },
+    "-JvG8PX8mmecjZ2kQpLU" : {
+      "date" : "1438027981",
+      "temp" : "74.075"
+    },
+    "-JvG8d3QZm_x7M11NBHq" : {
+      "date" : "1438028041",
+      "temp" : "74.1866"
+    },
+    "-JvG8rq-7dWNfnLjpT15" : {
+      "date" : "1438028101",
+      "temp" : "74.1866"
+    },
+    "-JvG95PIL2N1aSMBGY3c" : {
+      "date" : "1438028161",
+      "temp" : "74.1866"
+    },
+    "-JvG9KAqm09xPYy1asr4" : {
+      "date" : "1438028222",
+      "temp" : "74.1866"
+    },
+    "-JvG9YhcDi0aAg4x5ObD" : {
+      "date" : "1438028281",
+      "temp" : "74.1866"
+    },
+    "-JvG9mifUvpsbiyGy7Ql" : {
+      "date" : "1438028342",
+      "temp" : "74.3"
+    },
+    "-JvGA01EkFk_MeMYMO-x" : {
+      "date" : "1438028401",
+      "temp" : "74.3"
+    },
+    "-JvGAEoaKhMSzlw8eKVu" : {
+      "date" : "1438028462",
+      "temp" : "74.3"
+    },
+    "-JvGATLrifYEj_XDBuD5" : {
+      "date" : "1438028521",
+      "temp" : "74.4116"
+    },
+    "-JvGAh7D-1YjzYe8DciF" : {
+      "date" : "1438028582",
+      "temp" : "74.3"
+    },
+    "-JvGAvePtJu5adw0jmDY" : {
+      "date" : "1438028641",
+      "temp" : "74.4116"
+    },
+    "-JvGB9BgNybgHNyWNFlZ" : {
+      "date" : "1438028701",
+      "temp" : "74.4116"
+    },
+    "-JvGBNyT3bpJ_k9BVPXV" : {
+      "date" : "1438028761",
+      "temp" : "74.4116"
+    },
+    "-JvGBbW6HicHvpeQ3XO6" : {
+      "date" : "1438028821",
+      "temp" : "74.525"
+    },
+    "-JvGBqI9PjnuYlpSncMI" : {
+      "date" : "1438028881",
+      "temp" : "74.525"
+    },
+    "-JvGC3pSmUWVKMBqHu6I" : {
+      "date" : "1438028941",
+      "temp" : "74.6366"
+    },
+    "-JvGCIc1SfPjLvVWeCbT" : {
+      "date" : "1438029002",
+      "temp" : "74.6366"
+    },
+    "-JvGCXAT3gGjBytwFbpu" : {
+      "date" : "1438029061",
+      "temp" : "74.6366"
+    },
+    "-JvGCkxPFB4nJ71wZvn4" : {
+      "date" : "1438029122",
+      "temp" : "74.6366"
+    },
+    "-JvGCzUIuzzWcqV7LUaA" : {
+      "date" : "1438029181",
+      "temp" : "74.75"
+    },
+    "-JvGDDFxSBs62oK5Wvvx" : {
+      "date" : "1438029242",
+      "temp" : "74.75"
+    },
+    "-JvGDRnIabs0iTBLgCsM" : {
+      "date" : "1438029301",
+      "temp" : "74.75"
+    },
+    "-JvGDfKUkYsLP8dDlAXc" : {
+      "date" : "1438029361",
+      "temp" : "74.75"
+    },
+    "-JvGDu6be0ul48TEPkg3" : {
+      "date" : "1438029421",
+      "temp" : "74.75"
+    },
+    "-JvGE7dfDXCkMsVGL0xe" : {
+      "date" : "1438029481",
+      "temp" : "74.75"
+    },
+    "-JvGEMQFC5UHoHwcy4Eg" : {
+      "date" : "1438029541",
+      "temp" : "74.8616"
+    },
+    "-JvGE_x084LTPXpJaJbO" : {
+      "date" : "1438029601",
+      "temp" : "74.8616"
+    },
+    "-JvGEoimNEuVGGWi4VW7" : {
+      "date" : "1438029661",
+      "temp" : "74.8616"
+    },
+    "-JvGF2FsSerY-IwCLUOv" : {
+      "date" : "1438029721",
+      "temp" : "74.8616"
+    },
+    "-JvGFH1hPmgBQbJqaXXx" : {
+      "date" : "1438029782",
+      "temp" : "74.8616"
+    },
+    "-JvGFVZr4HI6CCNEq93S" : {
+      "date" : "1438029841",
+      "temp" : "74.975"
+    },
+    "-JvGFjM-cfHTyvv7HsrY" : {
+      "date" : "1438029902",
+      "temp" : "74.975"
+    },
+    "-JvGFxtwZrzwXQHTzc32" : {
+      "date" : "1438029961",
+      "temp" : "74.975"
+    },
+    "-JvGGBfnx53dbFeqHkv3" : {
+      "date" : "1438030022",
+      "temp" : "74.975"
+    },
+    "-JvGGQChecuzMcXMnzKH" : {
+      "date" : "1438030081",
+      "temp" : "75.0866"
+    },
+    "-JvGGdzPgYESjlRpmCxy" : {
+      "date" : "1438030142",
+      "temp" : "74.975"
+    },
+    "-JvGGsZ78j5notKdNR0c" : {
+      "date" : "1438030201",
+      "temp" : "74.975"
+    },
+    "-JvGH65GjzBYls8pL3oU" : {
+      "date" : "1438030261",
+      "temp" : "74.975"
+    },
+    "-JvGHKrznVwf-VlQGVkn" : {
+      "date" : "1438030322",
+      "temp" : "74.975"
+    },
+    "-JvGHZP5tpEVsSKBoINF" : {
+      "date" : "1438030381",
+      "temp" : "74.975"
+    },
+    "-JvGHnAiEB1IawEM5k5d" : {
+      "date" : "1438030442",
+      "temp" : "74.975"
+    },
+    "-JvGI0j-46HVkRHO3yNJ" : {
+      "date" : "1438030501",
+      "temp" : "74.975"
+    },
+    "-JvGIFWJkZ-W2CXnEPx5" : {
+      "date" : "1438030562",
+      "temp" : "75.0866"
+    },
+    "-JvGIU2QuJDlNs8_77rK" : {
+      "date" : "1438030621",
+      "temp" : "74.975"
+    },
+    "-JvGIhaC_B7EAV7ESjAh" : {
+      "date" : "1438030681",
+      "temp" : "74.975"
+    },
+    "-JvGIwMzinmfhEENzv4G" : {
+      "date" : "1438030741",
+      "temp" : "75.0866"
+    },
+    "-JvGJ9uNiPU9br5Xkdkx" : {
+      "date" : "1438030801",
+      "temp" : "75.0866"
+    },
+    "-JvGJOhF4RvjvbiEQLke" : {
+      "date" : "1438030861",
+      "temp" : "75.0866"
+    },
+    "-JvGJcTz2SWAM2AVNmir" : {
+      "date" : "1438030921",
+      "temp" : "75.0866"
+    },
+    "-JvGJr4xga3JWHnvQ-oM" : {
+      "date" : "1438030982",
+      "temp" : "75.0866"
+    },
+    "-JvGK4c3aQi376a52dQV" : {
+      "date" : "1438031041",
+      "temp" : "75.0866"
+    },
+    "-JvGKJ9I4treZcK9NF9H" : {
+      "date" : "1438031101",
+      "temp" : "75.0866"
+    },
+    "-JvGKXw-k0tr7ShJ66pV" : {
+      "date" : "1438031161",
+      "temp" : "75.0866"
+    },
+    "-JvGKlSmGenXEE3mSpXx" : {
+      "date" : "1438031221",
+      "temp" : "75.0866"
+    },
+    "-JvGL-Ej0DF0pkbvNj_8" : {
+      "date" : "1438031282",
+      "temp" : "75.0866"
+    },
+    "-JvGLDlx_rAMLp3nIi7r" : {
+      "date" : "1438031341",
+      "temp" : "75.0866"
+    },
+    "-JvGLSYZMWO6yVdEJ48A" : {
+      "date" : "1438031402",
+      "temp" : "75.2"
+    },
+    "-JvGLg4IFSXn4bhga196" : {
+      "date" : "1438031461",
+      "temp" : "75.0866"
+    },
+    "-JvGLurGF6_4LV_NLyzr" : {
+      "date" : "1438031522",
+      "temp" : "75.0866"
+    },
+    "-JvGM8e4ndZiFLytw5lA" : {
+      "date" : "1438031581",
+      "temp" : "75.2"
+    },
+    "-JvGMNBLM8g1s74v9bSl" : {
+      "date" : "1438031642",
+      "temp" : "75.2"
+    },
+    "-JvGMaiQDrkL2PvPMNlg" : {
+      "date" : "1438031701",
+      "temp" : "75.2"
+    },
+    "-JvGMpFdZ60_lG_EyBw5" : {
+      "date" : "1438031761",
+      "temp" : "75.2"
+    },
+    "-JvGN31unq_aEX5qFwx4" : {
+      "date" : "1438031821",
+      "temp" : "75.2"
+    },
+    "-JvGNH_YsRdD60DRMzaI" : {
+      "date" : "1438031881",
+      "temp" : "75.2"
+    },
+    "-JvGNWMO9hKwQCGz5dT0" : {
+      "date" : "1438031941",
+      "temp" : "75.2"
+    },
+    "-JvGNjtku31cqZ-J51Yp" : {
+      "date" : "1438032001",
+      "temp" : "75.2"
+    },
+    "-JvGNyf_vg-O7lAPfrhd" : {
+      "date" : "1438032062",
+      "temp" : "75.3116"
+    },
+    "-JvGOCCfE1zL6yKk4hRf" : {
+      "date" : "1438032121",
+      "temp" : "75.3116"
+    },
+    "-JvGOQz61lkyE_u20YCz" : {
+      "date" : "1438032182",
+      "temp" : "75.3116"
+    },
+    "-JvGOeW1b-QmvMDr8ex7" : {
+      "date" : "1438032241",
+      "temp" : "75.425"
+    },
+    "-JvGOtHjUBMg-4dBqm-z" : {
+      "date" : "1438032302",
+      "temp" : "75.5366"
+    },
+    "-JvGP6qFp60Ei4xkMTMT" : {
+      "date" : "1438032361",
+      "temp" : "75.5366"
+    },
+    "-JvGPLbsT1eRQIZ-6sRN" : {
+      "date" : "1438032422",
+      "temp" : "75.65"
+    },
+    "-JvGP_8vMQd8ALA39gMu" : {
+      "date" : "1438032481",
+      "temp" : "75.65"
+    },
+    "-JvGPng4J1fZe7oP1YUM" : {
+      "date" : "1438032541",
+      "temp" : "75.65"
+    },
+    "-JvGQ1SiYwOpdLSBnEM4" : {
+      "date" : "1438032601",
+      "temp" : "75.7616"
+    },
+    "-JvGQG3WSib52hGQJMM8" : {
+      "date" : "1438032661",
+      "temp" : "75.7616"
+    },
+    "-JvGQUqAxLTT6XC1ksQn" : {
+      "date" : "1438032722",
+      "temp" : "75.7616"
+    },
+    "-JvGQiO6e8K6Ltxk-skN" : {
+      "date" : "1438032781",
+      "temp" : "75.875"
+    },
+    "-JvGQx9l9a2Ar4Yfb-cC" : {
+      "date" : "1438032842",
+      "temp" : "75.875"
+    },
+    "-JvGRAhC166ab1skkGm_" : {
+      "date" : "1438032901",
+      "temp" : "75.875"
+    },
+    "-JvGRPEZB_4QT473ThGD" : {
+      "date" : "1438032961",
+      "temp" : "75.875"
+    },
+    "-JvGRd0DFy3CTS2G53eJ" : {
+      "date" : "1438033021",
+      "temp" : "75.9866"
+    },
+    "-JvGRrYi-Ol8Jik0SF9F" : {
+      "date" : "1438033081",
+      "temp" : "75.9866"
+    },
+    "-JvGS5KE6YzJeqZV13fL" : {
+      "date" : "1438033141",
+      "temp" : "76.1"
+    },
+    "-JvGSJrAl9ewlkfvOnZn" : {
+      "date" : "1438033201",
+      "temp" : "76.1"
+    },
+    "-JvGSYd0PhDssC0CAy0P" : {
+      "date" : "1438033262",
+      "temp" : "76.1"
+    },
+    "-JvGSmALTGhz2d8CGtkN" : {
+      "date" : "1438033321",
+      "temp" : "76.1"
+    },
+    "-JvGT-xg7Ap79Pvmhywp" : {
+      "date" : "1438033382",
+      "temp" : "76.2116"
+    },
+    "-JvGTEUw5C6xBhruzJeK" : {
+      "date" : "1438033441",
+      "temp" : "76.325"
+    },
+    "-JvGTTGnV_nQLwGpjIcP" : {
+      "date" : "1438033502",
+      "temp" : "76.325"
+    },
+    "-JvGTgq0aKZDS4fqVTS4" : {
+      "date" : "1438033561",
+      "temp" : "76.325"
+    },
+    "-JvGTvMsxe7pSjRF_p7v" : {
+      "date" : "1438033621",
+      "temp" : "76.325"
+    },
+    "-JvGU9CpjU__P8cm2CoW" : {
+      "date" : "1438033681",
+      "temp" : "76.325"
+    },
+    "-JvGUNkvhpmghpM9G4ox" : {
+      "date" : "1438033741",
+      "temp" : "76.325"
+    },
+    "-JvGUbmPJu0u0IJuJdLY" : {
+      "date" : "1438033802",
+      "temp" : "76.325"
+    },
+    "-JvGUq4FSUfJD_03qVsJ" : {
+      "date" : "1438033861",
+      "temp" : "76.325"
+    },
+    "-JvGV3rcZ_c0vuHjOSNn" : {
+      "date" : "1438033921",
+      "temp" : "76.4366"
+    },
+    "-JvGVIO_RlJWBXJrabBr" : {
+      "date" : "1438033981",
+      "temp" : "76.4366"
+    },
+    "-JvGVWvpDVQl6xdOrogO" : {
+      "date" : "1438034041",
+      "temp" : "76.4366"
+    },
+    "-JvGVkhSnZOLAKR8d8jr" : {
+      "date" : "1438034101",
+      "temp" : "76.4366"
+    },
+    "-JvGVzExMAmBxF1CwPzq" : {
+      "date" : "1438034161",
+      "temp" : "76.55"
+    },
+    "-JvGWD12X7-ypB8YswHc" : {
+      "date" : "1438034222",
+      "temp" : "76.4366"
+    },
+    "-JvGWRZMjHFgO2tptC-h" : {
+      "date" : "1438034281",
+      "temp" : "76.55"
+    },
+    "-JvGWfLFnsJojuxHgRkj" : {
+      "date" : "1438034342",
+      "temp" : "76.55"
+    },
+    "-JvGWtsF_HKqD1ueNw5f" : {
+      "date" : "1438034401",
+      "temp" : "76.6616"
+    },
+    "-JvGX7e5fXYnUs8KvFF1" : {
+      "date" : "1438034462",
+      "temp" : "76.55"
+    },
+    "-JvGXMBo8VYajuVZvTzX" : {
+      "date" : "1438034521",
+      "temp" : "76.6616"
+    },
+    "-JvGX_jH_Bx7qIYj7KL-" : {
+      "date" : "1438034581",
+      "temp" : "76.55"
+    },
+    "-JvGXoWFgHNq_X_Xymtq" : {
+      "date" : "1438034641",
+      "temp" : "76.55"
+    },
+    "-JvGY23DlkxlGoosUBd_" : {
+      "date" : "1438034701",
+      "temp" : "76.55"
+    },
+    "-JvGYGq5ZwhJYnY27fIQ" : {
+      "date" : "1438034761",
+      "temp" : "76.55"
+    },
+    "-JvGYVNSeN3bWgC1o4ID" : {
+      "date" : "1438034821",
+      "temp" : "76.6616"
+    },
+    "-JvGYj9LUvekus7FlbBV" : {
+      "date" : "1438034882",
+      "temp" : "76.6616"
+    },
+    "-JvGYxhPWpAdhHzrqJ4h" : {
+      "date" : "1438034941",
+      "temp" : "76.6616"
+    },
+    "-JvGZBU6VxYGYTz2gdiv" : {
+      "date" : "1438035002",
+      "temp" : "76.6616"
+    },
+    "-JvGZQ0UiFdy0lJTyhuh" : {
+      "date" : "1438035061",
+      "temp" : "76.775"
+    },
+    "-JvGZdn97FifUVfP23Fg" : {
+      "date" : "1438035122",
+      "temp" : "76.775"
+    },
+    "-JvGZsLs_lidaXVLmg6N" : {
+      "date" : "1438035181",
+      "temp" : "76.775"
+    },
+    "-JvG_5tAMhNmyBiCj1R7" : {
+      "date" : "1438035241",
+      "temp" : "76.8866"
+    },
+    "-JvG_KeoZdl2vCKQ70RX" : {
+      "date" : "1438035301",
+      "temp" : "76.8866"
+    },
+    "-JvG_ZBpZPNf9QiHntaC" : {
+      "date" : "1438035361",
+      "temp" : "76.8866"
+    },
+    "-JvG_myYKs9U2tGVz4FJ" : {
+      "date" : "1438035421",
+      "temp" : "76.8866"
+    },
+    "-JvGa0WFGSTIU_UB0u94" : {
+      "date" : "1438035481",
+      "temp" : "77.0"
+    },
+    "-JvGaFIEc0vknCDeRf_3" : {
+      "date" : "1438035542",
+      "temp" : "77.0"
+    },
+    "-JvGaTpO_i3VyMxcUupK" : {
+      "date" : "1438035601",
+      "temp" : "77.0"
+    },
+    "-JvGahcORj0hye6iKDd8" : {
+      "date" : "1438035662",
+      "temp" : "77.1116"
+    },
+    "-JvGawAre7o0E1G27dCe" : {
+      "date" : "1438035721",
+      "temp" : "77.1116"
+    },
+    "-JvGb9i6dqdsMuC818w7" : {
+      "date" : "1438035781",
+      "temp" : "77.1116"
+    },
+    "-JvGbOVewx9JZ7thAI2T" : {
+      "date" : "1438035841",
+      "temp" : "77.225"
+    },
+    "-JvGbc23Ne7Gi5n4aaO_" : {
+      "date" : "1438035901",
+      "temp" : "77.225"
+    },
+    "-JvGbqp1oaukMhgOlKxR" : {
+      "date" : "1438035962",
+      "temp" : "77.225"
+    },
+    "-JvGc4MLrTu6leh1frV-" : {
+      "date" : "1438036021",
+      "temp" : "77.225"
+    },
+    "-JvGcJ85gV5Yq-LVLI2J" : {
+      "date" : "1438036082",
+      "temp" : "77.3366"
+    },
+    "-JvGcXfJ1y3sA8g-LF7J" : {
+      "date" : "1438036141",
+      "temp" : "77.3366"
+    },
+    "-JvGclSC1r2Vip3jN2iL" : {
+      "date" : "1438036202",
+      "temp" : "77.3366"
+    },
+    "-JvGczzeXTlqlbuo6Ah7" : {
+      "date" : "1438036261",
+      "temp" : "77.3366"
+    },
+    "-JvGdDqBqJPozdKIIqjR" : {
+      "date" : "1438036322",
+      "temp" : "77.3366"
+    },
+    "-JvGdSN-qnvyP2NzbJpp" : {
+      "date" : "1438036382",
+      "temp" : "77.45"
+    },
+    "-JvGdftn4Duq7gmnKM0e" : {
+      "date" : "1438036441",
+      "temp" : "77.45"
+    },
+    "-JvGdug0W1Qw7yEKBMsc" : {
+      "date" : "1438036502",
+      "temp" : "77.45"
+    },
+    "-JvGe8T-RrjJOgRzBjhe" : {
+      "date" : "1438036561",
+      "temp" : "77.45"
+    },
+    "-JvGeNOFGk2vQNlOMA7G" : {
+      "date" : "1438036622",
+      "temp" : "77.5616"
+    },
+    "-JvGeaR_TNGAohK2KyAF" : {
+      "date" : "1438036681",
+      "temp" : "77.5616"
+    },
+    "-JvGepDTKg0qn7ovVvQq" : {
+      "date" : "1438036741",
+      "temp" : "77.5616"
+    },
+    "-JvGf2kW1Tdt8zhCpia0" : {
+      "date" : "1438036801",
+      "temp" : "77.675"
+    },
+    "-JvGfHX-V7EXbhQWCnbB" : {
+      "date" : "1438036861",
+      "temp" : "77.675"
+    },
+    "-JvGfW3DpyhBZ3HwLt8M" : {
+      "date" : "1438036921",
+      "temp" : "77.675"
+    },
+    "-JvGfjqDeUuPlEJE7mTK" : {
+      "date" : "1438036982",
+      "temp" : "77.675"
+    },
+    "-JvGfyND83qDle67L3cH" : {
+      "date" : "1438037041",
+      "temp" : "77.675"
+    },
+    "-JvGgC907e8EUa2OalJY" : {
+      "date" : "1438037102",
+      "temp" : "77.675"
+    },
+    "-JvGgQfq1Nce3VuUZvQv" : {
+      "date" : "1438037161",
+      "temp" : "77.675"
+    },
+    "-JvGgeT00n8mwyxoCzPS" : {
+      "date" : "1438037222",
+      "temp" : "77.7866"
+    },
+    "-JvGgtE_M7NtxoA5yNNs" : {
+      "date" : "1438037281",
+      "temp" : "77.7866"
+    },
+    "-JvGh6lYkTirJ_cNsOys" : {
+      "date" : "1438037342",
+      "temp" : "77.7866"
+    },
+    "-JvGhLIeWDDeubIq8Q1Y" : {
+      "date" : "1438037401",
+      "temp" : "77.7866"
+    },
+    "-JvGh_4bp6WGD6jwp5I8" : {
+      "date" : "1438037462",
+      "temp" : "77.7866"
+    },
+    "-JvGhnd892NcbJuy74AI" : {
+      "date" : "1438037521",
+      "temp" : "77.9"
+    },
+    "-JvGi1AeOU6vGnzm7Jmh" : {
+      "date" : "1438037581",
+      "temp" : "77.9"
+    },
+    "-JvGiFxPyTIRCYM1fjvY" : {
+      "date" : "1438037641",
+      "temp" : "78.0116"
+    },
+    "-JvGiUU_rkwIVFBgLj4T" : {
+      "date" : "1438037701",
+      "temp" : "77.9"
+    },
+    "-JvGiiGNXZegQIJnr5jO" : {
+      "date" : "1438037761",
+      "temp" : "78.0116"
+    },
+    "-JvGiwnItN2HbkWjwsYZ" : {
+      "date" : "1438037821",
+      "temp" : "78.0116"
+    },
+    "-JvGjAdKWm0J6ygwyzJH" : {
+      "date" : "1438037882",
+      "temp" : "78.0116"
+    },
+    "-JvGjPArVXqFghMKiTvo" : {
+      "date" : "1438037941",
+      "temp" : "78.0116"
+    },
+    "-JvGjchosNuVVnLFYw2C" : {
+      "date" : "1438038001",
+      "temp" : "78.0116"
+    },
+    "-JvGjrVRqv39Y7Zdl9l7" : {
+      "date" : "1438038061",
+      "temp" : "78.0116"
+    },
+    "-JvGk52E-uNFK3O_Rbfg" : {
+      "date" : "1438038121",
+      "temp" : "78.125"
+    },
+    "-JvGkJovifmay1in77B5" : {
+      "date" : "1438038182",
+      "temp" : "78.125"
+    },
+    "-JvGkYMfIba7PszfK3I_" : {
+      "date" : "1438038241",
+      "temp" : "78.125"
+    },
+    "-JvGkm8_sY1o54sGDYcd" : {
+      "date" : "1438038302",
+      "temp" : "78.125"
+    },
+    "-JvGl0v208Fhse8Kak3X" : {
+      "date" : "1438038361",
+      "temp" : "78.2366"
+    },
+    "-JvGlEESp1vaaxT-Jbe4" : {
+      "date" : "1438038421",
+      "temp" : "78.2366"
+    },
+    "-JvGlT17O8_3HpNf4g7i" : {
+      "date" : "1438038481",
+      "temp" : "78.2366"
+    },
+    "-JvGlgnscxYqINQI313L" : {
+      "date" : "1438038541",
+      "temp" : "78.2366"
+    },
+    "-JvGlvL1BNpoNZ2tbl6A" : {
+      "date" : "1438038601",
+      "temp" : "78.2366"
+    },
+    "-JvGm8sYmkISbTiUeXlq" : {
+      "date" : "1438038661",
+      "temp" : "78.2366"
+    },
+    "-JvGmNeE-YOjizh8UWDI" : {
+      "date" : "1438038722",
+      "temp" : "78.35"
+    },
+    "-JvGmbBSAz4xPHrOS-Ae" : {
+      "date" : "1438038781",
+      "temp" : "78.35"
+    },
+    "-JvGmpyIXbdfBX82yLjV" : {
+      "date" : "1438038842",
+      "temp" : "78.35"
+    },
+    "-JvGn3VG4oz3f5dLrIG3" : {
+      "date" : "1438038901",
+      "temp" : "78.35"
+    },
+    "-JvGnIH94K4tevdG017Y" : {
+      "date" : "1438038962",
+      "temp" : "78.35"
+    },
+    "-JvGnWodviXATh8EOq9Q" : {
+      "date" : "1438039021",
+      "temp" : "78.4616"
+    },
+    "-JvGnkaWnyOwh4BRzraz" : {
+      "date" : "1438039082",
+      "temp" : "78.4616"
+    },
+    "-JvGnzrClZgDJZs1vz3T" : {
+      "date" : "1438039141",
+      "temp" : "78.4616"
+    },
+    "-JvGoCf9YT1aThqv-nJ-" : {
+      "date" : "1438039201",
+      "temp" : "78.4616"
+    },
+    "-JvGoRSAEuzxLLsSrzBZ" : {
+      "date" : "1438039261",
+      "temp" : "78.575"
+    },
+    "-JvGoeznktPFqZrwaTwC" : {
+      "date" : "1438039321",
+      "temp" : "78.575"
+    },
+    "-JvGotlbP1LWYapyF1VU" : {
+      "date" : "1438039381",
+      "temp" : "78.6866"
+    },
+    "-JvGp7JOuDfecCNIhSsN" : {
+      "date" : "1438039441",
+      "temp" : "78.6866"
+    },
+    "-JvGpM5abplz3rCq9PNR" : {
+      "date" : "1438039502",
+      "temp" : "78.6866"
+    },
+    "-JvGp_cx0jvlRowoh0DO" : {
+      "date" : "1438039561",
+      "temp" : "78.6866"
+    },
+    "-JvGpoPQYw2wYCPln8MN" : {
+      "date" : "1438039622",
+      "temp" : "78.6866"
+    },
+    "-JvGq1wTvBzJWRq24keJ" : {
+      "date" : "1438039681",
+      "temp" : "78.6866"
+    },
+    "-JvGqGiqkrptDTJ3Z42t" : {
+      "date" : "1438039742",
+      "temp" : "78.8"
+    },
+    "-JvGqVGB2Q9bpdEt6NPM" : {
+      "date" : "1438039801",
+      "temp" : "78.8"
+    },
+    "-JvGqinw82iHphUGpyJR" : {
+      "date" : "1438039861",
+      "temp" : "78.8"
+    },
+    "-JvGqxaAeo91JOr88Y-v" : {
+      "date" : "1438039921",
+      "temp" : "78.8"
+    },
+    "-JvGrB7ctEhbch0j-CiJ" : {
+      "date" : "1438039981",
+      "temp" : "78.8"
+    },
+    "-JvGrPu4WVo2MdpLTe1o" : {
+      "date" : "1438040041",
+      "temp" : "78.8"
+    },
+    "-JvGrdRkF2f_8oz0g9WB" : {
+      "date" : "1438040101",
+      "temp" : "78.9116"
+    },
+    "-JvGrsDAiCNQrSF32YgQ" : {
+      "date" : "1438040162",
+      "temp" : "78.9116"
+    },
+    "-JvGs5kBdfQ7h9UKBBmH" : {
+      "date" : "1438040221",
+      "temp" : "78.9116"
+    },
+    "-JvGsKWbCnEEufwFlkFB" : {
+      "date" : "1438040282",
+      "temp" : "78.9116"
+    },
+    "-JvGsZ2NM-GalqgTONtX" : {
+      "date" : "1438040341",
+      "temp" : "78.9116"
+    },
+    "-JvGsmpTbwWMaUIxb9Dh" : {
+      "date" : "1438040402",
+      "temp" : "78.9116"
+    },
+    "-JvGt0MuPNjAeUKQ3ZDe" : {
+      "date" : "1438040461",
+      "temp" : "78.9116"
+    },
+    "-JvGtF98o2WSPG8oAXXB" : {
+      "date" : "1438040522",
+      "temp" : "79.025"
+    },
+    "-JvGtTgDnHoMITrtogTO" : {
+      "date" : "1438040581",
+      "temp" : "79.025"
+    },
+    "-JvGthSxBtmpbSj_ZJmS" : {
+      "date" : "1438040642",
+      "temp" : "79.025"
+    },
+    "-JvGtw0LPPHIK8pi3HI0" : {
+      "date" : "1438040701",
+      "temp" : "79.025"
+    },
+    "-JvGu9YWOZbc1VO8DUQN" : {
+      "date" : "1438040761",
+      "temp" : "79.1366"
+    },
+    "-JvGuOKcBUIRXXekOKPa" : {
+      "date" : "1438040821",
+      "temp" : "79.1366"
+    },
+    "-JvGubsZTa0HJTPfKba4" : {
+      "date" : "1438040881",
+      "temp" : "79.1366"
+    },
+    "-JvGuqe-LfPHGn_3vAYh" : {
+      "date" : "1438040942",
+      "temp" : "79.1366"
+    },
+    "-JvGv4AsrfuHptpo41SB" : {
+      "date" : "1438041001",
+      "temp" : "79.1366"
+    },
+    "-JvGvJCRmYGf27e1a0VN" : {
+      "date" : "1438041062",
+      "temp" : "79.1366"
+    },
+    "-JvGvXVAqYL4rClLoPGf" : {
+      "date" : "1438041121",
+      "temp" : "79.1366"
+    },
+    "-JvGvlGc6PIBcI3gdF7a" : {
+      "date" : "1438041182",
+      "temp" : "79.25"
+    },
+    "-JvGvzoDa2Ur4Nuc0znr" : {
+      "date" : "1438041241",
+      "temp" : "79.25"
+    },
+    "-JvGwD_qJdHaprydTQgj" : {
+      "date" : "1438041302",
+      "temp" : "79.25"
+    },
+    "-JvGwS8i_6rKQRtPqdUk" : {
+      "date" : "1438041361",
+      "temp" : "79.25"
+    },
+    "-JvGwffqtc83xbHETEI5" : {
+      "date" : "1438041421",
+      "temp" : "79.25"
+    },
+    "-JvGwuhIRYbkwljhaL7e" : {
+      "date" : "1438041481",
+      "temp" : "79.25"
+    },
+    "-JvGx7zTUr24oxyjLYUh" : {
+      "date" : "1438041541",
+      "temp" : "79.3616"
+    },
+    "-JvGxMl-9IZdmadaLo2K" : {
+      "date" : "1438041601",
+      "temp" : "79.3616"
+    },
+    "-JvGxaMSmdEWSf6i-IHm" : {
+      "date" : "1438041661",
+      "temp" : "79.3616"
+    },
+    "-JvGxp7wQTvdLAUW0bLV" : {
+      "date" : "1438041721",
+      "temp" : "79.475"
+    },
+    "-JvGy2gU9ufbeNizSzDT" : {
+      "date" : "1438041781",
+      "temp" : "79.3616"
+    },
+    "-JvGyHDlCW3-ubG2gg9X" : {
+      "date" : "1438041841",
+      "temp" : "79.475"
+    },
+    "-JvGyW-pYMdUhPLmsV1v" : {
+      "date" : "1438041901",
+      "temp" : "79.475"
+    },
+    "-JvGyjYGLFBn_OUUtWGC" : {
+      "date" : "1438041961",
+      "temp" : "79.475"
+    },
+    "-JvGyyJq3OfV3uRgR9cK" : {
+      "date" : "1438042022",
+      "temp" : "79.475"
+    },
+    "-JvGzBqdt09WOI-kVPgd" : {
+      "date" : "1438042081",
+      "temp" : "79.475"
+    },
+    "-JvGzQbxxY-vawmwWv8v" : {
+      "date" : "1438042142",
+      "temp" : "79.475"
+    },
+    "-JvGze9fc-UkZDMuqBN2" : {
+      "date" : "1438042201",
+      "temp" : "79.475"
+    },
+    "-JvGzswitNYNUSmftml0" : {
+      "date" : "1438042262",
+      "temp" : "79.5866"
+    },
+    "-JvH-6UjIgEX7o9Yh4pA" : {
+      "date" : "1438042321",
+      "temp" : "79.5866"
+    },
+    "-JvH-LVm3IFmkoYOaUbY" : {
+      "date" : "1438042382",
+      "temp" : "79.5866"
+    },
+    "-JvH-ZnR1eaz6QFGJkoe" : {
+      "date" : "1438042441",
+      "temp" : "79.5866"
+    },
+    "-JvH-nL49gqXm2d4UgQ4" : {
+      "date" : "1438042501",
+      "temp" : "79.5866"
+    },
+    "-JvH02pmkCXSAAnXR_oW" : {
+      "date" : "1438042561",
+      "temp" : "79.7"
+    },
+    "-JvH0FekND37TH5dYyXb" : {
+      "date" : "1438042621",
+      "temp" : "79.7"
+    },
+    "-JvH0URTvwyTfXQqrHYG" : {
+      "date" : "1438042681",
+      "temp" : "79.7"
+    },
+    "-JvH0hytTntV5iTYpJBM" : {
+      "date" : "1438042741",
+      "temp" : "79.7"
+    },
+    "-JvH0wkZMjDtq4-8veAC" : {
+      "date" : "1438042802",
+      "temp" : "79.7"
+    },
+    "-JvH1AHfpnV783sGAnsh" : {
+      "date" : "1438042861",
+      "temp" : "79.7"
+    },
+    "-JvH1P2rkE7Z2NRBHoYm" : {
+      "date" : "1438042922",
+      "temp" : "79.8116"
+    },
+    "-JvH1c_ptm1aLn4ml7Xi" : {
+      "date" : "1438042981",
+      "temp" : "79.7"
+    },
+    "-JvH1rMSo1n9MCxUb3Jd" : {
+      "date" : "1438043042",
+      "temp" : "79.8116"
+    },
+    "-JvH24tUrpYvLkPYqpeD" : {
+      "date" : "1438043101",
+      "temp" : "79.8116"
+    },
+    "-JvH2JfC9tmUrj93F1l-" : {
+      "date" : "1438043162",
+      "temp" : "79.8116"
+    },
+    "-JvH2YCknGVhjhyJNcaV" : {
+      "date" : "1438043221",
+      "temp" : "79.8116"
+    },
+    "-JvH2mEhrmiLmdsacp6d" : {
+      "date" : "1438043282",
+      "temp" : "79.8116"
+    },
+    "-JvH3-Z2zEieucT09Hqd" : {
+      "date" : "1438043341",
+      "temp" : "79.8116"
+    },
+    "-JvH3E5KVHMeutfv8yr5" : {
+      "date" : "1438043401",
+      "temp" : "79.8116"
+    },
+    "-JvH3Ss94of6CBCKTIbO" : {
+      "date" : "1438043462",
+      "temp" : "79.925"
+    },
+    "-JvH3gPZTNyCaJkHvCP4" : {
+      "date" : "1438043521",
+      "temp" : "79.925"
+    },
+    "-JvH3vBMAagDlMmvvlNG" : {
+      "date" : "1438043582",
+      "temp" : "79.925"
+    },
+    "-JvH48iHjwnysGDN-ydO" : {
+      "date" : "1438043641",
+      "temp" : "79.925"
+    },
+    "-JvH4NVHTIV7LD__6KxF" : {
+      "date" : "1438043702",
+      "temp" : "80.0366"
+    },
+    "-JvH4b1ThyDgH8yzDA-7" : {
+      "date" : "1438043761",
+      "temp" : "80.0366"
+    },
+    "-JvH4poMeOyZSSBGWDwo" : {
+      "date" : "1438043822",
+      "temp" : "80.0366"
+    },
+    "-JvH53LrfRYB88-6xzOe" : {
+      "date" : "1438043881",
+      "temp" : "80.15"
+    },
+    "-JvH5HsfSRD1nmDGhumh" : {
+      "date" : "1438043941",
+      "temp" : "80.0366"
+    },
+    "-JvH5XOIWq4j3S4uQR8q" : {
+      "date" : "1438044001",
+      "temp" : "80.15"
+    },
+    "-JvH5kBQiS8c3JgZFyqn" : {
+      "date" : "1438044061",
+      "temp" : "80.15"
+    },
+    "-JvH5yzMgDF7o83BlWcd" : {
+      "date" : "1438044121",
+      "temp" : "80.15"
+    },
+    "-JvH6CWKUiv2gE1xWwwq" : {
+      "date" : "1438044181",
+      "temp" : "80.15"
+    },
+    "-JvH6RIoaOx1aXmUhcNG" : {
+      "date" : "1438044241",
+      "temp" : "80.15"
+    },
+    "-JvH6epu-MzIj_hd8e7M" : {
+      "date" : "1438044301",
+      "temp" : "80.15"
+    },
+    "-JvH6tccxx606J26DeYM" : {
+      "date" : "1438044362",
+      "temp" : "80.2616"
+    },
+    "-JvH77A8QLysct3AQtb3" : {
+      "date" : "1438044421",
+      "temp" : "80.2616"
+    },
+    "-JvH7Lxl3Ot4aMD8VaUw" : {
+      "date" : "1438044482",
+      "temp" : "80.2616"
+    },
+    "-JvH7_UlwFiU27S19Vk6" : {
+      "date" : "1438044541",
+      "temp" : "80.2616"
+    },
+    "-JvH7o1MgzejDndaApB0" : {
+      "date" : "1438044601",
+      "temp" : "80.2616"
+    },
+    "-JvH81o3GCLv0YctGm6q" : {
+      "date" : "1438044661",
+      "temp" : "80.2616"
+    },
+    "-JvH8GLNpFYECU4sb3sE" : {
+      "date" : "1438044721",
+      "temp" : "80.2616"
+    },
+    "-JvH8V7LhxCNNGJ61UyS" : {
+      "date" : "1438044781",
+      "temp" : "80.375"
+    },
+    "-JvH8iedmLCJ_VwDJ5GY" : {
+      "date" : "1438044841",
+      "temp" : "80.375"
+    },
+    "-JvH8xRSjl88XceX4ZL2" : {
+      "date" : "1438044902",
+      "temp" : "80.375"
+    },
+    "-JvH9BE9LAkgyfq2TBkx" : {
+      "date" : "1438044961",
+      "temp" : "80.375"
+    },
+    "-JvH9PlBQcLTtzzzNTSb" : {
+      "date" : "1438045022",
+      "temp" : "80.375"
+    },
+    "-JvH9dIP2IksmuHsOAIg" : {
+      "date" : "1438045081",
+      "temp" : "80.4866"
+    },
+    "-JvH9s5RQaITOTg_NnUZ" : {
+      "date" : "1438045142",
+      "temp" : "80.4866"
+    },
+    "-JvHAA9N4m5NtvocZxX_" : {
+      "date" : "1438045201",
+      "temp" : "80.4866"
+    },
+    "-JvHAKIqEGV2YhWLIVCf" : {
+      "date" : "1438045261",
+      "temp" : "80.4866"
+    },
+    "-JvHAYq0dTNz489YyPXv" : {
+      "date" : "1438045321",
+      "temp" : "80.4866"
+    },
+    "-JvHAmbhTJKmhxLhsSJ0" : {
+      "date" : "1438045381",
+      "temp" : "80.4866"
+    },
+    "-JvHB08vN9BVAJQOLH8-" : {
+      "date" : "1438045441",
+      "temp" : "80.6"
+    },
+    "-JvHBEvd5tc9mDRcRLjk" : {
+      "date" : "1438045502",
+      "temp" : "80.4866"
+    },
+    "-JvHBTSn-Qj12z4jJYcL" : {
+      "date" : "1438045561",
+      "temp" : "80.6"
+    },
+    "-JvHBhE9xY5n9EqY5Jd0" : {
+      "date" : "1438045622",
+      "temp" : "80.6"
+    },
+    "-JvHBvl-SGL5Q9yH5yZd" : {
+      "date" : "1438045681",
+      "temp" : "80.6"
+    },
+    "-JvHC9XyaZoXOdXyoT8J" : {
+      "date" : "1438045742",
+      "temp" : "80.6"
+    },
+    "-JvHCOo-evKkmD9vGpjr" : {
+      "date" : "1438045801",
+      "temp" : "80.6"
+    },
+    "-JvHCbqxmTJ1TmJxNEFN" : {
+      "date" : "1438045862",
+      "temp" : "80.7116"
+    },
+    "-JvHCqe1gcbuqixAMfuW" : {
+      "date" : "1438045921",
+      "temp" : "80.7116"
+    },
+    "-JvHD3wq4Zrf51jtGk72" : {
+      "date" : "1438045981",
+      "temp" : "80.7116"
+    },
+    "-JvHDIjpFK34bvwPMTUI" : {
+      "date" : "1438046041",
+      "temp" : "80.7116"
+    },
+    "-JvHDXGnwbBeEQAUJz-s" : {
+      "date" : "1438046101",
+      "temp" : "80.7116"
+    },
+    "-JvHDl3mRlD7C423duqR" : {
+      "date" : "1438046162",
+      "temp" : "80.7116"
+    },
+    "-JvHDzarIgaUz7OllE28" : {
+      "date" : "1438046221",
+      "temp" : "80.7116"
+    },
+    "-JvHEDNpAXf2kThE_p05" : {
+      "date" : "1438046282",
+      "temp" : "80.7116"
+    },
+    "-JvHERuvlAPKuOLhYZuf" : {
+      "date" : "1438046341",
+      "temp" : "80.7116"
+    },
+    "-JvHEfh0URHCeLuXBKgQ" : {
+      "date" : "1438046402",
+      "temp" : "80.825"
+    },
+    "-JvHEuEMWyAYBeJpwIyA" : {
+      "date" : "1438046461",
+      "temp" : "80.9366"
+    },
+    "-JvHF80VpcZ5iU85eAw_" : {
+      "date" : "1438046522",
+      "temp" : "80.9366"
+    },
+    "-JvHFMYXC4mGlYko4Bci" : {
+      "date" : "1438046581",
+      "temp" : "80.9366"
+    },
+    "-JvHFaKFfWhXffeTDWrS" : {
+      "date" : "1438046641",
+      "temp" : "80.9366"
+    },
+    "-JvHForfAaxCxxqR-gQv" : {
+      "date" : "1438046701",
+      "temp" : "80.9366"
+    },
+    "-JvHG2P23aabJxM8RHRh" : {
+      "date" : "1438046761",
+      "temp" : "80.9366"
+    },
+    "-JvHGHAq8SfbbZIKlnYf" : {
+      "date" : "1438046821",
+      "temp" : "81.05"
+    },
+    "-JvHGVi7FK1t3fp3r8Dz" : {
+      "date" : "1438046881",
+      "temp" : "81.05"
+    },
+    "-JvHGjjwNhC8JTpOJSdb" : {
+      "date" : "1438046942",
+      "temp" : "81.1616"
+    },
+    "-JvHGy1MIx_Bm2kNISmC" : {
+      "date" : "1438047001",
+      "temp" : "81.1616"
+    },
+    "-JvHHBnxBiYFFPIUlSqz" : {
+      "date" : "1438047062",
+      "temp" : "81.275"
+    },
+    "-JvHHQKr7J408KfVqWVS" : {
+      "date" : "1438047121",
+      "temp" : "81.275"
+    },
+    "-JvHHe7Vl-HXZQQXeQ3Q" : {
+      "date" : "1438047182",
+      "temp" : "81.275"
+    },
+    "-JvHHsfYTIlkmstTYLhL" : {
+      "date" : "1438047241",
+      "temp" : "81.275"
+    },
+    "-JvHI6Es1CV_uc25jdHO" : {
+      "date" : "1438047301",
+      "temp" : "81.275"
+    },
+    "-JvHILDEgUfX9vzsBxTq" : {
+      "date" : "1438047362",
+      "temp" : "81.3866"
+    },
+    "-JvHIZlWoOXxMzw0r798" : {
+      "date" : "1438047421",
+      "temp" : "81.3866"
+    },
+    "-JvHInIdiNF61yKV_1oT" : {
+      "date" : "1438047481",
+      "temp" : "81.3866"
+    },
+    "-JvHJ0qhYGx_nECu5cP1" : {
+      "date" : "1438047541",
+      "temp" : "81.3866"
+    },
+    "-JvHJFt_sTAc0xh0gtMm" : {
+      "date" : "1438047602",
+      "temp" : "81.3866"
+    },
+    "-JvHJUAoY5jhPkEX0pxJ" : {
+      "date" : "1438047661",
+      "temp" : "81.5"
+    },
+    "-JvHJhyAIeppKDdnm6ia" : {
+      "date" : "1438047722",
+      "temp" : "81.5"
+    },
+    "-JvHJwVNIOGwhSHVS5qq" : {
+      "date" : "1438047781",
+      "temp" : "81.5"
+    },
+    "-JvHKA2mItAQZd6f8GPE" : {
+      "date" : "1438047841",
+      "temp" : "81.5"
+    },
+    "-JvHKOqDfkctpBmCNWtW" : {
+      "date" : "1438047901",
+      "temp" : "81.5"
+    },
+    "-JvHKcOcjy3BUJdZJKbs" : {
+      "date" : "1438047961",
+      "temp" : "81.6116"
+    },
+    "-JvHKrAouPh974df66SL" : {
+      "date" : "1438048022",
+      "temp" : "81.6116"
+    },
+    "-JvHL4iK_qvLriXPMFuW" : {
+      "date" : "1438048081",
+      "temp" : "81.6116"
+    },
+    "-JvHLJVoaa8Wgyau6cJB" : {
+      "date" : "1438048142",
+      "temp" : "81.6116"
+    },
+    "-JvHLY1l5TZORWAHjA2V" : {
+      "date" : "1438048201",
+      "temp" : "81.725"
+    },
+    "-JvHLloQUhQBM3QHDUry" : {
+      "date" : "1438048262",
+      "temp" : "81.6116"
+    },
+    "-JvHM-Lh0Knlj007Yrbm" : {
+      "date" : "1438048321",
+      "temp" : "81.6116"
+    },
+    "-JvHMDsphch8IPv96p0K" : {
+      "date" : "1438048381",
+      "temp" : "81.725"
+    },
+    "-JvHMSePAiViflTChpiT" : {
+      "date" : "1438048441",
+      "temp" : "81.725"
+    },
+    "-JvHMgvBc8I1Oi5eW4Et" : {
+      "date" : "1438048501",
+      "temp" : "81.725"
+    },
+    "-JvHMuyLOkncOQUPhw5r" : {
+      "date" : "1438048561",
+      "temp" : "81.725"
+    },
+    "-JvHN8Vf1dewlePwoNkp" : {
+      "date" : "1438048621",
+      "temp" : "81.725"
+    },
+    "-JvHNNHaWx7fekBG85Ap" : {
+      "date" : "1438048682",
+      "temp" : "81.725"
+    },
+    "-JvHNat1cf4ebW8ih3E6" : {
+      "date" : "1438048741",
+      "temp" : "81.725"
+    },
+    "-JvHNpQAuZhTHME1TtPJ" : {
+      "date" : "1438048801",
+      "temp" : "81.8366"
+    },
+    "-JvHO3CL1F-wVrbP9FYM" : {
+      "date" : "1438048861",
+      "temp" : "81.8366"
+    },
+    "-JvHOHjw-Ef0_qr5XT8L" : {
+      "date" : "1438048921",
+      "temp" : "81.8366"
+    },
+    "-JvHOWYQ8UP2Qvy9ynrL" : {
+      "date" : "1438048982",
+      "temp" : "81.8366"
+    },
+    "-JvHOk5PH6in3Op1qY_6" : {
+      "date" : "1438049041",
+      "temp" : "81.8366"
+    },
+    "-JvHOz6ODhSSURcqHecy" : {
+      "date" : "1438049102",
+      "temp" : "81.8366"
+    },
+    "-JvHPCdWKONzUWd6aBVm" : {
+      "date" : "1438049161",
+      "temp" : "81.95"
+    },
+    "-JvHPRApMgQ0UQoyHASS" : {
+      "date" : "1438049222",
+      "temp" : "81.95"
+    },
+    "-JvHPehoTIf6ctEz5OZ0" : {
+      "date" : "1438049281",
+      "temp" : "81.95"
+    },
+    "-JvHPtUFDAj0A2l3X0fn" : {
+      "date" : "1438049342",
+      "temp" : "81.95"
+    },
+    "-JvHQ7-wXS01uj9Mu7B5" : {
+      "date" : "1438049401",
+      "temp" : "81.95"
+    },
+    "-JvHQLYMLaEOEbPHxJEV" : {
+      "date" : "1438049461",
+      "temp" : "81.95"
+    },
+    "-JvHQ_KHfQ1BjDnUrD1p" : {
+      "date" : "1438049521",
+      "temp" : "81.95"
+    },
+    "-JvHQnrcSyxFwioSRzU2" : {
+      "date" : "1438049581",
+      "temp" : "81.95"
+    },
+    "-JvHR1dUYhc0NS6Hsjni" : {
+      "date" : "1438049641",
+      "temp" : "81.8366"
+    },
+    "-JvHRGAg-13KAGKyLydM" : {
+      "date" : "1438049701",
+      "temp" : "81.95"
+    },
+    "-JvHRUxzR7LH31Edw2va" : {
+      "date" : "1438049762",
+      "temp" : "81.95"
+    },
+    "-JvHRiVIqU-LFs_eCBMd" : {
+      "date" : "1438049821",
+      "temp" : "81.8366"
+    },
+    "-JvHRxGaADlxHmnZkKOl" : {
+      "date" : "1438049882",
+      "temp" : "81.8366"
+    },
+    "-JvHSAnfbldH1k4ju4H2" : {
+      "date" : "1438049941",
+      "temp" : "81.95"
+    },
+    "-JvHSP_AfuF_B0f4EGAh" : {
+      "date" : "1438050002",
+      "temp" : "81.95"
+    },
+    "-JvHSd7Yi1NkToWdQY0m" : {
+      "date" : "1438050061",
+      "temp" : "81.95"
+    },
+    "-JvHSruPRpBdPyTAQ--d" : {
+      "date" : "1438050122",
+      "temp" : "81.95"
+    },
+    "-JvHT5RbEslbohkGxe1U" : {
+      "date" : "1438050181",
+      "temp" : "81.95"
+    },
+    "-JvHTJydeBgFzdRzXXCR" : {
+      "date" : "1438050241",
+      "temp" : "81.95"
+    },
+    "-JvHTYkURDaqLPacIWHc" : {
+      "date" : "1438050301",
+      "temp" : "81.95"
+    },
+    "-JvHTmHj4Rl8kheLDkhM" : {
+      "date" : "1438050361",
+      "temp" : "81.95"
+    },
+    "-JvHU03v4m6ptWQndA91" : {
+      "date" : "1438050421",
+      "temp" : "81.95"
+    },
+    "-JvHUEb-A1ZII5xQekvD" : {
+      "date" : "1438050481",
+      "temp" : "81.95"
+    },
+    "-JvHUTNxS00HuveS_dg-" : {
+      "date" : "1438050541",
+      "temp" : "81.95"
+    },
+    "-JvHUgvHtzY1Zhz5Jshc" : {
+      "date" : "1438050601",
+      "temp" : "81.95"
+    },
+    "-JvHUvxM9Klv1KrdRzDz" : {
+      "date" : "1438050662",
+      "temp" : "81.95"
+    },
+    "-JvHV9F14xy8OHISRE2s" : {
+      "date" : "1438050721",
+      "temp" : "81.95"
+    },
+    "-JvHVO2Hh8dpdLzmyR15" : {
+      "date" : "1438050782",
+      "temp" : "81.8366"
+    },
+    "-JvHVb_iCMaSVt7mNpYN" : {
+      "date" : "1438050841",
+      "temp" : "81.8366"
+    },
+    "-JvHVq6y2n-_pc48-eaF" : {
+      "date" : "1438050901",
+      "temp" : "81.6116"
+    },
+    "-JvHW3ufDqHuQghREI4w" : {
+      "date" : "1438050961",
+      "temp" : "81.3866"
+    },
+    "-JvHWIRjsuc3lgQC9syA" : {
+      "date" : "1438051021",
+      "temp" : "81.3866"
+    },
+    "-JvHWXDTiLmMWlnkY6s-" : {
+      "date" : "1438051081",
+      "temp" : "81.3866"
+    },
+    "-JvHWklbnhl2tFSiKQ2W" : {
+      "date" : "1438051141",
+      "temp" : "81.3866"
+    },
+    "-JvHWzY80Nvn9TcNO3tz" : {
+      "date" : "1438051202",
+      "temp" : "81.3866"
+    },
+    "-JvHXD4JWsJn9ZAQnZVq" : {
+      "date" : "1438051261",
+      "temp" : "81.1616"
+    },
+    "-JvHXS5dzbP-xZxHIgcJ" : {
+      "date" : "1438051322",
+      "temp" : "80.6"
+    },
+    "-JvHXfOPZDtzSTraBXz8" : {
+      "date" : "1438051381",
+      "temp" : "80.0366"
+    },
+    "-JvHXuAV9Iya91zoOGsK" : {
+      "date" : "1438051442",
+      "temp" : "79.3616"
+    },
+    "-JvHY7hYo2HUrNCYx4lr" : {
+      "date" : "1438051501",
+      "temp" : "78.9116"
+    },
+    "-JvHYMEfRSTmhOS69qOJ" : {
+      "date" : "1438051561",
+      "temp" : "78.4616"
+    },
+    "-JvHYa0ZEMWdWn6HzDsl" : {
+      "date" : "1438051621",
+      "temp" : "78.125"
+    },
+    "-JvHYoYbrrcZggW9GBgf" : {
+      "date" : "1438051681",
+      "temp" : "77.7866"
+    },
+    "-JvHZ2KeKukBjOOpJ3xl" : {
+      "date" : "1438051741",
+      "temp" : "77.5616"
+    },
+    "-JvHZH70csn5pSlZyQc6" : {
+      "date" : "1438051801",
+      "temp" : "77.3366"
+    },
+    "-JvHZVfd8wuArdwDE8qs" : {
+      "date" : "1438051862",
+      "temp" : "77.1116"
+    },
+    "-JvHZjCgKavyIXB3sPoM" : {
+      "date" : "1438051921",
+      "temp" : "77.0"
+    },
+    "-JvHZxzQ3Yfuis13ja8y" : {
+      "date" : "1438051982",
+      "temp" : "76.775"
+    },
+    "-JvH_BWS8-h1xrBS2SBw" : {
+      "date" : "1438052041",
+      "temp" : "76.6616"
+    },
+    "-JvH_QIeTGrq2AG_x-cz" : {
+      "date" : "1438052102",
+      "temp" : "76.55"
+    },
+    "-JvH_dpwW2kcF78Y1WSG" : {
+      "date" : "1438052161",
+      "temp" : "76.4366"
+    },
+    "-JvH_sc93djVXSLNxJi4" : {
+      "date" : "1438052221",
+      "temp" : "76.325"
+    },
+    "-JvHa69G8z9UeoENXavQ" : {
+      "date" : "1438052281",
+      "temp" : "76.2116"
+    },
+    "-JvHaKgghrf1ou_Zpt6_" : {
+      "date" : "1438052341",
+      "temp" : "76.1"
+    },
+    "-JvHaZTZEefLVtp4x6N8" : {
+      "date" : "1438052401",
+      "temp" : "75.9866"
+    },
+    "-JvHan-YmMQlZF0jB5Mx" : {
+      "date" : "1438052461",
+      "temp" : "75.875"
+    },
+    "-JvHb0m910cU9lSIGHNr" : {
+      "date" : "1438052521",
+      "temp" : "75.65"
+    },
+    "-JvHbFJVQWu_BUcTqyym" : {
+      "date" : "1438052581",
+      "temp" : "75.65"
+    },
+    "-JvHbU58cVp2ksNGZdrt" : {
+      "date" : "1438052642",
+      "temp" : "75.5366"
+    },
+    "-JvHbhcMM8IcZeHWafyF" : {
+      "date" : "1438052701",
+      "temp" : "75.5366"
+    },
+    "-JvHbwP4GQ_530Li5zYV" : {
+      "date" : "1438052762",
+      "temp" : "75.3116"
+    },
+    "-JvHc9w8cDNRnTtBLFIY" : {
+      "date" : "1438052821",
+      "temp" : "75.3116"
+    },
+    "-JvHcOjLFtV1qpjyxhM3" : {
+      "date" : "1438052882",
+      "temp" : "75.2"
+    },
+    "-JvHccGR8G_FSSEDVk3t" : {
+      "date" : "1438052941",
+      "temp" : "75.0866"
+    },
+    "-JvHcqp2lmbIWaLMC9ki" : {
+      "date" : "1438053001",
+      "temp" : "74.975"
+    },
+    "-JvHd4axs-g37kVeGuE6" : {
+      "date" : "1438053061",
+      "temp" : "74.8616"
+    },
+    "-JvHdJ88QNPUGhYcR1fE" : {
+      "date" : "1438053121",
+      "temp" : "74.8616"
+    },
+    "-JvHdXvIxqi5pOmE1krr" : {
+      "date" : "1438053182",
+      "temp" : "74.8616"
+    },
+    "-JvHdlW_2rKpEYM1ho_D" : {
+      "date" : "1438053241",
+      "temp" : "74.75"
+    },
+    "-JvHe-2krCUtF3wfvgP3" : {
+      "date" : "1438053301",
+      "temp" : "74.525"
+    },
+    "-JvHeDpcdgEtYmrEDcv_" : {
+      "date" : "1438053361",
+      "temp" : "74.4116"
+    },
+    "-JvHeSMs4CQPQzX1fZoZ" : {
+      "date" : "1438053421",
+      "temp" : "74.4116"
+    },
+    "-JvHegANJe9x88M561te" : {
+      "date" : "1438053481",
+      "temp" : "74.3"
+    },
+    "-JvHeuicOjoyCLzpjSpm" : {
+      "date" : "1438053541",
+      "temp" : "74.3"
+    },
+    "-JvHf8W1h-8IYU7buKvr" : {
+      "date" : "1438053602",
+      "temp" : "74.1866"
+    },
+    "-JvHfN2EiSA8QTeFBThZ" : {
+      "date" : "1438053661",
+      "temp" : "74.1866"
+    },
+    "-JvHfb3Iat9MxHPv1D2p" : {
+      "date" : "1438053722",
+      "temp" : "74.075"
+    },
+    "-JvHfpMAGa2Na1vh-Szd" : {
+      "date" : "1438053781",
+      "temp" : "73.9616"
+    },
+    "-JvHg2tIBuRdFaExXHGI" : {
+      "date" : "1438053841",
+      "temp" : "73.85"
+    },
+    "-JvHgHuoGB4Ifdh4lA3R" : {
+      "date" : "1438053901",
+      "temp" : "73.9616"
+    },
+    "-JvHgXfm25q_QPQDZfN2" : {
+      "date" : "1438053961",
+      "temp" : "73.85"
+    }
+  }
+}

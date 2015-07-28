@@ -1,2 +1,2 @@
-# Raspberry_Pi_Temperature
-Raspberry Pi Temperature Monitoring
+# Raspberry Pi Temperature Monitoring
+
